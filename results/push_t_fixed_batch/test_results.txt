@@ -1,0 +1,12 @@
+test_frozen_fixture_and_split (test_push_t_fixed_batch.FixedBatchTests.test_frozen_fixture_and_split) ... ok
+test_gap_geometry (test_push_t_fixed_batch.FixedBatchTests.test_gap_geometry) ... ok
+test_gpu_saved_costs_and_reference_regret (test_push_t_fixed_batch.FixedBatchTests.test_gpu_saved_costs_and_reference_regret) ... ok
+test_native_reference_against_direct_steps (test_push_t_fixed_batch.FixedBatchTests.test_native_reference_against_direct_steps) ... ok
+test_regrets_and_finite_reference (test_push_t_fixed_batch.FixedBatchTests.test_regrets_and_finite_reference) ... ok
+test_sensor_records_and_duration (test_push_t_fixed_batch.FixedBatchTests.test_sensor_records_and_duration) ... ok
+test_thread_count_and_stage_stitching (test_push_t_fixed_batch.FixedBatchTests.test_thread_count_and_stage_stitching) ... ok
+
+----------------------------------------------------------------------
+Ran 7 tests in 0.275s
+
+OK

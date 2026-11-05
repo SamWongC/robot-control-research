@@ -1,0 +1,16 @@
+{
+  "passed": true,
+  "stitch_checks": [
+    {
+      "dt": 0.0025,
+      "max_state_error": 0.0
+    },
+    {
+      "dt": 0.000625,
+      "max_state_error": 0.0
+    }
+  ],
+  "reference_costs_reproduced": true,
+  "matched_physics_steps": true,
+  "timing_count": 4608
+}

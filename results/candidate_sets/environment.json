@@ -1,0 +1,7 @@
+{
+  "python": "3.12.14 (main, Aug 25 2026, 14:01:42) [MSC v.1944 64 bit (AMD64)]",
+  "numpy": "2.3.5",
+  "matplotlib": "3.10.7",
+  "platform": "Windows-11-10.0.26300-SP0",
+  "frozen_rules_sha256": "ecf4395112f604993d215fcf3d036ab84ade0d13e699a5a800a54d2983959f63"
+}

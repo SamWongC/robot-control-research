@@ -1,0 +1,11 @@
+test_delay1_nominal_interval_and_common_sequence_impossibility (test_first_action_scan.FirstActionTests.test_delay1_nominal_interval_and_common_sequence_impossibility) ... ok
+test_generator_bounds_with_separate_unit_seed (test_first_action_scan.FirstActionTests.test_generator_bounds_with_separate_unit_seed) ... ok
+test_invariant_against_physical_rollout (test_first_action_scan.FirstActionTests.test_invariant_against_physical_rollout) ... ok
+test_no_reset_and_no_unsafe_preparation_scan (test_first_action_scan.FirstActionTests.test_no_reset_and_no_unsafe_preparation_scan) ... ok
+test_physical_and_robust_feasibility_are_distinct (test_first_action_scan.FirstActionTests.test_physical_and_robust_feasibility_are_distinct) ... ok
+test_separation_threshold_and_boundary_witness (test_first_action_scan.FirstActionTests.test_separation_threshold_and_boundary_witness) ... ok
+
+----------------------------------------------------------------------
+Ran 6 tests in 0.023s
+
+OK

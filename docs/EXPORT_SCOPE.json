@@ -1,0 +1,18 @@
+{
+  "source_scope": "Local research project; original files left unchanged",
+  "excluded_categories": [
+    "virtual environments",
+    "bytecode and GPU compilation caches",
+    "private thesis correspondence summaries",
+    "PDF presentation copy"
+  ],
+  "omitted_files": [
+    ".gitignore",
+    "report/INDEPENDENT_PAPER_NEXT_STEP_REVIEW_2026-11-05.md",
+    "report/RESEARCH_DIRECTION_BRIEF_EN.pdf",
+    "report/ROBOT_COMPANION_THESIS_BRIEF_EN.md",
+    "report/ROBOT_COMPANION_THESIS_REVIEW.md"
+  ],
+  "copied_file_count": 2020,
+  "copied_bytes": 164401580
+}

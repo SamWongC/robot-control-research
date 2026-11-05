@@ -1,0 +1,12 @@
+{
+  "pdf_pages": 2,
+  "pdf_sha256": "481131cbd5f499406b22191ea45c9484ad14655aaadb13764d858a9aeec6d8ee",
+  "decision": "Retain research assets; no-go for the current standalone RA-L manuscript; conditional contribution pivot.",
+  "new_experiments_run": false,
+  "source_code_sha256": "ae570596663fc3355bda31b3b5c5d9f64f28749a236175cdf21b983aadffbaf6",
+  "visual_review": {
+    "pages_inspected": 2,
+    "status": "passed",
+    "clipping_overlap_or_missing_glyphs": false
+  }
+}

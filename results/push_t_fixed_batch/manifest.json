@@ -1,0 +1,98 @@
+{
+  "seed": 2026110901,
+  "batches": 16,
+  "candidates": 64,
+  "stages": 20,
+  "stage_seconds": 0.05,
+  "horizon_seconds": 1.0,
+  "fine_step": 0.0025,
+  "coarse_step": 0.01,
+  "cpu_threads": 8,
+  "labels": [
+    {
+      "split": "development",
+      "family": "approach",
+      "repeat": 0
+    },
+    {
+      "split": "development",
+      "family": "approach",
+      "repeat": 1
+    },
+    {
+      "split": "development",
+      "family": "near_contact",
+      "repeat": 0
+    },
+    {
+      "split": "development",
+      "family": "near_contact",
+      "repeat": 1
+    },
+    {
+      "split": "development",
+      "family": "stem",
+      "repeat": 0
+    },
+    {
+      "split": "development",
+      "family": "stem",
+      "repeat": 1
+    },
+    {
+      "split": "development",
+      "family": "corner",
+      "repeat": 0
+    },
+    {
+      "split": "development",
+      "family": "corner",
+      "repeat": 1
+    },
+    {
+      "split": "test",
+      "family": "approach",
+      "repeat": 0
+    },
+    {
+      "split": "test",
+      "family": "approach",
+      "repeat": 1
+    },
+    {
+      "split": "test",
+      "family": "near_contact",
+      "repeat": 0
+    },
+    {
+      "split": "test",
+      "family": "near_contact",
+      "repeat": 1
+    },
+    {
+      "split": "test",
+      "family": "stem",
+      "repeat": 0
+    },
+    {
+      "split": "test",
+      "family": "stem",
+      "repeat": 1
+    },
+    {
+      "split": "test",
+      "family": "corner",
+      "repeat": 0
+    },
+    {
+      "split": "test",
+      "family": "corner",
+      "repeat": 1
+    }
+  ],
+  "source_sha256": "497290a8852f4dd278a8b05969c1f66c956db6028fd4e3955d6e7a09bc0ee640",
+  "fixture_sha256": "7b152e6a75f05c3d995536b18f38699b80ce09531a39b82613ecb1948b41d00f",
+  "model_sha256": "d8cbdded8f5b7717badabad4823870a67963f96c025fe5c582df0075d0837320",
+  "solver_warmstart": false,
+  "scope": "Constructed planar dynamics, no robot arm or floor contact: joint damping/friction approximate planar drag. No obstacles. Not exact Oxford/standard Push-T reproduction."
+}

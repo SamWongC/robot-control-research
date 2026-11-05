@@ -1,0 +1,977 @@
+{
+  "seed": 2026110402,
+  "labels": [
+    {
+      "split": "development",
+      "family": "grazing",
+      "repeat": 0
+    },
+    {
+      "split": "development",
+      "family": "grazing",
+      "repeat": 1
+    },
+    {
+      "split": "development",
+      "family": "grazing",
+      "repeat": 2
+    },
+    {
+      "split": "development",
+      "family": "grazing",
+      "repeat": 3
+    },
+    {
+      "split": "development",
+      "family": "grazing",
+      "repeat": 4
+    },
+    {
+      "split": "development",
+      "family": "grazing",
+      "repeat": 5
+    },
+    {
+      "split": "development",
+      "family": "grazing",
+      "repeat": 6
+    },
+    {
+      "split": "development",
+      "family": "grazing",
+      "repeat": 7
+    },
+    {
+      "split": "development",
+      "family": "grazing",
+      "repeat": 8
+    },
+    {
+      "split": "development",
+      "family": "grazing",
+      "repeat": 9
+    },
+    {
+      "split": "development",
+      "family": "grazing",
+      "repeat": 10
+    },
+    {
+      "split": "development",
+      "family": "grazing",
+      "repeat": 11
+    },
+    {
+      "split": "development",
+      "family": "grazing",
+      "repeat": 12
+    },
+    {
+      "split": "development",
+      "family": "grazing",
+      "repeat": 13
+    },
+    {
+      "split": "development",
+      "family": "grazing",
+      "repeat": 14
+    },
+    {
+      "split": "development",
+      "family": "grazing",
+      "repeat": 15
+    },
+    {
+      "split": "development",
+      "family": "grazing",
+      "repeat": 16
+    },
+    {
+      "split": "development",
+      "family": "grazing",
+      "repeat": 17
+    },
+    {
+      "split": "development",
+      "family": "grazing",
+      "repeat": 18
+    },
+    {
+      "split": "development",
+      "family": "grazing",
+      "repeat": 19
+    },
+    {
+      "split": "development",
+      "family": "grazing",
+      "repeat": 20
+    },
+    {
+      "split": "development",
+      "family": "grazing",
+      "repeat": 21
+    },
+    {
+      "split": "development",
+      "family": "grazing",
+      "repeat": 22
+    },
+    {
+      "split": "development",
+      "family": "grazing",
+      "repeat": 23
+    },
+    {
+      "split": "development",
+      "family": "reversal",
+      "repeat": 0
+    },
+    {
+      "split": "development",
+      "family": "reversal",
+      "repeat": 1
+    },
+    {
+      "split": "development",
+      "family": "reversal",
+      "repeat": 2
+    },
+    {
+      "split": "development",
+      "family": "reversal",
+      "repeat": 3
+    },
+    {
+      "split": "development",
+      "family": "reversal",
+      "repeat": 4
+    },
+    {
+      "split": "development",
+      "family": "reversal",
+      "repeat": 5
+    },
+    {
+      "split": "development",
+      "family": "reversal",
+      "repeat": 6
+    },
+    {
+      "split": "development",
+      "family": "reversal",
+      "repeat": 7
+    },
+    {
+      "split": "development",
+      "family": "reversal",
+      "repeat": 8
+    },
+    {
+      "split": "development",
+      "family": "reversal",
+      "repeat": 9
+    },
+    {
+      "split": "development",
+      "family": "reversal",
+      "repeat": 10
+    },
+    {
+      "split": "development",
+      "family": "reversal",
+      "repeat": 11
+    },
+    {
+      "split": "development",
+      "family": "reversal",
+      "repeat": 12
+    },
+    {
+      "split": "development",
+      "family": "reversal",
+      "repeat": 13
+    },
+    {
+      "split": "development",
+      "family": "reversal",
+      "repeat": 14
+    },
+    {
+      "split": "development",
+      "family": "reversal",
+      "repeat": 15
+    },
+    {
+      "split": "development",
+      "family": "reversal",
+      "repeat": 16
+    },
+    {
+      "split": "development",
+      "family": "reversal",
+      "repeat": 17
+    },
+    {
+      "split": "development",
+      "family": "reversal",
+      "repeat": 18
+    },
+    {
+      "split": "development",
+      "family": "reversal",
+      "repeat": 19
+    },
+    {
+      "split": "development",
+      "family": "reversal",
+      "repeat": 20
+    },
+    {
+      "split": "development",
+      "family": "reversal",
+      "repeat": 21
+    },
+    {
+      "split": "development",
+      "family": "reversal",
+      "repeat": 22
+    },
+    {
+      "split": "development",
+      "family": "reversal",
+      "repeat": 23
+    },
+    {
+      "split": "development",
+      "family": "near_duplicate",
+      "repeat": 0
+    },
+    {
+      "split": "development",
+      "family": "near_duplicate",
+      "repeat": 1
+    },
+    {
+      "split": "development",
+      "family": "near_duplicate",
+      "repeat": 2
+    },
+    {
+      "split": "development",
+      "family": "near_duplicate",
+      "repeat": 3
+    },
+    {
+      "split": "development",
+      "family": "near_duplicate",
+      "repeat": 4
+    },
+    {
+      "split": "development",
+      "family": "near_duplicate",
+      "repeat": 5
+    },
+    {
+      "split": "development",
+      "family": "near_duplicate",
+      "repeat": 6
+    },
+    {
+      "split": "development",
+      "family": "near_duplicate",
+      "repeat": 7
+    },
+    {
+      "split": "development",
+      "family": "near_duplicate",
+      "repeat": 8
+    },
+    {
+      "split": "development",
+      "family": "near_duplicate",
+      "repeat": 9
+    },
+    {
+      "split": "development",
+      "family": "near_duplicate",
+      "repeat": 10
+    },
+    {
+      "split": "development",
+      "family": "near_duplicate",
+      "repeat": 11
+    },
+    {
+      "split": "development",
+      "family": "near_duplicate",
+      "repeat": 12
+    },
+    {
+      "split": "development",
+      "family": "near_duplicate",
+      "repeat": 13
+    },
+    {
+      "split": "development",
+      "family": "near_duplicate",
+      "repeat": 14
+    },
+    {
+      "split": "development",
+      "family": "near_duplicate",
+      "repeat": 15
+    },
+    {
+      "split": "development",
+      "family": "near_duplicate",
+      "repeat": 16
+    },
+    {
+      "split": "development",
+      "family": "near_duplicate",
+      "repeat": 17
+    },
+    {
+      "split": "development",
+      "family": "near_duplicate",
+      "repeat": 18
+    },
+    {
+      "split": "development",
+      "family": "near_duplicate",
+      "repeat": 19
+    },
+    {
+      "split": "development",
+      "family": "near_duplicate",
+      "repeat": 20
+    },
+    {
+      "split": "development",
+      "family": "near_duplicate",
+      "repeat": 21
+    },
+    {
+      "split": "development",
+      "family": "near_duplicate",
+      "repeat": 22
+    },
+    {
+      "split": "development",
+      "family": "near_duplicate",
+      "repeat": 23
+    },
+    {
+      "split": "development",
+      "family": "fast_corner",
+      "repeat": 0
+    },
+    {
+      "split": "development",
+      "family": "fast_corner",
+      "repeat": 1
+    },
+    {
+      "split": "development",
+      "family": "fast_corner",
+      "repeat": 2
+    },
+    {
+      "split": "development",
+      "family": "fast_corner",
+      "repeat": 3
+    },
+    {
+      "split": "development",
+      "family": "fast_corner",
+      "repeat": 4
+    },
+    {
+      "split": "development",
+      "family": "fast_corner",
+      "repeat": 5
+    },
+    {
+      "split": "development",
+      "family": "fast_corner",
+      "repeat": 6
+    },
+    {
+      "split": "development",
+      "family": "fast_corner",
+      "repeat": 7
+    },
+    {
+      "split": "development",
+      "family": "fast_corner",
+      "repeat": 8
+    },
+    {
+      "split": "development",
+      "family": "fast_corner",
+      "repeat": 9
+    },
+    {
+      "split": "development",
+      "family": "fast_corner",
+      "repeat": 10
+    },
+    {
+      "split": "development",
+      "family": "fast_corner",
+      "repeat": 11
+    },
+    {
+      "split": "development",
+      "family": "fast_corner",
+      "repeat": 12
+    },
+    {
+      "split": "development",
+      "family": "fast_corner",
+      "repeat": 13
+    },
+    {
+      "split": "development",
+      "family": "fast_corner",
+      "repeat": 14
+    },
+    {
+      "split": "development",
+      "family": "fast_corner",
+      "repeat": 15
+    },
+    {
+      "split": "development",
+      "family": "fast_corner",
+      "repeat": 16
+    },
+    {
+      "split": "development",
+      "family": "fast_corner",
+      "repeat": 17
+    },
+    {
+      "split": "development",
+      "family": "fast_corner",
+      "repeat": 18
+    },
+    {
+      "split": "development",
+      "family": "fast_corner",
+      "repeat": 19
+    },
+    {
+      "split": "development",
+      "family": "fast_corner",
+      "repeat": 20
+    },
+    {
+      "split": "development",
+      "family": "fast_corner",
+      "repeat": 21
+    },
+    {
+      "split": "development",
+      "family": "fast_corner",
+      "repeat": 22
+    },
+    {
+      "split": "development",
+      "family": "fast_corner",
+      "repeat": 23
+    },
+    {
+      "split": "test",
+      "family": "grazing",
+      "repeat": 0
+    },
+    {
+      "split": "test",
+      "family": "grazing",
+      "repeat": 1
+    },
+    {
+      "split": "test",
+      "family": "grazing",
+      "repeat": 2
+    },
+    {
+      "split": "test",
+      "family": "grazing",
+      "repeat": 3
+    },
+    {
+      "split": "test",
+      "family": "grazing",
+      "repeat": 4
+    },
+    {
+      "split": "test",
+      "family": "grazing",
+      "repeat": 5
+    },
+    {
+      "split": "test",
+      "family": "grazing",
+      "repeat": 6
+    },
+    {
+      "split": "test",
+      "family": "grazing",
+      "repeat": 7
+    },
+    {
+      "split": "test",
+      "family": "grazing",
+      "repeat": 8
+    },
+    {
+      "split": "test",
+      "family": "grazing",
+      "repeat": 9
+    },
+    {
+      "split": "test",
+      "family": "grazing",
+      "repeat": 10
+    },
+    {
+      "split": "test",
+      "family": "grazing",
+      "repeat": 11
+    },
+    {
+      "split": "test",
+      "family": "grazing",
+      "repeat": 12
+    },
+    {
+      "split": "test",
+      "family": "grazing",
+      "repeat": 13
+    },
+    {
+      "split": "test",
+      "family": "grazing",
+      "repeat": 14
+    },
+    {
+      "split": "test",
+      "family": "grazing",
+      "repeat": 15
+    },
+    {
+      "split": "test",
+      "family": "grazing",
+      "repeat": 16
+    },
+    {
+      "split": "test",
+      "family": "grazing",
+      "repeat": 17
+    },
+    {
+      "split": "test",
+      "family": "grazing",
+      "repeat": 18
+    },
+    {
+      "split": "test",
+      "family": "grazing",
+      "repeat": 19
+    },
+    {
+      "split": "test",
+      "family": "grazing",
+      "repeat": 20
+    },
+    {
+      "split": "test",
+      "family": "grazing",
+      "repeat": 21
+    },
+    {
+      "split": "test",
+      "family": "grazing",
+      "repeat": 22
+    },
+    {
+      "split": "test",
+      "family": "grazing",
+      "repeat": 23
+    },
+    {
+      "split": "test",
+      "family": "reversal",
+      "repeat": 0
+    },
+    {
+      "split": "test",
+      "family": "reversal",
+      "repeat": 1
+    },
+    {
+      "split": "test",
+      "family": "reversal",
+      "repeat": 2
+    },
+    {
+      "split": "test",
+      "family": "reversal",
+      "repeat": 3
+    },
+    {
+      "split": "test",
+      "family": "reversal",
+      "repeat": 4
+    },
+    {
+      "split": "test",
+      "family": "reversal",
+      "repeat": 5
+    },
+    {
+      "split": "test",
+      "family": "reversal",
+      "repeat": 6
+    },
+    {
+      "split": "test",
+      "family": "reversal",
+      "repeat": 7
+    },
+    {
+      "split": "test",
+      "family": "reversal",
+      "repeat": 8
+    },
+    {
+      "split": "test",
+      "family": "reversal",
+      "repeat": 9
+    },
+    {
+      "split": "test",
+      "family": "reversal",
+      "repeat": 10
+    },
+    {
+      "split": "test",
+      "family": "reversal",
+      "repeat": 11
+    },
+    {
+      "split": "test",
+      "family": "reversal",
+      "repeat": 12
+    },
+    {
+      "split": "test",
+      "family": "reversal",
+      "repeat": 13
+    },
+    {
+      "split": "test",
+      "family": "reversal",
+      "repeat": 14
+    },
+    {
+      "split": "test",
+      "family": "reversal",
+      "repeat": 15
+    },
+    {
+      "split": "test",
+      "family": "reversal",
+      "repeat": 16
+    },
+    {
+      "split": "test",
+      "family": "reversal",
+      "repeat": 17
+    },
+    {
+      "split": "test",
+      "family": "reversal",
+      "repeat": 18
+    },
+    {
+      "split": "test",
+      "family": "reversal",
+      "repeat": 19
+    },
+    {
+      "split": "test",
+      "family": "reversal",
+      "repeat": 20
+    },
+    {
+      "split": "test",
+      "family": "reversal",
+      "repeat": 21
+    },
+    {
+      "split": "test",
+      "family": "reversal",
+      "repeat": 22
+    },
+    {
+      "split": "test",
+      "family": "reversal",
+      "repeat": 23
+    },
+    {
+      "split": "test",
+      "family": "near_duplicate",
+      "repeat": 0
+    },
+    {
+      "split": "test",
+      "family": "near_duplicate",
+      "repeat": 1
+    },
+    {
+      "split": "test",
+      "family": "near_duplicate",
+      "repeat": 2
+    },
+    {
+      "split": "test",
+      "family": "near_duplicate",
+      "repeat": 3
+    },
+    {
+      "split": "test",
+      "family": "near_duplicate",
+      "repeat": 4
+    },
+    {
+      "split": "test",
+      "family": "near_duplicate",
+      "repeat": 5
+    },
+    {
+      "split": "test",
+      "family": "near_duplicate",
+      "repeat": 6
+    },
+    {
+      "split": "test",
+      "family": "near_duplicate",
+      "repeat": 7
+    },
+    {
+      "split": "test",
+      "family": "near_duplicate",
+      "repeat": 8
+    },
+    {
+      "split": "test",
+      "family": "near_duplicate",
+      "repeat": 9
+    },
+    {
+      "split": "test",
+      "family": "near_duplicate",
+      "repeat": 10
+    },
+    {
+      "split": "test",
+      "family": "near_duplicate",
+      "repeat": 11
+    },
+    {
+      "split": "test",
+      "family": "near_duplicate",
+      "repeat": 12
+    },
+    {
+      "split": "test",
+      "family": "near_duplicate",
+      "repeat": 13
+    },
+    {
+      "split": "test",
+      "family": "near_duplicate",
+      "repeat": 14
+    },
+    {
+      "split": "test",
+      "family": "near_duplicate",
+      "repeat": 15
+    },
+    {
+      "split": "test",
+      "family": "near_duplicate",
+      "repeat": 16
+    },
+    {
+      "split": "test",
+      "family": "near_duplicate",
+      "repeat": 17
+    },
+    {
+      "split": "test",
+      "family": "near_duplicate",
+      "repeat": 18
+    },
+    {
+      "split": "test",
+      "family": "near_duplicate",
+      "repeat": 19
+    },
+    {
+      "split": "test",
+      "family": "near_duplicate",
+      "repeat": 20
+    },
+    {
+      "split": "test",
+      "family": "near_duplicate",
+      "repeat": 21
+    },
+    {
+      "split": "test",
+      "family": "near_duplicate",
+      "repeat": 22
+    },
+    {
+      "split": "test",
+      "family": "near_duplicate",
+      "repeat": 23
+    },
+    {
+      "split": "test",
+      "family": "fast_corner",
+      "repeat": 0
+    },
+    {
+      "split": "test",
+      "family": "fast_corner",
+      "repeat": 1
+    },
+    {
+      "split": "test",
+      "family": "fast_corner",
+      "repeat": 2
+    },
+    {
+      "split": "test",
+      "family": "fast_corner",
+      "repeat": 3
+    },
+    {
+      "split": "test",
+      "family": "fast_corner",
+      "repeat": 4
+    },
+    {
+      "split": "test",
+      "family": "fast_corner",
+      "repeat": 5
+    },
+    {
+      "split": "test",
+      "family": "fast_corner",
+      "repeat": 6
+    },
+    {
+      "split": "test",
+      "family": "fast_corner",
+      "repeat": 7
+    },
+    {
+      "split": "test",
+      "family": "fast_corner",
+      "repeat": 8
+    },
+    {
+      "split": "test",
+      "family": "fast_corner",
+      "repeat": 9
+    },
+    {
+      "split": "test",
+      "family": "fast_corner",
+      "repeat": 10
+    },
+    {
+      "split": "test",
+      "family": "fast_corner",
+      "repeat": 11
+    },
+    {
+      "split": "test",
+      "family": "fast_corner",
+      "repeat": 12
+    },
+    {
+      "split": "test",
+      "family": "fast_corner",
+      "repeat": 13
+    },
+    {
+      "split": "test",
+      "family": "fast_corner",
+      "repeat": 14
+    },
+    {
+      "split": "test",
+      "family": "fast_corner",
+      "repeat": 15
+    },
+    {
+      "split": "test",
+      "family": "fast_corner",
+      "repeat": 16
+    },
+    {
+      "split": "test",
+      "family": "fast_corner",
+      "repeat": 17
+    },
+    {
+      "split": "test",
+      "family": "fast_corner",
+      "repeat": 18
+    },
+    {
+      "split": "test",
+      "family": "fast_corner",
+      "repeat": 19
+    },
+    {
+      "split": "test",
+      "family": "fast_corner",
+      "repeat": 20
+    },
+    {
+      "split": "test",
+      "family": "fast_corner",
+      "repeat": 21
+    },
+    {
+      "split": "test",
+      "family": "fast_corner",
+      "repeat": 22
+    },
+    {
+      "split": "test",
+      "family": "fast_corner",
+      "repeat": 23
+    }
+  ],
+  "base_source_sha256": "497290a8852f4dd278a8b05969c1f66c956db6028fd4e3955d6e7a09bc0ee640",
+  "source_sha256": "1185ef95624aaa6918e9d032d477a32f33c0289ccf4ee96919f9cc2b5b1974c0",
+  "fixture_sha256": "0d44c2360e8353574fbf02667fb0fd8d17fe21ec60b2bd46c947b497ca881146",
+  "detector": "margin threshold calibrated on development misses only; medium winner outside coarse top8; no test tuning",
+  "meaningful_regret": 0.0001,
+  "steps": [
+    0.01,
+    0.005,
+    0.0025,
+    0.00125
+  ],
+  "scope": "Same simplified model; independent states/actions; no obstacles or hardware"
+}

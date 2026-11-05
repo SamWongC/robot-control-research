@@ -1,0 +1,74 @@
+[
+  {
+    "cell": "n2_ep02000",
+    "scope": "zero",
+    "episodes": 128,
+    "success_count": 128,
+    "max_position_error_m": 0.0001255197011566381,
+    "max_velocity_error_m_s": 0.0018407658338815691
+  },
+  {
+    "cell": "n2_ep02000",
+    "scope": "perturbed",
+    "episodes": 128,
+    "success_count": 128,
+    "max_position_error_m": 0.00012119671442951106,
+    "max_velocity_error_m_s": 0.0019417417689787664
+  },
+  {
+    "cell": "n2_ep02000",
+    "scope": "support_optimizer",
+    "episodes": 20,
+    "success_count": 20,
+    "max_position_error_m": 0.00016935622317742973,
+    "max_velocity_error_m_s": 0.0025403433465839703
+  },
+  {
+    "cell": "n1_ep03000",
+    "scope": "zero",
+    "episodes": 128,
+    "success_count": 128,
+    "max_position_error_m": 0.00025129012874548296,
+    "max_velocity_error_m_s": 0.002258080357021422
+  },
+  {
+    "cell": "n1_ep03000",
+    "scope": "perturbed",
+    "episodes": 128,
+    "success_count": 128,
+    "max_position_error_m": 0.0002627033000428495,
+    "max_velocity_error_m_s": 0.0022681445721939725
+  },
+  {
+    "cell": "n1_ep03000",
+    "scope": "support_optimizer",
+    "episodes": 14,
+    "success_count": 14,
+    "max_position_error_m": 0.0002979999999990603,
+    "max_velocity_error_m_s": 0.0029800000000844568
+  },
+  {
+    "cell": "n4_ep02000",
+    "scope": "zero",
+    "episodes": 128,
+    "success_count": 128,
+    "max_position_error_m": 0.00011463906813791863,
+    "max_velocity_error_m_s": 0.0014018845727771512
+  },
+  {
+    "cell": "n4_ep02000",
+    "scope": "perturbed",
+    "episodes": 128,
+    "success_count": 128,
+    "max_position_error_m": 0.00011713471594169923,
+    "max_velocity_error_m_s": 0.0016117068730479994
+  },
+  {
+    "cell": "n4_ep02000",
+    "scope": "support_optimizer",
+    "episodes": 32,
+    "success_count": 32,
+    "max_position_error_m": 0.00015397849462619431,
+    "max_velocity_error_m_s": 0.002309677419445641
+  }
+]

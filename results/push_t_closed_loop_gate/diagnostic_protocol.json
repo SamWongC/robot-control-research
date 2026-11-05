@@ -1,0 +1,25 @@
+{
+  "all_disagreement_ids": [
+    47,
+    65,
+    68,
+    70,
+    71,
+    73,
+    77,
+    78,
+    79
+  ],
+  "selected_ids": [
+    47,
+    65,
+    68,
+    70,
+    71,
+    73,
+    77,
+    78
+  ],
+  "rule": "first eight IDs with any success disagreement; all four methods at half execution timestep",
+  "scope": "post-hoc sensitivity, not independent validation"
+}

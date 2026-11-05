@@ -1,0 +1,154 @@
+{
+  "gate": {
+    "passed": true,
+    "successes": 13,
+    "total": 16
+  },
+  "sensitivity": [
+    {
+      "case": 0,
+      "base_success": true,
+      "halfstep_success": true,
+      "base_error": 0.0004375703951655872,
+      "halfstep_error": 0.00042822109656379153,
+      "base_duration": 1.5,
+      "halfstep_duration": 1.5
+    },
+    {
+      "case": 12,
+      "base_success": false,
+      "halfstep_success": false,
+      "base_error": 0.049651144434766044,
+      "halfstep_error": 0.0952698952773139,
+      "base_duration": 10.0,
+      "halfstep_duration": 10.0
+    },
+    {
+      "case": 4,
+      "base_success": true,
+      "halfstep_success": true,
+      "base_error": 0.00042245645496450176,
+      "halfstep_error": 0.00044512921191478514,
+      "base_duration": 1.4500000000000002,
+      "halfstep_duration": 1.4500000000000002
+    },
+    {
+      "case": 8,
+      "base_success": true,
+      "halfstep_success": true,
+      "base_error": 0.0007141276123898419,
+      "halfstep_error": 0.0036044632611172216,
+      "base_duration": 1.9000000000000001,
+      "halfstep_duration": 1.6500000000000001
+    }
+  ],
+  "methods": [
+    {
+      "method": "low",
+      "n": 64,
+      "success": 57,
+      "escapes": 0,
+      "mean_final_error_m": 0.00925946900382283,
+      "mean_duration_capped_s": 3.328125,
+      "p50_ms": 14.937950007151812,
+      "p95_ms": 18.756344978464767,
+      "p99_ms": 20.752725998172533,
+      "over50_fraction": 0.0,
+      "family_success": {
+        "approach": 16,
+        "near_contact": 16,
+        "stem": 16,
+        "corner": 9
+      }
+    },
+    {
+      "method": "medium",
+      "n": 64,
+      "success": 55,
+      "escapes": 0,
+      "mean_final_error_m": 0.010277593250768997,
+      "mean_duration_capped_s": 3.41015625,
+      "p50_ms": 28.530800016596913,
+      "p95_ms": 36.08947996981442,
+      "p99_ms": 41.74743204377587,
+      "over50_fraction": 0.0025200458190148913,
+      "family_success": {
+        "approach": 16,
+        "near_contact": 15,
+        "stem": 16,
+        "corner": 8
+      }
+    },
+    {
+      "method": "high",
+      "n": 64,
+      "success": 54,
+      "escapes": 0,
+      "mean_final_error_m": 0.011947075210335105,
+      "mean_duration_capped_s": 3.3515625,
+      "p50_ms": 56.30434997146949,
+      "p95_ms": 73.03120503202081,
+      "p99_ms": 93.99943893658914,
+      "over50_fraction": 0.8613053613053613,
+      "family_success": {
+        "approach": 16,
+        "near_contact": 16,
+        "stem": 16,
+        "corner": 6
+      }
+    },
+    {
+      "method": "top32",
+      "n": 64,
+      "success": 55,
+      "escapes": 0,
+      "mean_final_error_m": 0.009015419147866438,
+      "mean_duration_capped_s": 3.3203125,
+      "p50_ms": 28.66804995574057,
+      "p95_ms": 40.397559985285625,
+      "p99_ms": 44.14249702938833,
+      "over50_fraction": 0.0021176470588235292,
+      "family_success": {
+        "approach": 16,
+        "near_contact": 16,
+        "stem": 16,
+        "corner": 7
+      }
+    }
+  ],
+  "paired": [
+    {
+      "method": "low",
+      "only_method_success": 4,
+      "only_high_success": 1,
+      "success_difference": 0.046875,
+      "stratified_paired_bootstrap_95": [
+        -0.015625,
+        0.109375
+      ],
+      "different_first_action": 1
+    },
+    {
+      "method": "medium",
+      "only_method_success": 3,
+      "only_high_success": 2,
+      "success_difference": 0.015625,
+      "stratified_paired_bootstrap_95": [
+        -0.046875,
+        0.078125
+      ],
+      "different_first_action": 1
+    },
+    {
+      "method": "top32",
+      "only_method_success": 1,
+      "only_high_success": 0,
+      "success_difference": 0.015625,
+      "stratified_paired_bootstrap_95": [
+        0.0,
+        0.046875
+      ],
+      "different_first_action": 0
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "results\\push_t_confirmation\\audit.json": "ebc055aea06ebe1146db86d7305adf07801e7d231e5f733551d8de3ef2eb50a4",
+  "results\\push_t_confirmation\\costs.npz": "c7cfac3b3e4c219635313b8cc5745b055068479fe12384b7275ac13777acd22c",
+  "results\\push_t_confirmation\\decision.md": "cfaaa4928be18873e85a15b5b6c52fb09e53be2c9569e3d2132b1016a98d49e7",
+  "results\\push_t_confirmation\\decision_EN.md": "eca2cc3c542a8f0e2eac6bd49e0740b072cb15b4346b4390531263ec9869990a",
+  "results\\push_t_confirmation\\failures.json": "207d928b443eb83eed6909ad8281910f2cfa646df4ff57aa63a224b36bee0209",
+  "results\\push_t_confirmation\\fixture.npz": "0a01f837dc1c6d948812652739c8fd24a8b0a37d36f44814f085829361a50d67",
+  "results\\push_t_confirmation\\frozen_generator.py.txt": "785aa4a86ebad12e71db9d9a23ea6f1c24bfdb1d716119191736e702de12140a",
+  "results\\push_t_confirmation\\protocol.json": "73ddfbf4a49f080041d6bf65f61fc02eb773c2485ced298966a2bc43fb064c16",
+  "results\\push_t_confirmation\\quality.json": "4c661e9d327a9137e9166d1ca9978409d08780285ec2f0da3725f30f5375db9e",
+  "results\\push_t_confirmation\\summary.json": "ae6b3496714261655fc7426d36ee163f627b1ee72b063502a77133d63318d7b6",
+  "results\\push_t_confirmation\\timings.json": "170318dd0021a55731f4ce688aecff5b7ef5705c2cd0889fbdc6b95b5244a4f4",
+  "push_t_confirmation.py": "72a262d2415a7ea0957c6d8191050579f71aefdcb87e8cd304682439e4e973cc",
+  "finalize_push_t_confirmation.py": "f8d9b9d97abbc39e5a8a13449b3bdd3db8a713aca5a8a270008c1115647b0da3",
+  "report\\PUSH_T_CONFIRMATION_REPORT.md": "7ad2c44e4eedcf2367bfcd644ad3523bc7518a15c76af208a9b5ba459d14ae8d",
+  "report\\PUSH_T_CONFIRMATION_REPORT_EN.md": "666524bbb92cfe0358954d6957ebcb27b53095dddefa09d5d3f1c5fcb67d78e0"
+}

@@ -1,0 +1,62 @@
+N=0, ep=0.0002: proved_obstruction
+N=0, ep=0.000225: proved_obstruction
+N=0, ep=0.0002375: proved_obstruction
+N=0, ep=0.00025: proved_obstruction
+N=0, ep=0.0003: proved_obstruction
+N=0, ep=0.0004: proved_obstruction
+N=0, ep=0.0006: proved_obstruction
+N=0, ep=0.001: proved_obstruction
+N=1, ep=0.0002: proved_obstruction
+N=1, ep=0.000225: proved_obstruction
+N=1, ep=0.0002375: unresolved
+N=1, ep=0.00025: unresolved
+N=1, ep=0.0003: certified_policy
+N=1, ep=0.0004: certified_policy
+N=1, ep=0.0006: certified_policy
+N=1, ep=0.001: certified_policy
+N=2, ep=0.0002: certified_policy
+N=2, ep=0.000225: certified_policy
+N=2, ep=0.0002375: certified_policy
+N=2, ep=0.00025: certified_policy
+N=2, ep=0.0003: certified_policy
+N=2, ep=0.0004: certified_policy
+N=2, ep=0.0006: certified_policy
+N=2, ep=0.001: certified_policy
+N=3, ep=0.0002: certified_policy
+N=3, ep=0.000225: certified_policy
+N=3, ep=0.0002375: certified_policy
+N=3, ep=0.00025: certified_policy
+N=3, ep=0.0003: certified_policy
+N=3, ep=0.0004: certified_policy
+N=3, ep=0.0006: certified_policy
+N=3, ep=0.001: certified_policy
+N=4, ep=0.0002: certified_policy
+N=4, ep=0.000225: certified_policy
+N=4, ep=0.0002375: certified_policy
+N=4, ep=0.00025: certified_policy
+N=4, ep=0.0003: certified_policy
+N=4, ep=0.0004: certified_policy
+N=4, ep=0.0006: certified_policy
+N=4, ep=0.001: certified_policy
+C:\codex-workspace\RA-L\causal_preview_certificate.py:102: UserWarning: Solution may be inaccurate. Try another solver, adjusting the solver settings, or solve with verbose=True for more information.
+  try:problem.solve(solver='CLARABEL',tol_gap_abs=1e-9,tol_gap_rel=1e-9,tol_feas=1e-9,max_iter=300)
+N=8, ep=0.0002: certified_policy
+N=8, ep=0.000225: certified_policy
+N=8, ep=0.0002375: certified_policy
+N=8, ep=0.00025: certified_policy
+N=8, ep=0.0003: certified_policy
+N=8, ep=0.0004: certified_policy
+N=8, ep=0.0006: certified_policy
+N=8, ep=0.001: certified_policy
+{
+  "validation_cells": [
+    "n2_ep02000",
+    "n1_ep03000",
+    "n4_ep02000"
+  ],
+  "classifications": {
+    "proved_obstruction": 10,
+    "certified_policy": 36,
+    "unresolved": 2
+  }
+}

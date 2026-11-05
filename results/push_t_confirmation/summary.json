@@ -1,0 +1,96 @@
+{
+  "methods": [
+    {
+      "method": "fine",
+      "losses": 0,
+      "max_regret": 0.0,
+      "mean_regret": 0.0,
+      "audit_output_losses": 27,
+      "audit_set_losses": 0,
+      "p95_ms": 13.859854987822473,
+      "family_losses": {
+        "grazing": 0,
+        "reversal": 0,
+        "near_duplicate": 0,
+        "fast_corner": 0
+      }
+    },
+    {
+      "method": "top8",
+      "losses": 5,
+      "max_regret": 0.3009426802927089,
+      "mean_regret": 0.002548899944309289,
+      "audit_output_losses": 30,
+      "audit_set_losses": 8,
+      "p95_ms": 6.388625060208142,
+      "family_losses": {
+        "grazing": 1,
+        "reversal": 2,
+        "near_duplicate": 1,
+        "fast_corner": 1
+      }
+    },
+    {
+      "method": "top16",
+      "losses": 1,
+      "max_regret": 0.02048235969895118,
+      "mean_regret": 8.000921757402805e-05,
+      "audit_output_losses": 28,
+      "audit_set_losses": 3,
+      "p95_ms": 8.068085083505139,
+      "family_losses": {
+        "grazing": 1,
+        "reversal": 0,
+        "near_duplicate": 0,
+        "fast_corner": 0
+      }
+    },
+    {
+      "method": "top32",
+      "losses": 0,
+      "max_regret": 0.0,
+      "mean_regret": 0.0,
+      "audit_output_losses": 27,
+      "audit_set_losses": 1,
+      "p95_ms": 11.298790044384077,
+      "family_losses": {
+        "grazing": 0,
+        "reversal": 0,
+        "near_duplicate": 0,
+        "fast_corner": 0
+      }
+    },
+    {
+      "method": "hybrid16",
+      "losses": 4,
+      "max_regret": 0.18275643563420263,
+      "mean_regret": 0.001373342599415895,
+      "audit_output_losses": 29,
+      "audit_set_losses": 5,
+      "p95_ms": 8.438949921401218,
+      "family_losses": {
+        "grazing": 1,
+        "reversal": 1,
+        "near_duplicate": 1,
+        "fast_corner": 1
+      }
+    },
+    {
+      "method": "hybrid32",
+      "losses": 1,
+      "max_regret": 0.02048235969895118,
+      "mean_regret": 8.000921757402805e-05,
+      "audit_output_losses": 28,
+      "audit_set_losses": 2,
+      "p95_ms": 12.678264954593033,
+      "family_losses": {
+        "grazing": 1,
+        "reversal": 0,
+        "near_duplicate": 0,
+        "fast_corner": 0
+      }
+    }
+  ],
+  "reference_winner_changes": 27,
+  "zero_loss_one_sided_95_upper": 0.011633876163163248
+}

@@ -1,0 +1,8 @@
+{
+  "certificates_independently_rechecked": 36,
+  "episodes_audited": 834,
+  "transitions_audited": 3642,
+  "max_scalar_residual": 8.673617379884035e-19,
+  "max_control_residual": 0.0
+}
+Saved bilingual proposition, scope-aware map and audited policy reports.

@@ -1,0 +1,130 @@
+{
+  "source_sha256": "a4eb65cda1f0b734c414ad7ada68529729eff482c0cf5c9ec65556d250b03c38",
+  "config_sha256": "ed6a9fefa2da75fff23fe88349408906467d622fcd9cab83b6ecb8f42533868e",
+  "development_episodes_sha256": "64c2aab62d3285d94c94fb4b7081888e34a1be3657f7cfd06aa00564880a7249",
+  "scores": [
+    {
+      "variant": {
+        "name": "legacy",
+        "family": "legacy"
+      },
+      "success_count": 240,
+      "episodes": 370,
+      "mean_prep_energy": 0.002816083986376859
+    },
+    {
+      "variant": {
+        "name": "lex_energy",
+        "family": "energy"
+      },
+      "success_count": 237,
+      "episodes": 370,
+      "mean_prep_energy": 0.0028156694645817388
+    },
+    {
+      "variant": {
+        "name": "track_0.01",
+        "family": "tracking",
+        "weight": 0.01
+      },
+      "success_count": 257,
+      "episodes": 370,
+      "mean_prep_energy": 0.016221179382449925
+    },
+    {
+      "variant": {
+        "name": "track_0.1",
+        "family": "tracking",
+        "weight": 0.1
+      },
+      "success_count": 257,
+      "episodes": 370,
+      "mean_prep_energy": 0.016185005995826198
+    },
+    {
+      "variant": {
+        "name": "track_1",
+        "family": "tracking",
+        "weight": 1.0
+      },
+      "success_count": 257,
+      "episodes": 370,
+      "mean_prep_energy": 0.016180599036928898
+    },
+    {
+      "variant": {
+        "name": "progress_0.25",
+        "family": "progress",
+        "band": 0.25,
+        "weight": 0.1
+      },
+      "success_count": 256,
+      "episodes": 370,
+      "mean_prep_energy": 0.013756253434110063
+    },
+    {
+      "variant": {
+        "name": "progress_0.5",
+        "family": "progress",
+        "band": 0.5,
+        "weight": 0.1
+      },
+      "success_count": 256,
+      "episodes": 370,
+      "mean_prep_energy": 0.009386342839511987
+    },
+    {
+      "variant": {
+        "name": "progress_1",
+        "family": "progress",
+        "band": 1.0,
+        "weight": 0.1
+      },
+      "success_count": 240,
+      "episodes": 370,
+      "mean_prep_energy": 0.002849090536610329
+    }
+  ],
+  "selected": [
+    {
+      "variant": {
+        "name": "legacy",
+        "family": "legacy"
+      },
+      "success_count": 240,
+      "episodes": 370,
+      "mean_prep_energy": 0.002816083986376859
+    },
+    {
+      "variant": {
+        "name": "lex_energy",
+        "family": "energy"
+      },
+      "success_count": 237,
+      "episodes": 370,
+      "mean_prep_energy": 0.0028156694645817388
+    },
+    {
+      "variant": {
+        "name": "track_1",
+        "family": "tracking",
+        "weight": 1.0
+      },
+      "success_count": 257,
+      "episodes": 370,
+      "mean_prep_energy": 0.016180599036928898
+    },
+    {
+      "variant": {
+        "name": "progress_0.5",
+        "family": "progress",
+        "band": 0.5,
+        "weight": 0.1
+      },
+      "success_count": 256,
+      "episodes": 370,
+      "mean_prep_energy": 0.009386342839511987
+    }
+  ],
+  "test_not_generated_at_selection": true
+}

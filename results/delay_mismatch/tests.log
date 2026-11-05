@@ -1,0 +1,21 @@
+test_lifted_predictions_match_stepwise_model (test_delay_mismatch.ConstrainedTests.test_lifted_predictions_match_stepwise_model) ... ok
+test_qp_against_independent_coordinate_solver_and_clipping (test_delay_mismatch.ConstrainedTests.test_qp_against_independent_coordinate_solver_and_clipping) ... ok
+test_rollout_input_bounds_and_actual_fixed_delay (test_delay_mismatch.ConstrainedTests.test_rollout_input_bounds_and_actual_fixed_delay) ... ok
+test_unconstrained_optimum_when_bounds_inactive (test_delay_mismatch.ConstrainedTests.test_unconstrained_optimum_when_bounds_inactive) ... ok
+test_augmented_model_matches_physical_queue (test_experiment.ExperimentTests.test_augmented_model_matches_physical_queue) ... ok
+test_determinism_and_known_delay_convergence (test_experiment.ExperimentTests.test_determinism_and_known_delay_convergence) ... ok
+test_fixed_delay_impulse (test_experiment.ExperimentTests.test_fixed_delay_impulse) ... ok
+test_invalid_delay (test_experiment.ExperimentTests.test_invalid_delay) ... ok
+test_zero_delay (test_experiment.ExperimentTests.test_zero_delay) ... ok
+
+----------------------------------------------------------------------
+Ran 9 tests in 0.072s
+
+OK
+Polishing not needed - no active set detected at optimal point
+Polishing not needed - no active set detected at optimal point
+Polishing not needed - no active set detected at optimal point
+Polishing not needed - no active set detected at optimal point
+Polishing not needed - no active set detected at optimal point
+Polishing not needed - no active set detected at optimal point
+Polishing not needed - no active set detected at optimal point

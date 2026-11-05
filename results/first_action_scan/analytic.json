@@ -1,0 +1,33 @@
+{
+  "uniform_observation_overlap": {
+    "max_overlapping_positive_action": 0.048,
+    "witness": [
+      0.048,
+      -1e-05,
+      -0.0001,
+      -1e-05,
+      0.0001,
+      -0.02,
+      0.02,
+      3.0000000000000004e-05,
+      0.0012000000000000001
+    ],
+    "max_constraint_residual": 2.574980159653073e-19
+  },
+  "discrimination_threshold": 0.048,
+  "nominal_known_delay_intervals": {
+    "0": [
+      -1.055,
+      0.5700000000000001
+    ],
+    "1": [
+      -0.11000000000000011,
+      0.11000000000000011
+    ]
+  },
+  "nominal_both_delays_interval": null,
+  "note_common_interval": "This is the common OPEN-LOOP (a,b,c) set, not intersection of model-specific action projections.",
+  "delay1_robust_all_policy_necessary_abs_action_bound": 0.04100000000000001,
+  "delay1_exact_initial_zero_necessary_abs_action_bound": 0.05000000000000001,
+  "nominal_delay1_abs_action_bound": 0.11
+}

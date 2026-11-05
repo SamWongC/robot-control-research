@@ -1,0 +1,318 @@
+[
+  {
+    "batch": 121,
+    "family": "reversal",
+    "coarse_top8": [
+      45,
+      47,
+      3,
+      16,
+      2,
+      56,
+      0,
+      25
+    ],
+    "old_top8_choice": 45,
+    "original_fine_winner": 49,
+    "finest_winner": 49,
+    "finest_winner_coarse_rank": 19,
+    "steps": [
+      {
+        "dt": 0.01,
+        "winner": 45,
+        "old_top8_choice_regret": 0.0,
+        "best_available_in_coarse_top8_regret": 0.0,
+        "max_cost_delta_to_finest": 1.6128430231146205,
+        "max_pose_delta_to_finest": 0.6330479184522556
+      },
+      {
+        "dt": 0.005,
+        "winner": 49,
+        "old_top8_choice_regret": 0.037465544098370995,
+        "best_available_in_coarse_top8_regret": 0.037465544098370995,
+        "max_cost_delta_to_finest": 0.4329384040962969,
+        "max_pose_delta_to_finest": 0.10013769639775483
+      },
+      {
+        "dt": 0.0025,
+        "winner": 49,
+        "old_top8_choice_regret": 0.301907017180191,
+        "best_available_in_coarse_top8_regret": 0.301907017180191,
+        "max_cost_delta_to_finest": 0.11548896627774985,
+        "max_pose_delta_to_finest": 0.04577124699550552
+      },
+      {
+        "dt": 0.00125,
+        "winner": 49,
+        "old_top8_choice_regret": 0.41667853241603114,
+        "best_available_in_coarse_top8_regret": 0.41667853241603114,
+        "max_cost_delta_to_finest": 0.1556824690693075,
+        "max_pose_delta_to_finest": 0.07195091746802361
+      },
+      {
+        "dt": 0.000625,
+        "winner": 49,
+        "old_top8_choice_regret": 0.2216587431931084,
+        "best_available_in_coarse_top8_regret": 0.2216587431931084,
+        "max_cost_delta_to_finest": 0.05512960593994354,
+        "max_pose_delta_to_finest": 0.011933069939894536
+      },
+      {
+        "dt": 0.0003125,
+        "winner": 49,
+        "old_top8_choice_regret": 0.23536021738814983,
+        "best_available_in_coarse_top8_regret": 0.23536021738814983,
+        "max_cost_delta_to_finest": 0.038801413639028226,
+        "max_pose_delta_to_finest": 0.015140726996864001
+      },
+      {
+        "dt": 0.00015625,
+        "winner": 49,
+        "old_top8_choice_regret": 0.24010741746790365,
+        "best_available_in_coarse_top8_regret": 0.24010741746790365,
+        "max_cost_delta_to_finest": 0.0,
+        "max_pose_delta_to_finest": 0.0
+      }
+    ],
+    "coarse_finest_contact_stage_disagreement": 0.03359375,
+    "last_two_max_cost_delta": 0.038801413639028226,
+    "last_two_winner_equal": true
+  },
+  {
+    "batch": 139,
+    "family": "reversal",
+    "coarse_top8": [
+      6,
+      0,
+      4,
+      19,
+      34,
+      61,
+      49,
+      23
+    ],
+    "old_top8_choice": 0,
+    "original_fine_winner": 36,
+    "finest_winner": 36,
+    "finest_winner_coarse_rank": 11,
+    "steps": [
+      {
+        "dt": 0.01,
+        "winner": 6,
+        "old_top8_choice_regret": 0.11500425531263048,
+        "best_available_in_coarse_top8_regret": 0.0,
+        "max_cost_delta_to_finest": 0.7283794311458767,
+        "max_pose_delta_to_finest": 0.22023512194642775
+      },
+      {
+        "dt": 0.005,
+        "winner": 36,
+        "old_top8_choice_regret": 0.050355862785560035,
+        "best_available_in_coarse_top8_regret": 0.050355862785560035,
+        "max_cost_delta_to_finest": 0.40181730807004,
+        "max_pose_delta_to_finest": 0.1367911462803079
+      },
+      {
+        "dt": 0.0025,
+        "winner": 36,
+        "old_top8_choice_regret": 0.14238990545554486,
+        "best_available_in_coarse_top8_regret": 0.14238990545554486,
+        "max_cost_delta_to_finest": 0.3489502319261373,
+        "max_pose_delta_to_finest": 0.03821609938848419
+      },
+      {
+        "dt": 0.00125,
+        "winner": 36,
+        "old_top8_choice_regret": 0.13091108590080935,
+        "best_available_in_coarse_top8_regret": 0.13091108590080935,
+        "max_cost_delta_to_finest": 0.19878930474324719,
+        "max_pose_delta_to_finest": 0.010576450619101724
+      },
+      {
+        "dt": 0.000625,
+        "winner": 36,
+        "old_top8_choice_regret": 0.1382731251347309,
+        "best_available_in_coarse_top8_regret": 0.1382731251347309,
+        "max_cost_delta_to_finest": 0.08081951305924306,
+        "max_pose_delta_to_finest": 0.012342622548126335
+      },
+      {
+        "dt": 0.0003125,
+        "winner": 36,
+        "old_top8_choice_regret": 0.138373151688862,
+        "best_available_in_coarse_top8_regret": 0.138373151688862,
+        "max_cost_delta_to_finest": 0.027287369639353187,
+        "max_pose_delta_to_finest": 0.0027538168617696223
+      },
+      {
+        "dt": 0.00015625,
+        "winner": 36,
+        "old_top8_choice_regret": 0.1369157463030799,
+        "best_available_in_coarse_top8_regret": 0.1369157463030799,
+        "max_cost_delta_to_finest": 0.0,
+        "max_pose_delta_to_finest": 0.0
+      }
+    ],
+    "coarse_finest_contact_stage_disagreement": 0.02734375,
+    "last_two_max_cost_delta": 0.027287369639353187,
+    "last_two_winner_equal": true
+  },
+  {
+    "batch": 145,
+    "family": "near_duplicate",
+    "coarse_top8": [
+      6,
+      1,
+      0,
+      7,
+      4,
+      5,
+      2,
+      3
+    ],
+    "old_top8_choice": 6,
+    "original_fine_winner": 54,
+    "finest_winner": 54,
+    "finest_winner_coarse_rank": 17,
+    "steps": [
+      {
+        "dt": 0.01,
+        "winner": 6,
+        "old_top8_choice_regret": 0.0,
+        "best_available_in_coarse_top8_regret": 0.0,
+        "max_cost_delta_to_finest": 0.8191991639695062,
+        "max_pose_delta_to_finest": 0.2611201321476017
+      },
+      {
+        "dt": 0.005,
+        "winner": 54,
+        "old_top8_choice_regret": 0.3159663205155758,
+        "best_available_in_coarse_top8_regret": 0.3159663205155758,
+        "max_cost_delta_to_finest": 0.5000299802624646,
+        "max_pose_delta_to_finest": 0.20348332421637993
+      },
+      {
+        "dt": 0.0025,
+        "winner": 54,
+        "old_top8_choice_regret": 0.25238581774705215,
+        "best_available_in_coarse_top8_regret": 0.25238581774705215,
+        "max_cost_delta_to_finest": 0.3420023170432298,
+        "max_pose_delta_to_finest": 0.05022713466857833
+      },
+      {
+        "dt": 0.00125,
+        "winner": 54,
+        "old_top8_choice_regret": 0.2621574788231711,
+        "best_available_in_coarse_top8_regret": 0.2621574788231711,
+        "max_cost_delta_to_finest": 0.3262273443020982,
+        "max_pose_delta_to_finest": 0.04662219563099563
+      },
+      {
+        "dt": 0.000625,
+        "winner": 54,
+        "old_top8_choice_regret": 0.273627179562447,
+        "best_available_in_coarse_top8_regret": 0.273627179562447,
+        "max_cost_delta_to_finest": 0.14024493289380668,
+        "max_pose_delta_to_finest": 0.02066486408907755
+      },
+      {
+        "dt": 0.0003125,
+        "winner": 54,
+        "old_top8_choice_regret": 0.2766553416238424,
+        "best_available_in_coarse_top8_regret": 0.2766553416238424,
+        "max_cost_delta_to_finest": 0.07449720962337558,
+        "max_pose_delta_to_finest": 0.011605216632432807
+      },
+      {
+        "dt": 0.00015625,
+        "winner": 54,
+        "old_top8_choice_regret": 0.27084810354186084,
+        "best_available_in_coarse_top8_regret": 0.27084810354186084,
+        "max_cost_delta_to_finest": 0.0,
+        "max_pose_delta_to_finest": 0.0
+      }
+    ],
+    "coarse_finest_contact_stage_disagreement": 0.0359375,
+    "last_two_max_cost_delta": 0.07449720962337558,
+    "last_two_winner_equal": true
+  },
+  {
+    "batch": 159,
+    "family": "near_duplicate",
+    "coarse_top8": [
+      13,
+      11,
+      8,
+      9,
+      12,
+      15,
+      14,
+      27
+    ],
+    "old_top8_choice": 11,
+    "original_fine_winner": 10,
+    "finest_winner": 10,
+    "finest_winner_coarse_rank": 10,
+    "steps": [
+      {
+        "dt": 0.01,
+        "winner": 13,
+        "old_top8_choice_regret": 0.01863379469342341,
+        "best_available_in_coarse_top8_regret": 0.0,
+        "max_cost_delta_to_finest": 0.6006222550062272,
+        "max_pose_delta_to_finest": 0.14578358427190852
+      },
+      {
+        "dt": 0.005,
+        "winner": 10,
+        "old_top8_choice_regret": 0.022545733286127856,
+        "best_available_in_coarse_top8_regret": 0.02019442772201785,
+        "max_cost_delta_to_finest": 0.23982851972888852,
+        "max_pose_delta_to_finest": 0.07512873305447294
+      },
+      {
+        "dt": 0.0025,
+        "winner": 10,
+        "old_top8_choice_regret": 0.016820984205953238,
+        "best_available_in_coarse_top8_regret": 0.016820984205953238,
+        "max_cost_delta_to_finest": 0.18002256422060903,
+        "max_pose_delta_to_finest": 0.07038421910355198
+      },
+      {
+        "dt": 0.00125,
+        "winner": 10,
+        "old_top8_choice_regret": 0.01886295914372127,
+        "best_available_in_coarse_top8_regret": 0.01886295914372127,
+        "max_cost_delta_to_finest": 0.13640350887907005,
+        "max_pose_delta_to_finest": 0.03996939692612635
+      },
+      {
+        "dt": 0.000625,
+        "winner": 10,
+        "old_top8_choice_regret": 0.020235207693620083,
+        "best_available_in_coarse_top8_regret": 0.020235207693620083,
+        "max_cost_delta_to_finest": 0.05871325479381184,
+        "max_pose_delta_to_finest": 0.01868387642340645
+      },
+      {
+        "dt": 0.0003125,
+        "winner": 10,
+        "old_top8_choice_regret": 0.01895896591396351,
+        "best_available_in_coarse_top8_regret": 0.01895896591396351,
+        "max_cost_delta_to_finest": 0.04794898391278579,
+        "max_pose_delta_to_finest": 0.021762441282120317
+      },
+      {
+        "dt": 0.00015625,
+        "winner": 10,
+        "old_top8_choice_regret": 0.019124774094086305,
+        "best_available_in_coarse_top8_regret": 0.019124774094086305,
+        "max_cost_delta_to_finest": 0.0,
+        "max_pose_delta_to_finest": 0.0
+      }
+    ],
+    "coarse_finest_contact_stage_disagreement": 0.06640625,
+    "last_two_max_cost_delta": 0.04794898391278579,
+    "last_two_winner_equal": true
+  }
+]

@@ -1,0 +1,69 @@
+{
+  "variants": [
+    {
+      "name": "legacy",
+      "family": "legacy"
+    },
+    {
+      "name": "lex_energy",
+      "family": "energy"
+    },
+    {
+      "name": "track_0.01",
+      "family": "tracking",
+      "weight": 0.01
+    },
+    {
+      "name": "track_0.1",
+      "family": "tracking",
+      "weight": 0.1
+    },
+    {
+      "name": "track_1",
+      "family": "tracking",
+      "weight": 1.0
+    },
+    {
+      "name": "progress_0.25",
+      "family": "progress",
+      "band": 0.25,
+      "weight": 0.1
+    },
+    {
+      "name": "progress_0.5",
+      "family": "progress",
+      "band": 0.5,
+      "weight": 0.1
+    },
+    {
+      "name": "progress_1",
+      "family": "progress",
+      "band": 1.0,
+      "weight": 0.1
+    }
+  ],
+  "previews": [
+    0,
+    1,
+    2,
+    4,
+    8
+  ],
+  "test_seed": 2026110501,
+  "test_cases": 64,
+  "selection_rule": "Within each family: most development successes, then least mean prep squared-command energy, then name.",
+  "lex_slack_tolerance": 1e-07,
+  "tracking_reference": "Cubic Hermite from zero initial reference to absolute endpoint.",
+  "progress_window_last_steps": 4,
+  "no_information_objective": true,
+  "source_sha256": "a4eb65cda1f0b734c414ad7ada68529729eff482c0cf5c9ec65556d250b03c38",
+  "dependencies": {
+    "preview_identification.py": "d67eb0f7f5cf3804e001b88084a89ab420fddae0e0329cbb857bd634d1b54839",
+    "task_ambiguity_scenarios.py": "8c6346153bb6f6625636c0c20ca8565062db88b63b2d2817f1ee12e92f69a247"
+  },
+  "versions": {
+    "python": "3.12.14",
+    "numpy": "2.3.5",
+    "scipy": "1.18.1"
+  }
+}

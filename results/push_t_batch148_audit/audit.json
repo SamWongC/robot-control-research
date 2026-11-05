@@ -1,0 +1,9 @@
+{
+  "passed": true,
+  "checks": [
+    "Original three resolutions reproduced",
+    "Finite monotonic-time rollouts",
+    "20 direct-step traces match full batched calls within 1e-7"
+  ],
+  "trace_count": 20
+}

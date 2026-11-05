@@ -1,0 +1,13 @@
+test_complete_identification_at_time_two (test_partial_delay_gate.GateTests.test_complete_identification_at_time_two) ... ok
+test_endpoint_overlap_is_not_lost (test_partial_delay_gate.GateTests.test_endpoint_overlap_is_not_lost) ... ok
+test_first_observation_indistinguishability (test_partial_delay_gate.GateTests.test_first_observation_indistinguishability) ... ok
+test_lifted_dynamics_against_simulation (test_partial_delay_gate.GateTests.test_lifted_dynamics_against_simulation) ... ok
+test_nonzero_action_interval (test_partial_delay_gate.GateTests.test_nonzero_action_interval) ... ok
+test_rollout_uses_only_first_observation_for_branch (test_partial_delay_gate.GateTests.test_rollout_uses_only_first_observation_for_branch) ... ok
+test_saved_trajectories_independent_audit (test_partial_delay_gate.GateTests.test_saved_trajectories_independent_audit) ... ok
+test_vertices_agree_with_support (test_partial_delay_gate.GateTests.test_vertices_agree_with_support) ... ok
+
+----------------------------------------------------------------------
+Ran 8 tests in 0.560s
+
+OK

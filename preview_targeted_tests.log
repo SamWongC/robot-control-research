@@ -1,0 +1,10 @@
+test_generated_cases_obey_bounds_and_rate (test_preview_identification.PreviewTests.test_generated_cases_obey_bounds_and_rate) ... ok
+test_lifted_queue_against_physical_steps (test_preview_identification.PreviewTests.test_lifted_queue_against_physical_steps) ... ok
+test_no_reset_and_pending_probe_at_task_start (test_preview_identification.PreviewTests.test_no_reset_and_pending_probe_at_task_start) ... ok
+test_observation_prefix_and_goal_without_preview (test_preview_identification.PreviewTests.test_observation_prefix_and_goal_without_preview) ... ok
+test_probe_separates_bounded_observation_intervals (test_preview_identification.PreviewTests.test_probe_separates_bounded_observation_intervals) ... ok
+
+----------------------------------------------------------------------
+Ran 5 tests in 0.028s
+
+OK

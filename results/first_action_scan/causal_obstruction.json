@@ -1,0 +1,30 @@
+{
+  "scope": "Necessary bound for causal control, even with exact initial zero, known delay=1 and exact prefix state.",
+  "same_prefix_disturbance": 0.02,
+  "future_branches": [
+    [
+      0.02,
+      0.02
+    ],
+    [
+      0.01,
+      0.0
+    ]
+  ],
+  "action": 0.05,
+  "second_command_intervals": [
+    [
+      1.4299999999999997,
+      1.43
+    ],
+    [
+      1.4599999999999997,
+      1.48
+    ]
+  ],
+  "intersection_empty": true,
+  "necessary_abs_action_bound_from_symmetric_branch_pairs": 0.035,
+  "positive_proof": "b>=1.51-a from branch (w1=.01,w2=0); b<=1.58-3a from branch (w1=.02,w2=.02); hence a<=.035.",
+  "negative_proof": "Mirror disturbances give b>=1.62-3a and b<=1.69-a; hence a>=-.035.",
+  "no_sufficiency_claim": true
+}

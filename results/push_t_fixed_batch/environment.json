@@ -1,0 +1,9 @@
+{
+  "python": "3.12.14",
+  "platform": "Windows-11-10.0.26300-SP0",
+  "logical_cpus": 32,
+  "mujoco": "3.17.0",
+  "numpy": "2.5.4",
+  "source_sha256": "497290a8852f4dd278a8b05969c1f66c956db6028fd4e3955d6e7a09bc0ee640",
+  "gpu_info": "NVIDIA GeForce RTX 5070 Laptop GPU, 8151 MiB, 621.01"
+}

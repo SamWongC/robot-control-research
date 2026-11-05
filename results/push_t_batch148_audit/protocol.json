@@ -1,0 +1,53 @@
+{
+  "batch": 148,
+  "steps": [
+    0.01,
+    0.0025,
+    0.000625,
+    0.0003125,
+    0.00015625,
+    7.8125e-05,
+    3.90625e-05
+  ],
+  "configs": [
+    {
+      "name": "original",
+      "solver": "Newton",
+      "iterations": 50,
+      "tolerance": 1e-10,
+      "warm": false
+    },
+    {
+      "name": "tight_cold",
+      "solver": "Newton",
+      "iterations": 200,
+      "tolerance": 1e-12,
+      "warm": false
+    },
+    {
+      "name": "warm",
+      "solver": "Newton",
+      "iterations": 50,
+      "tolerance": 1e-10,
+      "warm": true
+    },
+    {
+      "name": "tight_warm",
+      "solver": "Newton",
+      "iterations": 200,
+      "tolerance": 1e-12,
+      "warm": true
+    },
+    {
+      "name": "cg_tight",
+      "solver": "CG",
+      "iterations": 200,
+      "tolerance": 1e-12,
+      "warm": true
+    }
+  ],
+  "source_sha256": "6f3ed988ce42bc8271a87fa7c9e082a7dbe250acd743529bc34ff49d7cd71ae7",
+  "base_sha256": "497290a8852f4dd278a8b05969c1f66c956db6028fd4e3955d6e7a09bc0ee640",
+  "fixture_sha256": "0a01f837dc1c6d948812652739c8fd24a8b0a37d36f44814f085829361a50d67",
+  "scope": "Same contact parameters, friction, geometry, integrator, cost and controls. Continuous full-horizon calls avoid stage warmstart loss. Exploratory numerical audit, not physical validation."
+}

@@ -1,0 +1,4 @@
+# Preserve byte-for-byte historical hashes, including Windows source snapshots.
+* -text
+*.npz binary
+*.png binary

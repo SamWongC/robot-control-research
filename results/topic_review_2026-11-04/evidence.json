@@ -1,0 +1,115 @@
+{
+  "date": "2026-11-04",
+  "decision": "NO_GO_CURRENT_RA_L_MANUSCRIPT_CONDITIONAL_PIVOT",
+  "scope": "Bounded primary-source review of the current claims, not exhaustive novelty certification.",
+  "new_experiments_run": false,
+  "proofs_of_external_papers_independently_reproved": false,
+  "queries": [
+    "affine disturbance feedback robust constrained control",
+    "affine output feedback purified outputs convex synthesis",
+    "active model discrimination task constraints minimum horizon",
+    "dual adaptive MPC active versus passive learning",
+    "unknown input delay compatible models common controller",
+    "task-preserving partial delay discrimination"
+  ],
+  "sources": [
+    {
+      "id": "P1",
+      "year": 2010,
+      "title": "Design of Affine Controllers via Convex Optimization",
+      "url": "https://stanford.edu/~boyd/papers/pdf/affine_contr.pdf",
+      "access": "Full text accessible; relevant sections II-V examined; proofs not independently reproduced.",
+      "locator": "PDF pp.3-6, sections II-V; worst-case problem (7), convex reformulation (16).",
+      "finding": "Causal affine output feedback and worst-case convex synthesis are established.",
+      "difference": "Does not establish the exact unknown-delay task-preview frontier of this project."
+    },
+    {
+      "id": "P2",
+      "year": 2014,
+      "title": "Input design for guaranteed fault diagnosis using zonotopes",
+      "url": "https://web.mit.edu/braatzgroup/input_design_for_guaranteed_fault_diagnosis_using_zonotopes.pdf",
+      "access": "Full text accessible; introduction and sections 2-4 examined.",
+      "locator": "Automatica 50:1580-1589; sections 2-4, reachable output sets and separating inputs.",
+      "finding": "Bounded-error separating inputs are optimized with control-impact considerations.",
+      "difference": "Not a proof of our exact numerical deadline/precision boundaries."
+    },
+    {
+      "id": "P3",
+      "year": 2016,
+      "title": "Closed-loop input design for guaranteed fault diagnosis using set-valued observers",
+      "url": "https://web.mit.edu/braatzgroup/Raimondo_Automatica_2016.pdf",
+      "access": "Full text accessible; sections 3-4 and relevant proof/constraints examined.",
+      "locator": "PDF pp.3-5, minimum separation horizon, eqs.(15)-(20), Theorem 1, Algorithm 1.",
+      "finding": "Minimum separation horizons, general polytopic uncertainties and measurement-updated input design are established.",
+      "difference": "Minimum diagnosis time is not the same optimization as task-recovery preview time."
+    },
+    {
+      "id": "P4",
+      "year": 2014,
+      "title": "Model Predictive Control Combined with Model Discrimination and Fault Detection",
+      "url": "https://skoge.folk.ntnu.no/prost/proceedings/ifac2014/media/files/1342.pdf",
+      "access": "Full text accessible; sections 3-4, feasibility example and conclusion examined.",
+      "locator": "PDF pp.3-4, eqs.(11)-(14), Fig.1 and soft discrimination treatment.",
+      "finding": "Combining tracking and discrimination, including feasibility loss, predates this project.",
+      "difference": "Its formulation is not identical to our rate-bounded delayed-actuator problem."
+    },
+    {
+      "id": "P5",
+      "year": 2005,
+      "title": "Finite Horizon Control Design for Optimal Model Discrimination",
+      "url": "https://groups.csail.mit.edu/mers/papers/Blackmore_Williams_CDCECC05.pdf",
+      "access": "Full text accessible; model assumptions, constraint treatment and discussion examined.",
+      "locator": "PDF p.2 Gaussian assumptions; pp.5 and 8 expected-state task constraints and limitations.",
+      "finding": "Task-constrained discrimination is an old problem family.",
+      "difference": "Expected-state/Gaussian statements are not our all-realizations bounded-noise guarantees."
+    },
+    {
+      "id": "P6",
+      "year": 2019,
+      "title": "MPC with active learning for stochastic systems with structural model uncertainty: Online model discrimination",
+      "url": "https://static1.squarespace.com/static/5d4488dc0d24df0001719b1f/t/5d59c15afd93c4000193886c/1566163294489/CACE_2019_1.pdf",
+      "access": "Reopened full text; sections 2-4 and baseline comparison passages examined.",
+      "locator": "PDF pp.2-4 active/passive value and model hypotheses; section 5.3 baseline definitions.",
+      "finding": "The value of active versus passive learning depends on task and uncertainty.",
+      "difference": "Stochastic Bayesian formulation differs from bounded-error certification."
+    },
+    {
+      "id": "P7",
+      "year": 2026,
+      "title": "Robust Data-Driven Output Feedback for Systems With Unknown Input Delays",
+      "url": "https://arxiv.org/html/2611.00841v1",
+      "access": "Reopened preprint v1; assumption paragraph and Theorem 3 examined.",
+      "locator": "Equation-error bound assumption; Theorem 3 / eq.(19).",
+      "finding": "Compatible unknown delays can share a stabilizing controller.",
+      "difference": "Synthesis addresses disturbance-free post-collection plants, not our ongoing disturbed endpoint task."
+    },
+    {
+      "id": "P8",
+      "year": 2026,
+      "title": "Safe, Real-Time Active Model Discrimination and Fault Diagnosis for Nonlinear Systems via Differentiable Reachability",
+      "url": "https://arxiv.org/html/2606.19590v1",
+      "access": "Reopened preprint v1; sections III-V and result scope examined.",
+      "locator": "Section III Problem 2 / eq.(3); section V, consistency relaxed to a separation objective.",
+      "finding": "Set-based discrimination with nonlinear dynamics and robust constraints is already an active research area.",
+      "difference": "Its separating objective relaxation is not a certificate of every task-preview boundary."
+    }
+  ],
+  "local_code_hashes": {
+    "first_action_scan.py": "b0a601c8a26d4bea3841532e63207d5ede5a2ead461508a4555720391702c47f",
+    "baseline_sensitivity.py": "a4eb65cda1f0b734c414ad7ada68529729eff482c0cf5c9ec65556d250b03c38",
+    "causal_preview_certificate.py": "e5d992a19461282a1e57c0018d168d4a0ff67e88f56a5f6774413b9be1efd2ac"
+  },
+  "local_facts": {
+    "grid_points": 48,
+    "certified": 36,
+    "unresolved": 2,
+    "implementation_episodes": 834,
+    "regression_tests": 55
+  },
+  "access_limits": [
+    "Harirchi et al. IFAC 2017 author PDF timed out twice; not treated as full-text evidence.",
+    "Heirung et al. 2017 author PDF redirected to a JS-only repository; no new full-text claim.",
+    "Previous review DOI 10.1049/cth2.12170 and 10.1016/j.conengprac.2017.03.007 remain incompletely accessed.",
+    "No paper was found with the exact local numeric frontier; this does not establish an original general result."
+  ]
+}

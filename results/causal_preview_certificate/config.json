@@ -1,0 +1,39 @@
+{
+  "previews": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    8
+  ],
+  "position_tolerances": [
+    0.0002,
+    0.000225,
+    0.0002375,
+    0.00025,
+    0.0003,
+    0.0004,
+    0.0006,
+    0.001
+  ],
+  "velocity_tolerance": 0.003,
+  "first_action": 0.05,
+  "initial_physical_radius": [
+    2e-05,
+    0.0002
+  ],
+  "initial_radius_scope": "Contains original zero physical initial state; additional perturbations are conservative proof coverage.",
+  "source_sha256": "e5d992a19461282a1e57c0018d168d4a0ff67e88f56a5f6774413b9be1efd2ac",
+  "dependencies": {
+    "preview_identification.py": "d67eb0f7f5cf3804e001b88084a89ab420fddae0e0329cbb857bd634d1b54839",
+    "task_ambiguity_scenarios.py": "8c6346153bb6f6625636c0c20ca8565062db88b63b2d2817f1ee12e92f69a247"
+  },
+  "validation_seed": 2026110701,
+  "versions": {
+    "python": "3.12.14",
+    "numpy": "2.3.5",
+    "scipy": "1.18.1",
+    "cvxpy": "1.9.3"
+  }
+}

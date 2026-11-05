@@ -1,0 +1,31 @@
+{
+  "cases": [
+    121,
+    139,
+    145,
+    159
+  ],
+  "steps": [
+    0.01,
+    0.005,
+    0.0025,
+    0.00125,
+    0.000625,
+    0.0003125,
+    0.00015625
+  ],
+  "methods": [
+    "fine",
+    "top8",
+    "dedup8",
+    "cluster8",
+    "top16",
+    "cluster16"
+  ],
+  "dedup_rms_threshold": 0.02,
+  "kmeans_iterations": 20,
+  "fixture_sha256": "0d44c2360e8353574fbf02667fb0fd8d17fe21ec60b2bd46c947b497ca881146",
+  "source_sha256": "d73a9b9c5cb032041e6aeec372f470792a6c79db371010e9f698131919024149",
+  "base_source_sha256": "497290a8852f4dd278a8b05969c1f66c956db6028fd4e3955d6e7a09bc0ee640",
+  "scope": "Exploratory reuse of previously inspected test batches; not a fresh confirmatory test. Fixed parameters before this run; no tuning."
+}

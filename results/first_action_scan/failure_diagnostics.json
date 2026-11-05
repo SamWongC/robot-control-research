@@ -1,0 +1,22 @@
+[
+  {
+    "rule": "zero",
+    "failed_despite_known_delay_robust_plan": 254,
+    "note": "Known-delay plan is an oracle diagnostic when the actual candidates remain ambiguous."
+  },
+  {
+    "rule": "task_only",
+    "failed_despite_known_delay_robust_plan": 0,
+    "note": "Known-delay plan is an oracle diagnostic when the actual candidates remain ambiguous."
+  },
+  {
+    "rule": "fixed_0.1",
+    "failed_despite_known_delay_robust_plan": 0,
+    "note": "Known-delay plan is an oracle diagnostic when the actual candidates remain ambiguous."
+  },
+  {
+    "rule": "frozen_selected",
+    "failed_despite_known_delay_robust_plan": 0,
+    "note": "Known-delay plan is an oracle diagnostic when the actual candidates remain ambiguous."
+  }
+]

@@ -1,0 +1,10 @@
+test_innovations_do_not_depend_on_unknown_state_or_past_controls (test_causal_preview_certificate.CausalCertificateTests.test_innovations_do_not_depend_on_unknown_state_or_past_controls) ... ok
+test_obstruction_scope_and_exact_branch_threshold (test_causal_preview_certificate.CausalCertificateTests.test_obstruction_scope_and_exact_branch_threshold) ... ok
+test_saved_row_maps_match_independent_physical_execution (test_causal_preview_certificate.CausalCertificateTests.test_saved_row_maps_match_independent_physical_execution) ... ok
+test_support_includes_rate_constraints (test_causal_preview_certificate.CausalCertificateTests.test_support_includes_rate_constraints) ... ok
+test_uncertainty_encodes_rate_and_noise_box (test_causal_preview_certificate.CausalCertificateTests.test_uncertainty_encodes_rate_and_noise_box) ... ok
+
+----------------------------------------------------------------------
+Ran 5 tests in 0.004s
+
+OK

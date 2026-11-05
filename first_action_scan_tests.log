@@ -1,0 +1,62 @@
+test_heldout_disjoint_and_bounds (test_baseline_sensitivity.BaselineSensitivityTests.test_heldout_disjoint_and_bounds) ... ok
+test_legacy_plan_identical (test_baseline_sensitivity.BaselineSensitivityTests.test_legacy_plan_identical) ... ok
+test_lexicographic_priority_and_known_delay (test_baseline_sensitivity.BaselineSensitivityTests.test_lexicographic_priority_and_known_delay) ... ok
+test_no_reset_pending_command_and_probe_off_at_zero_preview (test_baseline_sensitivity.BaselineSensitivityTests.test_no_reset_pending_command_and_probe_off_at_zero_preview) ... ok
+test_reference_endpoints_and_derivatives (test_baseline_sensitivity.BaselineSensitivityTests.test_reference_endpoints_and_derivatives) ... ok
+test_all_sets_nonempty_and_truth_not_needed (test_candidate_sets.CandidateTests.test_all_sets_nonempty_and_truth_not_needed) ... ok
+test_causal_measurement_prefix (test_candidate_sets.CandidateTests.test_causal_measurement_prefix) ... ok
+test_geometry_zero_for_ramp_and_constant (test_candidate_sets.CandidateTests.test_geometry_zero_for_ramp_and_constant) ... ok
+test_gls_matches_direct_weighted_least_squares (test_candidate_sets.CandidateTests.test_gls_matches_direct_weighted_least_squares) ... ok
+test_ellipsoid_factor_matches_information (test_common_delay_reproduction.ReproductionTests.test_ellipsoid_factor_matches_information) ... ok
+test_history_update_timing (test_common_delay_reproduction.ReproductionTests.test_history_update_timing) ... ok
+test_numerical_certificate_rejects_boundary (test_common_delay_reproduction.ReproductionTests.test_numerical_certificate_rejects_boundary) ... ok
+test_true_equation_errors_and_dimensions (test_common_delay_reproduction.ReproductionTests.test_true_equation_errors_and_dimensions) ... ok
+test_lifted_predictions_match_stepwise_model (test_delay_mismatch.ConstrainedTests.test_lifted_predictions_match_stepwise_model) ... ok
+test_qp_against_independent_coordinate_solver_and_clipping (test_delay_mismatch.ConstrainedTests.test_qp_against_independent_coordinate_solver_and_clipping) ... ok
+test_rollout_input_bounds_and_actual_fixed_delay (test_delay_mismatch.ConstrainedTests.test_rollout_input_bounds_and_actual_fixed_delay) ... ok
+test_unconstrained_optimum_when_bounds_inactive (test_delay_mismatch.ConstrainedTests.test_unconstrained_optimum_when_bounds_inactive) ... ok
+test_disturbance_can_exactly_mimic_wrong_delay (test_disturbance_identification.IdentificationTests.test_disturbance_can_exactly_mimic_wrong_delay) ... ok
+test_disturbance_interval (test_disturbance_identification.IdentificationTests.test_disturbance_interval) ... ok
+test_no_future_data_influence (test_disturbance_identification.IdentificationTests.test_no_future_data_influence) ... ok
+test_recovery_with_excited_exact_data (test_disturbance_identification.IdentificationTests.test_recovery_with_excited_exact_data) ... ok
+test_augmented_model_matches_physical_queue (test_experiment.ExperimentTests.test_augmented_model_matches_physical_queue) ... ok
+test_determinism_and_known_delay_convergence (test_experiment.ExperimentTests.test_determinism_and_known_delay_convergence) ... ok
+test_fixed_delay_impulse (test_experiment.ExperimentTests.test_fixed_delay_impulse) ... ok
+test_invalid_delay (test_experiment.ExperimentTests.test_invalid_delay) ... ok
+test_zero_delay (test_experiment.ExperimentTests.test_zero_delay) ... ok
+test_delay1_nominal_interval_and_common_sequence_impossibility (test_first_action_scan.FirstActionTests.test_delay1_nominal_interval_and_common_sequence_impossibility) ... ok
+test_future_branches_require_incompatible_second_actions (test_first_action_scan.FirstActionTests.test_future_branches_require_incompatible_second_actions) ... ok
+test_generator_bounds_with_separate_unit_seed (test_first_action_scan.FirstActionTests.test_generator_bounds_with_separate_unit_seed) ... ok
+test_invariant_against_physical_rollout (test_first_action_scan.FirstActionTests.test_invariant_against_physical_rollout) ... ok
+test_no_reset_and_no_unsafe_preparation_scan (test_first_action_scan.FirstActionTests.test_no_reset_and_no_unsafe_preparation_scan) ... ok
+test_physical_and_robust_feasibility_are_distinct (test_first_action_scan.FirstActionTests.test_physical_and_robust_feasibility_are_distinct) ... ok
+test_separation_threshold_and_boundary_witness (test_first_action_scan.FirstActionTests.test_separation_threshold_and_boundary_witness) ... ok
+test_constant_and_ramp_have_zero_centered_separation (test_identifiability.PassiveTests.test_constant_and_ramp_have_zero_centered_separation) ... ok
+test_multisine_is_distinguishable (test_identifiability.PassiveTests.test_multisine_is_distinguishable) ... ok
+test_noise_free_excited_identification (test_identifiability.PassiveTests.test_noise_free_excited_identification) ... ok
+test_paired_noise_and_reproducibility (test_identifiability.PassiveTests.test_paired_noise_and_reproducibility) ... ok
+test_affine_prediction_increment (test_joint_estimation.JointTests.test_affine_prediction_increment) ... ok
+test_causal_prefix_and_disturbance_boundaries (test_joint_estimation.JointTests.test_causal_prefix_and_disturbance_boundaries) ... ok
+test_joint_recovery_with_constant_disturbance (test_joint_estimation.JointTests.test_joint_recovery_with_constant_disturbance) ... ok
+test_linear_ramp_is_ambiguous_even_with_varying_commands (test_joint_estimation.JointTests.test_linear_ramp_is_ambiguous_even_with_varying_commands) ... ok
+test_generated_cases_obey_bounds_and_rate (test_preview_identification.PreviewTests.test_generated_cases_obey_bounds_and_rate) ... ok
+test_lifted_queue_against_physical_steps (test_preview_identification.PreviewTests.test_lifted_queue_against_physical_steps) ... ok
+test_no_reset_and_pending_probe_at_task_start (test_preview_identification.PreviewTests.test_no_reset_and_pending_probe_at_task_start) ... ok
+test_observation_prefix_and_goal_without_preview (test_preview_identification.PreviewTests.test_observation_prefix_and_goal_without_preview) ... ok
+test_probe_separates_bounded_observation_intervals (test_preview_identification.PreviewTests.test_probe_separates_bounded_observation_intervals) ... ok
+test_exact_support_matches_positive_system_formula (test_task_ambiguity_scenarios.TaskWitnessTests.test_exact_support_matches_positive_system_formula) ... ok
+test_history_and_two_distinct_feasibility_cases (test_task_ambiguity_scenarios.TaskWitnessTests.test_history_and_two_distinct_feasibility_cases) ... ok
+test_nominal_gap_independent_algebra (test_task_ambiguity_scenarios.TaskWitnessTests.test_nominal_gap_independent_algebra) ... ok
+test_prediction_against_physical_recurrence (test_task_ambiguity_scenarios.TaskWitnessTests.test_prediction_against_physical_recurrence) ... ok
+
+----------------------------------------------------------------------
+Ran 50 tests in 0.375s
+
+OK
+Polishing not needed - no active set detected at optimal point
+Polishing not needed - no active set detected at optimal point
+Polishing not needed - no active set detected at optimal point
+Polishing not needed - no active set detected at optimal point
+Polishing not needed - no active set detected at optimal point
+Polishing not needed - no active set detected at optimal point
+Polishing not needed - no active set detected at optimal point

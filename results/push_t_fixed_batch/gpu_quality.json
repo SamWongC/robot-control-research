@@ -1,0 +1,322 @@
+[
+  {
+    "batch": 0,
+    "split": "development",
+    "method": "warp_fine",
+    "chosen": 1,
+    "reference_best": 1,
+    "regret": 0.0,
+    "max_cost_error": 0.10013702534403013,
+    "exact_winner": true
+  },
+  {
+    "batch": 1,
+    "split": "development",
+    "method": "warp_fine",
+    "chosen": 1,
+    "reference_best": 1,
+    "regret": 0.0,
+    "max_cost_error": 0.24448624669337793,
+    "exact_winner": true
+  },
+  {
+    "batch": 2,
+    "split": "development",
+    "method": "warp_fine",
+    "chosen": 35,
+    "reference_best": 35,
+    "regret": 0.0,
+    "max_cost_error": 0.6749810082057763,
+    "exact_winner": true
+  },
+  {
+    "batch": 3,
+    "split": "development",
+    "method": "warp_fine",
+    "chosen": 15,
+    "reference_best": 15,
+    "regret": 0.0,
+    "max_cost_error": 0.6162498085258967,
+    "exact_winner": true
+  },
+  {
+    "batch": 4,
+    "split": "development",
+    "method": "warp_fine",
+    "chosen": 51,
+    "reference_best": 51,
+    "regret": 0.0,
+    "max_cost_error": 0.14853546931823836,
+    "exact_winner": true
+  },
+  {
+    "batch": 5,
+    "split": "development",
+    "method": "warp_fine",
+    "chosen": 61,
+    "reference_best": 61,
+    "regret": 0.0,
+    "max_cost_error": 0.32993811328118383,
+    "exact_winner": true
+  },
+  {
+    "batch": 6,
+    "split": "development",
+    "method": "warp_fine",
+    "chosen": 0,
+    "reference_best": 0,
+    "regret": 0.0,
+    "max_cost_error": 0.49859700868006485,
+    "exact_winner": true
+  },
+  {
+    "batch": 7,
+    "split": "development",
+    "method": "warp_fine",
+    "chosen": 0,
+    "reference_best": 0,
+    "regret": 0.0,
+    "max_cost_error": 0.6479902230103889,
+    "exact_winner": true
+  },
+  {
+    "batch": 8,
+    "split": "test",
+    "method": "warp_fine",
+    "chosen": 1,
+    "reference_best": 1,
+    "regret": 0.0,
+    "max_cost_error": 0.16284212217732197,
+    "exact_winner": true
+  },
+  {
+    "batch": 9,
+    "split": "test",
+    "method": "warp_fine",
+    "chosen": 1,
+    "reference_best": 1,
+    "regret": 0.0,
+    "max_cost_error": 0.04220280575289426,
+    "exact_winner": true
+  },
+  {
+    "batch": 10,
+    "split": "test",
+    "method": "warp_fine",
+    "chosen": 42,
+    "reference_best": 42,
+    "regret": 0.0,
+    "max_cost_error": 0.26053086665715597,
+    "exact_winner": true
+  },
+  {
+    "batch": 11,
+    "split": "test",
+    "method": "warp_fine",
+    "chosen": 8,
+    "reference_best": 26,
+    "regret": 0.05295776401663721,
+    "max_cost_error": 0.3157344538781732,
+    "exact_winner": false
+  },
+  {
+    "batch": 12,
+    "split": "test",
+    "method": "warp_fine",
+    "chosen": 56,
+    "reference_best": 56,
+    "regret": 0.0,
+    "max_cost_error": 2.5335097435091214,
+    "exact_winner": true
+  },
+  {
+    "batch": 13,
+    "split": "test",
+    "method": "warp_fine",
+    "chosen": 9,
+    "reference_best": 16,
+    "regret": 0.055927500512815254,
+    "max_cost_error": 0.14745793887271486,
+    "exact_winner": false
+  },
+  {
+    "batch": 14,
+    "split": "test",
+    "method": "warp_fine",
+    "chosen": 0,
+    "reference_best": 0,
+    "regret": 0.0,
+    "max_cost_error": 1.64746805355,
+    "exact_winner": true
+  },
+  {
+    "batch": 15,
+    "split": "test",
+    "method": "warp_fine",
+    "chosen": 0,
+    "reference_best": 0,
+    "regret": 0.0,
+    "max_cost_error": 1.933868772880679,
+    "exact_winner": true
+  },
+  {
+    "batch": 0,
+    "split": "development",
+    "method": "warp_coarse",
+    "chosen": 1,
+    "reference_best": 1,
+    "regret": 0.0,
+    "max_cost_error": 0.12223499132989613,
+    "exact_winner": true
+  },
+  {
+    "batch": 1,
+    "split": "development",
+    "method": "warp_coarse",
+    "chosen": 1,
+    "reference_best": 1,
+    "regret": 0.0,
+    "max_cost_error": 0.375590732363972,
+    "exact_winner": true
+  },
+  {
+    "batch": 2,
+    "split": "development",
+    "method": "warp_coarse",
+    "chosen": 35,
+    "reference_best": 35,
+    "regret": 0.0,
+    "max_cost_error": 0.6169159801797726,
+    "exact_winner": true
+  },
+  {
+    "batch": 3,
+    "split": "development",
+    "method": "warp_coarse",
+    "chosen": 15,
+    "reference_best": 15,
+    "regret": 0.0,
+    "max_cost_error": 0.4100592637931939,
+    "exact_winner": true
+  },
+  {
+    "batch": 4,
+    "split": "development",
+    "method": "warp_coarse",
+    "chosen": 51,
+    "reference_best": 51,
+    "regret": 0.0,
+    "max_cost_error": 2.6636253239644443,
+    "exact_winner": true
+  },
+  {
+    "batch": 5,
+    "split": "development",
+    "method": "warp_coarse",
+    "chosen": 61,
+    "reference_best": 61,
+    "regret": 0.0,
+    "max_cost_error": 4.437746808026375,
+    "exact_winner": true
+  },
+  {
+    "batch": 6,
+    "split": "development",
+    "method": "warp_coarse",
+    "chosen": 20,
+    "reference_best": 0,
+    "regret": 0.0273795418792675,
+    "max_cost_error": 3.4100378683833217,
+    "exact_winner": false
+  },
+  {
+    "batch": 7,
+    "split": "development",
+    "method": "warp_coarse",
+    "chosen": 0,
+    "reference_best": 0,
+    "regret": 0.0,
+    "max_cost_error": 3.940626040576692,
+    "exact_winner": true
+  },
+  {
+    "batch": 8,
+    "split": "test",
+    "method": "warp_coarse",
+    "chosen": 1,
+    "reference_best": 1,
+    "regret": 0.0,
+    "max_cost_error": 0.1657358130808788,
+    "exact_winner": true
+  },
+  {
+    "batch": 9,
+    "split": "test",
+    "method": "warp_coarse",
+    "chosen": 1,
+    "reference_best": 1,
+    "regret": 0.0,
+    "max_cost_error": 0.07288711623578248,
+    "exact_winner": true
+  },
+  {
+    "batch": 10,
+    "split": "test",
+    "method": "warp_coarse",
+    "chosen": 42,
+    "reference_best": 42,
+    "regret": 0.0,
+    "max_cost_error": 0.42265794067836104,
+    "exact_winner": true
+  },
+  {
+    "batch": 11,
+    "split": "test",
+    "method": "warp_coarse",
+    "chosen": 8,
+    "reference_best": 26,
+    "regret": 0.05295776401663721,
+    "max_cost_error": 1.206110742365277,
+    "exact_winner": false
+  },
+  {
+    "batch": 12,
+    "split": "test",
+    "method": "warp_coarse",
+    "chosen": 56,
+    "reference_best": 56,
+    "regret": 0.0,
+    "max_cost_error": 2.3602849201256655,
+    "exact_winner": true
+  },
+  {
+    "batch": 13,
+    "split": "test",
+    "method": "warp_coarse",
+    "chosen": 24,
+    "reference_best": 16,
+    "regret": 0.11331221280892612,
+    "max_cost_error": 0.5611230168997969,
+    "exact_winner": false
+  },
+  {
+    "batch": 14,
+    "split": "test",
+    "method": "warp_coarse",
+    "chosen": 0,
+    "reference_best": 0,
+    "regret": 0.0,
+    "max_cost_error": 1.2028285857771959,
+    "exact_winner": true
+  },
+  {
+    "batch": 15,
+    "split": "test",
+    "method": "warp_coarse",
+    "chosen": 0,
+    "reference_best": 0,
+    "regret": 0.0,
+    "max_cost_error": 3.051732308932003,
+    "exact_winner": true
+  }
+]

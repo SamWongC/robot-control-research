@@ -1,0 +1,54 @@
+[
+  {
+    "rule": "zero",
+    "action_mean": 0.0,
+    "episodes": 256,
+    "success_count": 0,
+    "identified_count": 0,
+    "hindsight_feasible_count": 256,
+    "robust_known_delay_feasible_count": 254,
+    "hindsight_infeasible_failure_count": 0,
+    "hindsight_feasible_controller_failure_count": 256,
+    "mean_prep_energy": 0.0,
+    "prep_failure_count": 0
+  },
+  {
+    "rule": "task_only",
+    "action_mean": -0.35394550703135985,
+    "episodes": 256,
+    "success_count": 128,
+    "identified_count": 256,
+    "hindsight_feasible_count": 128,
+    "robust_known_delay_feasible_count": 128,
+    "hindsight_infeasible_failure_count": 128,
+    "hindsight_feasible_controller_failure_count": 0,
+    "mean_prep_energy": 0.0062643665655037995,
+    "prep_failure_count": 0
+  },
+  {
+    "rule": "fixed_0.1",
+    "action_mean": 0.10000000000000002,
+    "episodes": 256,
+    "success_count": 163,
+    "identified_count": 256,
+    "hindsight_feasible_count": 201,
+    "robust_known_delay_feasible_count": 128,
+    "hindsight_infeasible_failure_count": 55,
+    "hindsight_feasible_controller_failure_count": 38,
+    "mean_prep_energy": 0.0005000000000000002,
+    "prep_failure_count": 0
+  },
+  {
+    "rule": "frozen_selected",
+    "action_mean": 0.05000000000000001,
+    "episodes": 256,
+    "success_count": 239,
+    "identified_count": 256,
+    "hindsight_feasible_count": 256,
+    "robust_known_delay_feasible_count": 175,
+    "hindsight_infeasible_failure_count": 0,
+    "hindsight_feasible_controller_failure_count": 17,
+    "mean_prep_energy": 0.00012500000000000006,
+    "prep_failure_count": 0
+  }
+]

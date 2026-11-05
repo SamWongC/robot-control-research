@@ -1,0 +1,10 @@
+{
+  "replay_files_checked": {
+    "development": 144,
+    "test": 480
+  },
+  "source_and_manifest_hashes_match": true,
+  "all_coverage_and_size_metrics_recomputed": true,
+  "frozen_rules_sha256": "ecf4395112f604993d215fcf3d036ab84ade0d13e699a5a800a54d2983959f63",
+  "analysis_sha256": "fba7e0baa528ab292711742a504543e4626ebf5bd4070c619f0ecb3ba63f989a"
+}

@@ -1,0 +1,39 @@
+{
+  "test_episodes": 5760,
+  "development_episodes": 2960,
+  "test_prep_hard_solver_failure_episodes": 0,
+  "test_prep_boundary_violation_episodes": 0,
+  "selected_names": [
+    "legacy",
+    "lex_energy",
+    "track_1",
+    "progress_0.5"
+  ],
+  "oracle": [
+    {
+      "preview": 0,
+      "success_count": 128,
+      "episodes": 128
+    },
+    {
+      "preview": 1,
+      "success_count": 128,
+      "episodes": 128
+    },
+    {
+      "preview": 2,
+      "success_count": 128,
+      "episodes": 128
+    },
+    {
+      "preview": 4,
+      "success_count": 128,
+      "episodes": 128
+    },
+    {
+      "preview": 8,
+      "success_count": 128,
+      "episodes": 128
+    }
+  ]
+}

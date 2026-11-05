@@ -1,0 +1,8 @@
+{
+  "passed": true,
+  "finite_costs": true,
+  "recomputed_regrets": true,
+  "selected_cost_reproduction": true,
+  "unique_ids": true,
+  "timed_calls": 4608
+}

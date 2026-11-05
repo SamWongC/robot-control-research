@@ -1,0 +1,18 @@
+{
+  "episodes_checked": 276,
+  "all_trajectory_checks_pass": true,
+  "protocol_hash": "d3a3412ecd4a082694c38afb7a165e2f55e769db22d53aed4f4c1773b4e092eb",
+  "summary_source_hash": "49d39137a23c8cd834edad7d3aab09884d7a68bccd388976897f09ee451c04db",
+  "python": "3.12.14 (main, Aug 25 2026, 14:01:42) [MSC v.1944 64 bit (AMD64)]",
+  "platform": "Windows-11-10.0.26300-SP0",
+  "numpy": "2.5.4",
+  "checks": [
+    "frozen fixture and execution source hashes",
+    "trajectory shapes and finite values",
+    "recomputed pose errors and consecutive success",
+    "workspace exits",
+    "control limits",
+    "latency count"
+  ],
+  "limitations": "No physical validation; bootstrap is descriptive for these four synthetic families; only four development episodes checked at half execution step."
+}

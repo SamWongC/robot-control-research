@@ -1,0 +1,53 @@
+{
+  "purpose": "Implementation sanity check, not publication evidence",
+  "config": {
+    "dt_s": 0.05,
+    "horizon_steps": 40,
+    "steps": 400,
+    "delay_steps": 6,
+    "reference_m": 1.0,
+    "Q": [
+      20.0,
+      1.0
+    ],
+    "R": 0.2,
+    "initial_state": [
+      0.0,
+      0.0
+    ],
+    "initial_queue": "zeros",
+    "terminal_cost": "Q",
+    "constraints": null,
+    "noise": null,
+    "disturbance": null,
+    "randomness": null
+  },
+  "environment": {
+    "python": "3.12.14 (main, Aug 25 2026, 14:01:42) [MSC v.1944 64 bit (AMD64)]",
+    "executable": "C:\\codex-workspace\\RA-L\\.venv\\Scripts\\python.exe",
+    "platform": "Windows-11-10.0.26300-SP0",
+    "numpy": "2.3.5",
+    "matplotlib": "3.10.7"
+  },
+  "source_sha256": "da21ba5d8fa87a0fe81c8da2f0561e4d3703942bea29c06b84ce4bea6c8e526a",
+  "metrics": {
+    "no_delay_nominal": {
+      "position_rmse_m": 0.13712826984161855,
+      "max_abs_position_error_m": 1.0,
+      "last_position_m": 1.0,
+      "max_abs_command_m_s2": 8.824097275234372
+    },
+    "delayed_nominal": {
+      "position_rmse_m": 175670.15471310375,
+      "max_abs_position_error_m": 1199891.2605634786,
+      "last_position_m": -1199890.2605634786,
+      "max_abs_command_m_s2": 23193754.48301838
+    },
+    "delayed_known_delay": {
+      "position_rmse_m": 0.18388141603855973,
+      "max_abs_position_error_m": 1.0,
+      "last_position_m": 1.0,
+      "max_abs_command_m_s2": 8.814930961315504
+    }
+  }
+}

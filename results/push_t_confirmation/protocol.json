@@ -1,0 +1,25 @@
+{
+  "seed": 2026110403,
+  "batches": 256,
+  "per_family": 64,
+  "methods": [
+    "fine",
+    "top8",
+    "top16",
+    "top32",
+    "hybrid16",
+    "hybrid32"
+  ],
+  "repeats": 3,
+  "primary_reference": 0.0025,
+  "audit_reference": 0.000625,
+  "coarse_step": 0.01,
+  "reporting_tolerance": 0.0001,
+  "hybrid": "Retain best k/2 by coarse cost; fill to k using farthest minimum RMS action distance within coarse top min(2*k,64). Stable ties by coarse ordering.",
+  "decision": "Check any losses >1e-4, worst loss and p95 latency versus all-fine; report reference sensitivity. No task-level acceptable loss or certified safety established. Zero observed misses is not proof.",
+  "fixture_sha256": "0a01f837dc1c6d948812652739c8fd24a8b0a37d36f44814f085829361a50d67",
+  "source_sha256": "72a262d2415a7ea0957c6d8191050579f71aefdcb87e8cd304682439e4e973cc",
+  "generator_sha256": "e52a2410bd4ac80610d9a4da35691552da3a156ce2ce87f63ad9da7d62de24ba",
+  "base_sha256": "497290a8852f4dd278a8b05969c1f66c956db6028fd4e3955d6e7a09bc0ee640",
+  "scope": "New samples from unchanged four-family synthetic distribution; not new task, real robot or novelty validation."
+}

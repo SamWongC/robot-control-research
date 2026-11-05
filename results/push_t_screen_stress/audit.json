@@ -1,0 +1,11 @@
+{
+  "passed": true,
+  "checks": [
+    "192 frozen batches and finite costs",
+    "saved regrets independently recomputed",
+    "medium alarm recomputed",
+    "96/96 split",
+    "1728 timed calls"
+  ],
+  "source_sha256": "e52a2410bd4ac80610d9a4da35691552da3a156ce2ce87f63ad9da7d62de24ba"
+}

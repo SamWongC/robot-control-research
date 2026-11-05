@@ -1,0 +1,1304 @@
+[
+  {
+    "batch": 121,
+    "candidate": 45,
+    "dt": 0.01,
+    "first_force_contact": 0.16,
+    "force_transitions": [
+      {
+        "time": 0.16,
+        "active": true
+      },
+      {
+        "time": 0.18000000000000002,
+        "active": false
+      },
+      {
+        "time": 0.19000000000000003,
+        "active": true
+      },
+      {
+        "time": 0.20000000000000004,
+        "active": false
+      },
+      {
+        "time": 0.5000000000000002,
+        "active": true
+      },
+      {
+        "time": 0.5200000000000002,
+        "active": false
+      },
+      {
+        "time": 0.6200000000000003,
+        "active": true
+      },
+      {
+        "time": 0.6500000000000004,
+        "active": false
+      },
+      {
+        "time": 0.6800000000000004,
+        "active": true
+      },
+      {
+        "time": 0.7200000000000004,
+        "active": false
+      },
+      {
+        "time": 0.7700000000000005,
+        "active": true
+      },
+      {
+        "time": 0.7800000000000005,
+        "active": false
+      }
+    ],
+    "normal_impulse": 0.018541913392882102,
+    "contact_fraction": 0.13,
+    "pair_mask_transitions": 10
+  },
+  {
+    "batch": 121,
+    "candidate": 45,
+    "dt": 0.0025,
+    "first_force_contact": 0.12000000000000006,
+    "force_transitions": [
+      {
+        "time": 0.12000000000000006,
+        "active": true
+      },
+      {
+        "time": 0.12250000000000007,
+        "active": false
+      },
+      {
+        "time": 0.12500000000000006,
+        "active": true
+      },
+      {
+        "time": 0.13000000000000006,
+        "active": false
+      },
+      {
+        "time": 0.14500000000000007,
+        "active": true
+      },
+      {
+        "time": 0.14750000000000008,
+        "active": false
+      },
+      {
+        "time": 0.15250000000000008,
+        "active": true
+      },
+      {
+        "time": 0.1675000000000001,
+        "active": false
+      },
+      {
+        "time": 0.20250000000000012,
+        "active": true
+      },
+      {
+        "time": 0.22750000000000015,
+        "active": false
+      },
+      {
+        "time": 0.5125000000000001,
+        "active": true
+      },
+      {
+        "time": 0.5324999999999996,
+        "active": false
+      },
+      {
+        "time": 0.609999999999998,
+        "active": true
+      },
+      {
+        "time": 0.6399999999999973,
+        "active": false
+      },
+      {
+        "time": 0.6699999999999967,
+        "active": true
+      },
+      {
+        "time": 0.7074999999999959,
+        "active": false
+      },
+      {
+        "time": 0.7174999999999957,
+        "active": true
+      },
+      {
+        "time": 0.749999999999995,
+        "active": false
+      }
+    ],
+    "normal_impulse": 0.021052350889395263,
+    "contact_fraction": 0.17,
+    "pair_mask_transitions": 10
+  },
+  {
+    "batch": 121,
+    "candidate": 45,
+    "dt": 0.00015625,
+    "first_force_contact": 0.11749999999999819,
+    "force_transitions": [
+      {
+        "time": 0.11749999999999819,
+        "active": true
+      },
+      {
+        "time": 0.11890624999999816,
+        "active": false
+      },
+      {
+        "time": 0.12062499999999812,
+        "active": true
+      },
+      {
+        "time": 0.12078124999999812,
+        "active": false
+      },
+      {
+        "time": 0.12124999999999811,
+        "active": true
+      },
+      {
+        "time": 0.1214062499999981,
+        "active": false
+      },
+      {
+        "time": 0.1215624999999981,
+        "active": true
+      },
+      {
+        "time": 0.1217187499999981,
+        "active": false
+      },
+      {
+        "time": 0.1218749999999981,
+        "active": true
+      },
+      {
+        "time": 0.12265624999999808,
+        "active": false
+      },
+      {
+        "time": 0.12281249999999808,
+        "active": true
+      },
+      {
+        "time": 0.12312499999999807,
+        "active": false
+      },
+      {
+        "time": 0.12328124999999807,
+        "active": true
+      },
+      {
+        "time": 0.12374999999999806,
+        "active": false
+      },
+      {
+        "time": 0.125937499999998,
+        "active": true
+      },
+      {
+        "time": 0.126093749999998,
+        "active": false
+      },
+      {
+        "time": 0.12734374999999798,
+        "active": true
+      },
+      {
+        "time": 0.12749999999999798,
+        "active": false
+      },
+      {
+        "time": 0.12765624999999797,
+        "active": true
+      },
+      {
+        "time": 0.12796874999999797,
+        "active": false
+      },
+      {
+        "time": 0.12937499999999794,
+        "active": true
+      },
+      {
+        "time": 0.12984374999999793,
+        "active": false
+      },
+      {
+        "time": 0.12999999999999792,
+        "active": true
+      },
+      {
+        "time": 0.13031249999999792,
+        "active": false
+      },
+      {
+        "time": 0.13359374999999785,
+        "active": true
+      },
+      {
+        "time": 0.13374999999999784,
+        "active": false
+      },
+      {
+        "time": 0.13421874999999783,
+        "active": true
+      },
+      {
+        "time": 0.13437499999999783,
+        "active": false
+      },
+      {
+        "time": 0.13484374999999782,
+        "active": true
+      },
+      {
+        "time": 0.1357812499999978,
+        "active": false
+      },
+      {
+        "time": 0.13953124999999772,
+        "active": true
+      },
+      {
+        "time": 0.13968749999999772,
+        "active": false
+      },
+      {
+        "time": 0.1410937499999977,
+        "active": true
+      },
+      {
+        "time": 0.14203124999999767,
+        "active": false
+      },
+      {
+        "time": 0.14703124999999756,
+        "active": true
+      },
+      {
+        "time": 0.14718749999999756,
+        "active": false
+      },
+      {
+        "time": 0.14749999999999755,
+        "active": true
+      },
+      {
+        "time": 0.14765624999999755,
+        "active": false
+      },
+      {
+        "time": 0.1501562499999975,
+        "active": true
+      },
+      {
+        "time": 0.1634374999999972,
+        "active": false
+      },
+      {
+        "time": 0.1642187499999972,
+        "active": true
+      },
+      {
+        "time": 0.1643749999999972,
+        "active": false
+      },
+      {
+        "time": 0.17468749999999697,
+        "active": true
+      },
+      {
+        "time": 0.17499999999999696,
+        "active": false
+      },
+      {
+        "time": 0.18578124999999673,
+        "active": true
+      },
+      {
+        "time": 0.18593749999999673,
+        "active": false
+      },
+      {
+        "time": 0.20015624999999643,
+        "active": true
+      },
+      {
+        "time": 0.23187499999999575,
+        "active": false
+      },
+      {
+        "time": 0.491093750000033,
+        "active": true
+      },
+      {
+        "time": 0.5093750000000326,
+        "active": false
+      },
+      {
+        "time": 0.5729687500000199,
+        "active": true
+      },
+      {
+        "time": 0.5907812500000164,
+        "active": false
+      },
+      {
+        "time": 0.6150000000000115,
+        "active": true
+      },
+      {
+        "time": 0.6404687500000065,
+        "active": false
+      },
+      {
+        "time": 0.6626562500000021,
+        "active": true
+      },
+      {
+        "time": 0.7045312499999937,
+        "active": false
+      },
+      {
+        "time": 0.7121874999999922,
+        "active": true
+      },
+      {
+        "time": 0.7456249999999855,
+        "active": false
+      }
+    ],
+    "normal_impulse": 0.020470582584297542,
+    "contact_fraction": 0.19,
+    "pair_mask_transitions": 12
+  },
+  {
+    "batch": 121,
+    "candidate": 49,
+    "dt": 0.01,
+    "first_force_contact": 0.09999999999999999,
+    "force_transitions": [
+      {
+        "time": 0.09999999999999999,
+        "active": true
+      },
+      {
+        "time": 0.15,
+        "active": false
+      },
+      {
+        "time": 0.16,
+        "active": true
+      },
+      {
+        "time": 0.18000000000000002,
+        "active": false
+      },
+      {
+        "time": 0.22000000000000006,
+        "active": true
+      },
+      {
+        "time": 0.37000000000000016,
+        "active": false
+      }
+    ],
+    "normal_impulse": 0.04253210114890063,
+    "contact_fraction": 0.22,
+    "pair_mask_transitions": 4
+  },
+  {
+    "batch": 121,
+    "candidate": 49,
+    "dt": 0.0025,
+    "first_force_contact": 0.09250000000000004,
+    "force_transitions": [
+      {
+        "time": 0.09250000000000004,
+        "active": true
+      },
+      {
+        "time": 0.12000000000000006,
+        "active": false
+      },
+      {
+        "time": 0.14500000000000007,
+        "active": true
+      },
+      {
+        "time": 0.14750000000000008,
+        "active": false
+      },
+      {
+        "time": 0.15250000000000008,
+        "active": true
+      },
+      {
+        "time": 0.2975000000000002,
+        "active": false
+      },
+      {
+        "time": 0.3950000000000003,
+        "active": true
+      },
+      {
+        "time": 0.47250000000000036,
+        "active": false
+      },
+      {
+        "time": 0.5249999999999998,
+        "active": true
+      },
+      {
+        "time": 0.5524999999999992,
+        "active": false
+      },
+      {
+        "time": 0.5824999999999986,
+        "active": true
+      },
+      {
+        "time": 0.5999999999999982,
+        "active": false
+      },
+      {
+        "time": 0.6199999999999978,
+        "active": true
+      },
+      {
+        "time": 0.6349999999999975,
+        "active": false
+      },
+      {
+        "time": 0.6599999999999969,
+        "active": true
+      },
+      {
+        "time": 0.6724999999999967,
+        "active": false
+      },
+      {
+        "time": 0.6974999999999961,
+        "active": true
+      },
+      {
+        "time": 0.702499999999996,
+        "active": false
+      },
+      {
+        "time": 0.7074999999999959,
+        "active": true
+      },
+      {
+        "time": 0.7124999999999958,
+        "active": false
+      },
+      {
+        "time": 0.7249999999999955,
+        "active": true
+      },
+      {
+        "time": 0.7299999999999954,
+        "active": false
+      }
+    ],
+    "normal_impulse": 0.03912839864484806,
+    "contact_fraction": 0.34,
+    "pair_mask_transitions": 18
+  },
+  {
+    "batch": 121,
+    "candidate": 49,
+    "dt": 0.00015625,
+    "first_force_contact": 0.08968749999999878,
+    "force_transitions": [
+      {
+        "time": 0.08968749999999878,
+        "active": true
+      },
+      {
+        "time": 0.11453124999999825,
+        "active": false
+      },
+      {
+        "time": 0.11468749999999825,
+        "active": true
+      },
+      {
+        "time": 0.11515624999999824,
+        "active": false
+      },
+      {
+        "time": 0.11781249999999818,
+        "active": true
+      },
+      {
+        "time": 0.11812499999999818,
+        "active": false
+      },
+      {
+        "time": 0.11828124999999817,
+        "active": true
+      },
+      {
+        "time": 0.11874999999999816,
+        "active": false
+      },
+      {
+        "time": 0.11890624999999816,
+        "active": true
+      },
+      {
+        "time": 0.11906249999999816,
+        "active": false
+      },
+      {
+        "time": 0.12015624999999813,
+        "active": true
+      },
+      {
+        "time": 0.12109374999999811,
+        "active": false
+      },
+      {
+        "time": 0.1214062499999981,
+        "active": true
+      },
+      {
+        "time": 0.1215624999999981,
+        "active": false
+      },
+      {
+        "time": 0.12718749999999798,
+        "active": true
+      },
+      {
+        "time": 0.12734374999999798,
+        "active": false
+      },
+      {
+        "time": 0.12781249999999797,
+        "active": true
+      },
+      {
+        "time": 0.12796874999999797,
+        "active": false
+      },
+      {
+        "time": 0.12812499999999796,
+        "active": true
+      },
+      {
+        "time": 0.12828124999999796,
+        "active": false
+      },
+      {
+        "time": 0.12953124999999793,
+        "active": true
+      },
+      {
+        "time": 0.1306249999999979,
+        "active": false
+      },
+      {
+        "time": 0.14624999999999758,
+        "active": true
+      },
+      {
+        "time": 0.14656249999999757,
+        "active": false
+      },
+      {
+        "time": 0.14734374999999755,
+        "active": true
+      },
+      {
+        "time": 0.14765624999999755,
+        "active": false
+      },
+      {
+        "time": 0.14812499999999754,
+        "active": true
+      },
+      {
+        "time": 0.14828124999999753,
+        "active": false
+      },
+      {
+        "time": 0.1501562499999975,
+        "active": true
+      },
+      {
+        "time": 0.3112500000000049,
+        "active": false
+      },
+      {
+        "time": 0.388750000000017,
+        "active": true
+      },
+      {
+        "time": 0.46812500000002943,
+        "active": false
+      },
+      {
+        "time": 0.5129687500000318,
+        "active": true
+      },
+      {
+        "time": 0.5376562500000269,
+        "active": false
+      },
+      {
+        "time": 0.567343750000021,
+        "active": true
+      },
+      {
+        "time": 0.5870312500000171,
+        "active": false
+      },
+      {
+        "time": 0.6107812500000124,
+        "active": true
+      },
+      {
+        "time": 0.6289062500000088,
+        "active": false
+      },
+      {
+        "time": 0.6596875000000026,
+        "active": true
+      },
+      {
+        "time": 0.6753124999999995,
+        "active": false
+      },
+      {
+        "time": 0.7118749999999923,
+        "active": true
+      },
+      {
+        "time": 0.7254687499999896,
+        "active": false
+      }
+    ],
+    "normal_impulse": 0.03963355651931656,
+    "contact_fraction": 0.361875,
+    "pair_mask_transitions": 14
+  },
+  {
+    "batch": 139,
+    "candidate": 0,
+    "dt": 0.01,
+    "first_force_contact": null,
+    "force_transitions": [],
+    "normal_impulse": 0.0,
+    "contact_fraction": 0.0,
+    "pair_mask_transitions": 0
+  },
+  {
+    "batch": 139,
+    "candidate": 0,
+    "dt": 0.0025,
+    "first_force_contact": null,
+    "force_transitions": [],
+    "normal_impulse": 0.0,
+    "contact_fraction": 0.0,
+    "pair_mask_transitions": 0
+  },
+  {
+    "batch": 139,
+    "candidate": 0,
+    "dt": 0.00015625,
+    "first_force_contact": null,
+    "force_transitions": [],
+    "normal_impulse": 0.0,
+    "contact_fraction": 0.0,
+    "pair_mask_transitions": 0
+  },
+  {
+    "batch": 139,
+    "candidate": 36,
+    "dt": 0.01,
+    "first_force_contact": 0.13999999999999999,
+    "force_transitions": [
+      {
+        "time": 0.13999999999999999,
+        "active": true
+      },
+      {
+        "time": 0.15,
+        "active": false
+      },
+      {
+        "time": 0.16,
+        "active": true
+      },
+      {
+        "time": 0.19000000000000003,
+        "active": false
+      },
+      {
+        "time": 0.21000000000000005,
+        "active": true
+      },
+      {
+        "time": 0.25000000000000006,
+        "active": false
+      },
+      {
+        "time": 0.26000000000000006,
+        "active": true
+      },
+      {
+        "time": 0.2700000000000001,
+        "active": false
+      },
+      {
+        "time": 0.5000000000000002,
+        "active": true
+      },
+      {
+        "time": 0.5300000000000002,
+        "active": false
+      }
+    ],
+    "normal_impulse": 0.013804834978395492,
+    "contact_fraction": 0.12,
+    "pair_mask_transitions": 4
+  },
+  {
+    "batch": 139,
+    "candidate": 36,
+    "dt": 0.0025,
+    "first_force_contact": 0.12500000000000006,
+    "force_transitions": [
+      {
+        "time": 0.12500000000000006,
+        "active": true
+      },
+      {
+        "time": 0.13000000000000006,
+        "active": false
+      },
+      {
+        "time": 0.15250000000000008,
+        "active": true
+      },
+      {
+        "time": 0.1700000000000001,
+        "active": false
+      },
+      {
+        "time": 0.1725000000000001,
+        "active": true
+      },
+      {
+        "time": 0.1750000000000001,
+        "active": false
+      },
+      {
+        "time": 0.20250000000000012,
+        "active": true
+      },
+      {
+        "time": 0.2750000000000002,
+        "active": false
+      },
+      {
+        "time": 0.48000000000000037,
+        "active": true
+      },
+      {
+        "time": 0.5175,
+        "active": false
+      }
+    ],
+    "normal_impulse": 0.011201976566036288,
+    "contact_fraction": 0.135,
+    "pair_mask_transitions": 4
+  },
+  {
+    "batch": 139,
+    "candidate": 36,
+    "dt": 0.00015625,
+    "first_force_contact": 0.11515624999999824,
+    "force_transitions": [
+      {
+        "time": 0.11515624999999824,
+        "active": true
+      },
+      {
+        "time": 0.11531249999999824,
+        "active": false
+      },
+      {
+        "time": 0.11624999999999822,
+        "active": true
+      },
+      {
+        "time": 0.11749999999999819,
+        "active": false
+      },
+      {
+        "time": 0.11765624999999819,
+        "active": true
+      },
+      {
+        "time": 0.11781249999999818,
+        "active": false
+      },
+      {
+        "time": 0.11843749999999817,
+        "active": true
+      },
+      {
+        "time": 0.11890624999999816,
+        "active": false
+      },
+      {
+        "time": 0.12046874999999813,
+        "active": true
+      },
+      {
+        "time": 0.12218749999999809,
+        "active": false
+      },
+      {
+        "time": 0.12265624999999808,
+        "active": true
+      },
+      {
+        "time": 0.12281249999999808,
+        "active": false
+      },
+      {
+        "time": 0.12296874999999807,
+        "active": true
+      },
+      {
+        "time": 0.12312499999999807,
+        "active": false
+      },
+      {
+        "time": 0.12406249999999805,
+        "active": true
+      },
+      {
+        "time": 0.12421874999999805,
+        "active": false
+      },
+      {
+        "time": 0.12468749999999804,
+        "active": true
+      },
+      {
+        "time": 0.12484374999999803,
+        "active": false
+      },
+      {
+        "time": 0.12499999999999803,
+        "active": true
+      },
+      {
+        "time": 0.126093749999998,
+        "active": false
+      },
+      {
+        "time": 0.1307812499999979,
+        "active": true
+      },
+      {
+        "time": 0.1309374999999979,
+        "active": false
+      },
+      {
+        "time": 0.1310937499999979,
+        "active": true
+      },
+      {
+        "time": 0.1314062499999979,
+        "active": false
+      },
+      {
+        "time": 0.13249999999999787,
+        "active": true
+      },
+      {
+        "time": 0.13265624999999787,
+        "active": false
+      },
+      {
+        "time": 0.13687499999999778,
+        "active": true
+      },
+      {
+        "time": 0.13703124999999777,
+        "active": false
+      },
+      {
+        "time": 0.13718749999999777,
+        "active": true
+      },
+      {
+        "time": 0.13734374999999777,
+        "active": false
+      },
+      {
+        "time": 0.1501562499999975,
+        "active": true
+      },
+      {
+        "time": 0.16484374999999718,
+        "active": false
+      },
+      {
+        "time": 0.16593749999999716,
+        "active": true
+      },
+      {
+        "time": 0.16624999999999715,
+        "active": false
+      },
+      {
+        "time": 0.16656249999999714,
+        "active": true
+      },
+      {
+        "time": 0.16671874999999714,
+        "active": false
+      },
+      {
+        "time": 0.20015624999999643,
+        "active": true
+      },
+      {
+        "time": 0.2792187499999999,
+        "active": false
+      },
+      {
+        "time": 0.4703125000000298,
+        "active": true
+      },
+      {
+        "time": 0.5057812500000333,
+        "active": false
+      }
+    ],
+    "normal_impulse": 0.01143530605496559,
+    "contact_fraction": 0.13609375,
+    "pair_mask_transitions": 4
+  },
+  {
+    "batch": 145,
+    "candidate": 6,
+    "dt": 0.01,
+    "first_force_contact": null,
+    "force_transitions": [],
+    "normal_impulse": 0.0,
+    "contact_fraction": 0.0,
+    "pair_mask_transitions": 0
+  },
+  {
+    "batch": 145,
+    "candidate": 6,
+    "dt": 0.0025,
+    "first_force_contact": null,
+    "force_transitions": [],
+    "normal_impulse": 0.0,
+    "contact_fraction": 0.0,
+    "pair_mask_transitions": 0
+  },
+  {
+    "batch": 145,
+    "candidate": 6,
+    "dt": 0.00015625,
+    "first_force_contact": null,
+    "force_transitions": [],
+    "normal_impulse": 0.0,
+    "contact_fraction": 0.0,
+    "pair_mask_transitions": 0
+  },
+  {
+    "batch": 145,
+    "candidate": 54,
+    "dt": 0.01,
+    "first_force_contact": 0.2700000000000001,
+    "force_transitions": [
+      {
+        "time": 0.2700000000000001,
+        "active": true
+      },
+      {
+        "time": 0.2900000000000001,
+        "active": false
+      },
+      {
+        "time": 0.7100000000000004,
+        "active": true
+      },
+      {
+        "time": 0.7600000000000005,
+        "active": false
+      }
+    ],
+    "normal_impulse": 0.02688098323180435,
+    "contact_fraction": 0.07,
+    "pair_mask_transitions": 4
+  },
+  {
+    "batch": 145,
+    "candidate": 54,
+    "dt": 0.0025,
+    "first_force_contact": 0.2650000000000002,
+    "force_transitions": [
+      {
+        "time": 0.2650000000000002,
+        "active": true
+      },
+      {
+        "time": 0.2750000000000002,
+        "active": false
+      },
+      {
+        "time": 0.6699999999999967,
+        "active": true
+      },
+      {
+        "time": 0.7199999999999956,
+        "active": false
+      }
+    ],
+    "normal_impulse": 0.017791162015984515,
+    "contact_fraction": 0.06,
+    "pair_mask_transitions": 4
+  },
+  {
+    "batch": 145,
+    "candidate": 54,
+    "dt": 0.00015625,
+    "first_force_contact": 0.26093749999999705,
+    "force_transitions": [
+      {
+        "time": 0.26093749999999705,
+        "active": true
+      },
+      {
+        "time": 0.2696874999999984,
+        "active": false
+      },
+      {
+        "time": 0.6667187500000012,
+        "active": true
+      },
+      {
+        "time": 0.717968749999991,
+        "active": false
+      }
+    ],
+    "normal_impulse": 0.016862390283064407,
+    "contact_fraction": 0.06,
+    "pair_mask_transitions": 4
+  },
+  {
+    "batch": 159,
+    "candidate": 10,
+    "dt": 0.01,
+    "first_force_contact": 0.04,
+    "force_transitions": [
+      {
+        "time": 0.04,
+        "active": true
+      },
+      {
+        "time": 0.060000000000000005,
+        "active": false
+      },
+      {
+        "time": 0.07,
+        "active": true
+      },
+      {
+        "time": 0.10999999999999999,
+        "active": false
+      },
+      {
+        "time": 0.7200000000000004,
+        "active": true
+      },
+      {
+        "time": 0.7800000000000005,
+        "active": false
+      }
+    ],
+    "normal_impulse": 0.06899011145674923,
+    "contact_fraction": 0.12,
+    "pair_mask_transitions": 4
+  },
+  {
+    "batch": 159,
+    "candidate": 10,
+    "dt": 0.0025,
+    "first_force_contact": 0.032499999999999994,
+    "force_transitions": [
+      {
+        "time": 0.032499999999999994,
+        "active": true
+      },
+      {
+        "time": 0.05250000000000001,
+        "active": false
+      },
+      {
+        "time": 0.057500000000000016,
+        "active": true
+      },
+      {
+        "time": 0.10250000000000005,
+        "active": false
+      },
+      {
+        "time": 0.9099999999999916,
+        "active": true
+      }
+    ],
+    "normal_impulse": 0.07241378171574508,
+    "contact_fraction": 0.1575,
+    "pair_mask_transitions": 3
+  },
+  {
+    "batch": 159,
+    "candidate": 10,
+    "dt": 0.00015625,
+    "first_force_contact": 0.030312500000000023,
+    "force_transitions": [
+      {
+        "time": 0.030312500000000023,
+        "active": true
+      },
+      {
+        "time": 0.05015624999999962,
+        "active": false
+      },
+      {
+        "time": 0.05281249999999956,
+        "active": true
+      },
+      {
+        "time": 0.10015624999999856,
+        "active": false
+      },
+      {
+        "time": 0.9089062499999531,
+        "active": true
+      }
+    ],
+    "normal_impulse": 0.07209287325206716,
+    "contact_fraction": 0.1584375,
+    "pair_mask_transitions": 3
+  },
+  {
+    "batch": 159,
+    "candidate": 11,
+    "dt": 0.01,
+    "first_force_contact": 0.04,
+    "force_transitions": [
+      {
+        "time": 0.04,
+        "active": true
+      },
+      {
+        "time": 0.060000000000000005,
+        "active": false
+      },
+      {
+        "time": 0.07,
+        "active": true
+      },
+      {
+        "time": 0.10999999999999999,
+        "active": false
+      },
+      {
+        "time": 0.9100000000000006,
+        "active": true
+      }
+    ],
+    "normal_impulse": 0.07744641489933589,
+    "contact_fraction": 0.16,
+    "pair_mask_transitions": 3
+  },
+  {
+    "batch": 159,
+    "candidate": 11,
+    "dt": 0.0025,
+    "first_force_contact": 0.032499999999999994,
+    "force_transitions": [
+      {
+        "time": 0.032499999999999994,
+        "active": true
+      },
+      {
+        "time": 0.05250000000000001,
+        "active": false
+      },
+      {
+        "time": 0.055000000000000014,
+        "active": true
+      },
+      {
+        "time": 0.10250000000000005,
+        "active": false
+      },
+      {
+        "time": 0.9074999999999916,
+        "active": true
+      }
+    ],
+    "normal_impulse": 0.07576218234201884,
+    "contact_fraction": 0.1625,
+    "pair_mask_transitions": 3
+  },
+  {
+    "batch": 159,
+    "candidate": 11,
+    "dt": 0.00015625,
+    "first_force_contact": 0.029687500000000023,
+    "force_transitions": [
+      {
+        "time": 0.029687500000000023,
+        "active": true
+      },
+      {
+        "time": 0.05015624999999962,
+        "active": false
+      },
+      {
+        "time": 0.050781249999999604,
+        "active": true
+      },
+      {
+        "time": 0.10015624999999856,
+        "active": false
+      },
+      {
+        "time": 0.9059374999999537,
+        "active": true
+      }
+    ],
+    "normal_impulse": 0.07519686354153328,
+    "contact_fraction": 0.1640625,
+    "pair_mask_transitions": 3
+  }
+]

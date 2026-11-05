@@ -1,0 +1,74 @@
+[
+  {
+    "method": "stage_two_pass",
+    "losses": 0,
+    "max_regret": 0.0,
+    "mean_regret": 0.0,
+    "p50_ms": 58.84479993255809,
+    "p95_ms": 72.13712000520898,
+    "mean_calls": 40.453125,
+    "mean_steps": 94871.5625,
+    "case148_winner": 37,
+    "case148_ms": 67.06959998700768
+  },
+  {
+    "method": "contiguous",
+    "losses": 0,
+    "max_regret": 0.0,
+    "mean_regret": 0.0,
+    "p50_ms": 110.19110004417598,
+    "p95_ms": 154.58711996325292,
+    "mean_calls": 52.21875,
+    "mean_steps": 94871.5625,
+    "case148_winner": 37,
+    "case148_ms": 82.54329999908805
+  },
+  {
+    "method": "prefix_reuse",
+    "losses": 0,
+    "max_regret": 0.0,
+    "mean_regret": 0.0,
+    "p50_ms": 108.9032999589108,
+    "p95_ms": 151.43822497338988,
+    "mean_calls": 49.375,
+    "mean_steps": 93670.625,
+    "case148_winner": 37,
+    "case148_ms": 80.95000009052455
+  },
+  {
+    "method": "online_one_pass",
+    "losses": 0,
+    "max_regret": 0.0,
+    "mean_regret": 0.0,
+    "p50_ms": 51.08269996708259,
+    "p95_ms": 61.28651998587884,
+    "mean_calls": 36.265625,
+    "mean_steps": 81114.0625,
+    "case148_winner": 37,
+    "case148_ms": 56.13320006523281
+  },
+  {
+    "method": "uniform_medium",
+    "losses": 4,
+    "max_regret": 0.1297107939525759,
+    "mean_regret": 0.005187424853551106,
+    "p50_ms": 24.012550013139844,
+    "p95_ms": 27.70167005364783,
+    "mean_calls": 1.0,
+    "mean_steps": 51200.0,
+    "case148_winner": 37,
+    "case148_ms": 26.802299893461168
+  },
+  {
+    "method": "uniform_high",
+    "losses": 0,
+    "max_regret": 0.0,
+    "mean_regret": 0.0,
+    "p50_ms": 48.14745002659038,
+    "p95_ms": 54.633055021986365,
+    "mean_calls": 1.0,
+    "mean_steps": 102400.0,
+    "case148_winner": 37,
+    "case148_ms": 53.197499946691096
+  }
+]

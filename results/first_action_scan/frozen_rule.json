@@ -1,0 +1,170 @@
+{
+  "selected": {
+    "action": 0.05,
+    "success_count": 69,
+    "episodes": 74,
+    "prep_energy": 0.00012500000000000003
+  },
+  "eligible": [
+    {
+      "action": -0.11,
+      "success_count": 44,
+      "episodes": 74,
+      "prep_energy": 0.0006050000000000001
+    },
+    {
+      "action": -0.105,
+      "success_count": 49,
+      "episodes": 74,
+      "prep_energy": 0.00055125
+    },
+    {
+      "action": -0.1,
+      "success_count": 51,
+      "episodes": 74,
+      "prep_energy": 0.0005000000000000001
+    },
+    {
+      "action": -0.095,
+      "success_count": 53,
+      "episodes": 74,
+      "prep_energy": 0.00045125000000000005
+    },
+    {
+      "action": -0.09,
+      "success_count": 56,
+      "episodes": 74,
+      "prep_energy": 0.000405
+    },
+    {
+      "action": -0.085,
+      "success_count": 58,
+      "episodes": 74,
+      "prep_energy": 0.0003612500000000001
+    },
+    {
+      "action": -0.08,
+      "success_count": 59,
+      "episodes": 74,
+      "prep_energy": 0.00032
+    },
+    {
+      "action": -0.075,
+      "success_count": 60,
+      "episodes": 74,
+      "prep_energy": 0.00028125
+    },
+    {
+      "action": -0.07,
+      "success_count": 61,
+      "episodes": 74,
+      "prep_energy": 0.00024500000000000005
+    },
+    {
+      "action": -0.065,
+      "success_count": 62,
+      "episodes": 74,
+      "prep_energy": 0.00021125000000000004
+    },
+    {
+      "action": -0.06,
+      "success_count": 64,
+      "episodes": 74,
+      "prep_energy": 0.00018
+    },
+    {
+      "action": -0.055,
+      "success_count": 66,
+      "episodes": 74,
+      "prep_energy": 0.00015125000000000002
+    },
+    {
+      "action": -0.05,
+      "success_count": 67,
+      "episodes": 74,
+      "prep_energy": 0.00012500000000000003
+    },
+    {
+      "action": 0.05,
+      "success_count": 69,
+      "episodes": 74,
+      "prep_energy": 0.00012500000000000003
+    },
+    {
+      "action": 0.055,
+      "success_count": 68,
+      "episodes": 74,
+      "prep_energy": 0.00015125000000000002
+    },
+    {
+      "action": 0.06,
+      "success_count": 67,
+      "episodes": 74,
+      "prep_energy": 0.00018
+    },
+    {
+      "action": 0.065,
+      "success_count": 65,
+      "episodes": 74,
+      "prep_energy": 0.00021125000000000004
+    },
+    {
+      "action": 0.07,
+      "success_count": 64,
+      "episodes": 74,
+      "prep_energy": 0.00024500000000000005
+    },
+    {
+      "action": 0.075,
+      "success_count": 62,
+      "episodes": 74,
+      "prep_energy": 0.00028125
+    },
+    {
+      "action": 0.08,
+      "success_count": 59,
+      "episodes": 74,
+      "prep_energy": 0.00032
+    },
+    {
+      "action": 0.085,
+      "success_count": 57,
+      "episodes": 74,
+      "prep_energy": 0.0003612500000000001
+    },
+    {
+      "action": 0.09,
+      "success_count": 57,
+      "episodes": 74,
+      "prep_energy": 0.000405
+    },
+    {
+      "action": 0.095,
+      "success_count": 53,
+      "episodes": 74,
+      "prep_energy": 0.00045125000000000005
+    },
+    {
+      "action": 0.1,
+      "success_count": 49,
+      "episodes": 74,
+      "prep_energy": 0.0005000000000000001
+    },
+    {
+      "action": 0.105,
+      "success_count": 45,
+      "episodes": 74,
+      "prep_energy": 0.00055125
+    },
+    {
+      "action": 0.11,
+      "success_count": 42,
+      "episodes": 74,
+      "prep_energy": 0.0006050000000000001
+    }
+  ],
+  "source_sha256": "b0a601c8a26d4bea3841532e63207d5ede5a2ead461508a4555720391702c47f",
+  "config_sha256": "e3bcd9175fff7aba1cc75f3901d7b911bcb473469b0e6e6ab6cd32f889f3f5eb",
+  "scan_episodes_sha256": "d1d8f45d06f88ac1f13da0cd17470d691f4bd80ffa600d1fb3c4076259153d84",
+  "test_inputs_not_generated": true
+}

@@ -1,0 +1,40 @@
+test_frozen_fixture_and_split (test_push_t_fixed_batch.FixedBatchTests.test_frozen_fixture_and_split) ... ok
+test_gap_geometry (test_push_t_fixed_batch.FixedBatchTests.test_gap_geometry) ... ok
+test_native_reference_against_direct_steps (test_push_t_fixed_batch.FixedBatchTests.test_native_reference_against_direct_steps) ... ok
+test_regrets_and_finite_reference (test_push_t_fixed_batch.FixedBatchTests.test_regrets_and_finite_reference) ... ok
+test_sensor_records_and_duration (test_push_t_fixed_batch.FixedBatchTests.test_sensor_records_and_duration) ... ok
+test_thread_count_and_stage_stitching (test_push_t_fixed_batch.FixedBatchTests.test_thread_count_and_stage_stitching) ... FAIL
+
+======================================================================
+FAIL: test_thread_count_and_stage_stitching (test_push_t_fixed_batch.FixedBatchTests.test_thread_count_and_stage_stitching)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\codex-workspace\RA-L\test_push_t_fixed_batch.py", line 35, in test_thread_count_and_stage_stitching
+    np.testing.assert_allclose(a,c,atol=1e-7,rtol=1e-7)
+  File "C:\codex-workspace\RA-L\.venv-contact\Lib\site-packages\numpy\testing\_private\utils.py", line 1780, in assert_allclose
+    assert_array_compare(compare, actual, desired, err_msg=str(err_msg),
+  File "C:\codex-workspace\RA-L\.venv-contact\Lib\site-packages\numpy\testing\_private\utils.py", line 988, in assert_array_compare
+    raise AssertionError(msg)
+AssertionError: 
+Not equal to tolerance rtol=1e-07, atol=1e-07
+
+Mismatched elements: 16 / 64 (25%)
+First 5 mismatches are at indices:
+ [1]: 5.965360704480875 (ACTUAL), 5.96533740955214 (DESIRED)
+ [7]: 10.469669082132008 (ACTUAL), 10.4695649603578 (DESIRED)
+ [8]: 8.896823512633441 (ACTUAL), 8.893531728743271 (DESIRED)
+ [10]: 9.152444275491584 (ACTUAL), 9.151757580139726 (DESIRED)
+ [11]: 7.689353848523536 (ACTUAL), 7.689368430726959 (DESIRED)
+Max absolute difference among violations: 0.01033149
+Max relative difference among violations: 0.0011593
+ ACTUAL: array([11.69934 ,  5.965361, 11.699357, 11.699354, 10.180783, 11.699352,
+       11.699352, 10.469669,  8.896824,  9.096933,  9.152444,  7.689354,
+       11.699354, 11.699345, 11.699356, 11.699345, 11.699346, 11.699356,...
+ DESIRED: array([11.69934 ,  5.965337, 11.699357, 11.699354, 10.180783, 11.699352,
+       11.699352, 10.469565,  8.893532,  9.096933,  9.151758,  7.689368,
+       11.699354, 11.699345, 11.699356, 11.699345, 11.699346, 11.699356,...
+
+----------------------------------------------------------------------
+Ran 6 tests in 0.266s
+
+FAILED (failures=1)

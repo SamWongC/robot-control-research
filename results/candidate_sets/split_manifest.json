@@ -1,0 +1,72 @@
+{
+  "development": {
+    "split": "development",
+    "delays": [
+      2,
+      6
+    ],
+    "sigmas": [
+      0.005,
+      0.02
+    ],
+    "seeds": [
+      0,
+      1,
+      2
+    ],
+    "disturbances": [
+      "zero",
+      "constant",
+      "sine"
+    ],
+    "sine_frequency": 0.6,
+    "multisine_frequencies": [
+      0.35,
+      0.9,
+      1.4
+    ],
+    "disturbance_frequency": 0.08,
+    "constant_disturbance": 0.4,
+    "ramp_disturbance_slope": null
+  },
+  "test": {
+    "split": "test",
+    "delays": [
+      1,
+      4,
+      7
+    ],
+    "sigmas": [
+      0.008,
+      0.025
+    ],
+    "seeds": [
+      100,
+      101,
+      102,
+      103,
+      104
+    ],
+    "disturbances": [
+      "zero",
+      "constant",
+      "sine",
+      "ramp"
+    ],
+    "sine_frequency": 0.83,
+    "multisine_frequencies": [
+      0.27,
+      1.23,
+      1.91
+    ],
+    "disturbance_frequency": 0.13,
+    "constant_disturbance": -0.55,
+    "ramp_disturbance_slope": 0.035
+  },
+  "dt": 0.05,
+  "steps": 400,
+  "window": 20,
+  "eval_start": 100,
+  "target": 0.95,
+  "source_sha256": "a0edb730b4126f409d7260090f36977bc0002167f4f63902bb461b30a3d38b70"
+}

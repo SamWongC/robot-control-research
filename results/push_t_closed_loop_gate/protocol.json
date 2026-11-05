@@ -1,0 +1,18 @@
+{
+  "source_sha": "5ce678c874a5b14d008acc3a8d0dde517da1e7e98090cff256a30fd874b88548",
+  "base_sha": "497290a8852f4dd278a8b05969c1f66c956db6028fd4e3955d6e7a09bc0ee640",
+  "cases_sha": "78c15b47e2d50713e5afa94e30896c1174aca4bf5a16f144ca81cd6b298b7b87",
+  "development_gate": "at least 12/16 successes with high; otherwise no confirmatory comparison",
+  "execution_dt": 0.0003125,
+  "sensitivity_dt": 0.00015625,
+  "success_position_m": 0.02,
+  "success_angle_deg": 10,
+  "hold_seconds": 0.5,
+  "episode_seconds": 10,
+  "workspace_abs_m": 0.5,
+  "candidates": 64,
+  "horizon_seconds": 1,
+  "control_period_seconds": 0.05,
+  "mode": "ideal instantaneous planning; latency measured but not injected",
+  "scope": "synthetic planar drag model; no hardware, obstacles, physical calibration or novelty claim"
+}

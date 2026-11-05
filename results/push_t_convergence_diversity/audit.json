@@ -1,0 +1,10 @@
+{
+  "passed": true,
+  "checks": [
+    "All four old cost arrays reproduced at 1e-9",
+    "Selected individual mj_step traces match batched states at 1e-8",
+    "All baseline selected costs reproduce saved reference at 1e-9",
+    "Unique candidate IDs"
+  ],
+  "timed_calls": 1728
+}

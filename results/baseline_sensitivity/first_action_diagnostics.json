@@ -1,0 +1,61 @@
+{
+  "one_step_preview_all_unknown_controllers_identify_at_sample_1": true,
+  "first_commands": [
+    {
+      "variant": "legacy",
+      "policy": "passive",
+      "mean": -0.3547351519519396,
+      "min": -0.36137245712642413,
+      "max": -0.34567490119394123
+    },
+    {
+      "variant": "legacy",
+      "policy": "probe",
+      "mean": 0.10000000000000002,
+      "min": 0.1,
+      "max": 0.1
+    },
+    {
+      "variant": "lex_energy",
+      "policy": "passive",
+      "mean": -0.35473513495193937,
+      "min": -0.36137244012642444,
+      "max": -0.3456748841939407
+    },
+    {
+      "variant": "lex_energy",
+      "policy": "probe",
+      "mean": 0.10000000000000002,
+      "min": 0.1,
+      "max": 0.1
+    },
+    {
+      "variant": "track_1",
+      "policy": "passive",
+      "mean": -0.35473514629568953,
+      "min": -0.36137244012642444,
+      "max": -0.34567490619394126
+    },
+    {
+      "variant": "track_1",
+      "policy": "probe",
+      "mean": 0.10000000000000002,
+      "min": 0.1,
+      "max": 0.1
+    },
+    {
+      "variant": "progress_0.5",
+      "policy": "passive",
+      "mean": -0.35473513495193937,
+      "min": -0.36137244012642444,
+      "max": -0.3456748841939407
+    },
+    {
+      "variant": "progress_0.5",
+      "policy": "probe",
+      "mean": 0.10000000000000002,
+      "min": 0.1,
+      "max": 0.1
+    }
+  ]
+}

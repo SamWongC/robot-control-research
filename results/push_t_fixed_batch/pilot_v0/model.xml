@@ -1,0 +1,19 @@
+<mujoco model="planar_push_t">
+<option timestep="0.0025" gravity="0 0 0" integrator="implicitfast" solver="Newton" iterations="50" tolerance="1e-10" cone="elliptic"/>
+<default><geom friction=".6 .005 .0001" solref=".05 1" solimp=".9 .95 .001"/><joint limited="false"/></default>
+<worldbody><light pos="0 0 2"/><camera name="top" pos="0 0 1.2"/>
+<geom name="floor_visual" type="plane" size=".5 .5 .01" contype="0" conaffinity="0" rgba=".9 .9 .9 1"/>
+<body name="object" pos="0 0 .025">
+<joint name="ox" type="slide" axis="1 0 0" damping=".6" frictionloss=".03"/>
+<joint name="oy" type="slide" axis="0 1 0" damping=".6" frictionloss=".03"/>
+<joint name="yaw" type="hinge" axis="0 0 1" damping=".002" frictionloss=".0003"/>
+<geom name="bar" type="box" pos="0 .055 0" size=".06 .015 .02" mass=".12" rgba=".2 .4 .8 1"/>
+<geom name="stem" type="box" pos="0 -.015 0" size=".015 .055 .02" mass=".08" rgba=".2 .4 .8 1"/>
+</body>
+<body name="pusher" pos="0 0 .025"><joint name="px" type="slide" axis="1 0 0" damping="1"/><joint name="py" type="slide" axis="0 1 0" damping="1"/>
+<geom name="finger" type="cylinder" size=".015 .02" mass=".3" rgba=".8 .2 .2 1"/>
+<site name="touch_site" type="cylinder" size=".016 .023" rgba="0 0 0 0"/>
+</body></worldbody>
+<actuator><velocity joint="px" kv="40" ctrllimited="true" ctrlrange="-.25 .25"/><velocity joint="py" kv="40" ctrllimited="true" ctrlrange="-.25 .25"/></actuator>
+<sensor><touch name="touch" site="touch_site"/></sensor>
+</mujoco>

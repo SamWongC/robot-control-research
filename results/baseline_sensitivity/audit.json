@@ -1,0 +1,27 @@
+{
+  "phase_audits": [
+    {
+      "phase": "development",
+      "episodes": 2960,
+      "steps": 14800,
+      "max_scalar_dynamics_residual": 8.673617379884035e-19,
+      "max_observation_residual": 6.776263578034403e-18,
+      "continuous_state_and_queue": true,
+      "energy_state_success_counts_verified": true,
+      "true_delay_retained_in_every_saved_prefix": true
+    },
+    {
+      "phase": "test",
+      "episodes": 5760,
+      "steps": 28800,
+      "max_scalar_dynamics_residual": 8.673617379884035e-19,
+      "max_observation_residual": 6.105413483808997e-18,
+      "continuous_state_and_queue": true,
+      "energy_state_success_counts_verified": true,
+      "true_delay_retained_in_every_saved_prefix": true
+    }
+  ],
+  "source_and_freeze_hashes_verified": true,
+  "selection_rule_recomputed": true,
+  "test_inputs_not_in_development": true
+}

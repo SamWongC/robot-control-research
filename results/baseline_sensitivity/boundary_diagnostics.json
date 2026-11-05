@@ -1,0 +1,182 @@
+[
+  {
+    "phase": "development",
+    "preview": 2,
+    "variant": "lex_energy",
+    "policy": "passive",
+    "case": "constant_-1",
+    "true_delay": 0,
+    "position_excess_m": 0.0,
+    "velocity_excess_m_s": 3.000000135464087e-10
+  },
+  {
+    "phase": "development",
+    "preview": 2,
+    "variant": "track_0.01",
+    "policy": "passive",
+    "case": "constant_-1",
+    "true_delay": 0,
+    "position_excess_m": 0.0,
+    "velocity_excess_m_s": 2.999999996686209e-10
+  },
+  {
+    "phase": "development",
+    "preview": 2,
+    "variant": "track_0.1",
+    "policy": "passive",
+    "case": "constant_-1",
+    "true_delay": 0,
+    "position_excess_m": 0.0,
+    "velocity_excess_m_s": 3.000000135464087e-10
+  },
+  {
+    "phase": "development",
+    "preview": 2,
+    "variant": "track_1",
+    "policy": "passive",
+    "case": "constant_-1",
+    "true_delay": 0,
+    "position_excess_m": 0.0,
+    "velocity_excess_m_s": 3.000000135464087e-10
+  },
+  {
+    "phase": "development",
+    "preview": 2,
+    "variant": "progress_0.25",
+    "policy": "passive",
+    "case": "constant_-1",
+    "true_delay": 0,
+    "position_excess_m": 0.0,
+    "velocity_excess_m_s": 2.999999996686209e-10
+  },
+  {
+    "phase": "development",
+    "preview": 2,
+    "variant": "progress_0.5",
+    "policy": "passive",
+    "case": "constant_-1",
+    "true_delay": 0,
+    "position_excess_m": 0.0,
+    "velocity_excess_m_s": 2.999999996686209e-10
+  },
+  {
+    "phase": "development",
+    "preview": 2,
+    "variant": "progress_1",
+    "policy": "passive",
+    "case": "constant_-1",
+    "true_delay": 0,
+    "position_excess_m": 0.0,
+    "velocity_excess_m_s": 3.000000135464087e-10
+  },
+  {
+    "phase": "development",
+    "preview": 4,
+    "variant": "lex_energy",
+    "policy": "passive",
+    "case": "constant_-1",
+    "true_delay": 0,
+    "position_excess_m": 0.0,
+    "velocity_excess_m_s": 3.000000135464087e-10
+  },
+  {
+    "phase": "development",
+    "preview": 4,
+    "variant": "track_0.01",
+    "policy": "passive",
+    "case": "constant_-1",
+    "true_delay": 0,
+    "position_excess_m": 0.0,
+    "velocity_excess_m_s": 2.999999996686209e-10
+  },
+  {
+    "phase": "development",
+    "preview": 4,
+    "variant": "track_0.1",
+    "policy": "passive",
+    "case": "constant_-1",
+    "true_delay": 0,
+    "position_excess_m": 0.0,
+    "velocity_excess_m_s": 2.999999996686209e-10
+  },
+  {
+    "phase": "development",
+    "preview": 4,
+    "variant": "track_1",
+    "policy": "passive",
+    "case": "constant_-1",
+    "true_delay": 0,
+    "position_excess_m": 0.0,
+    "velocity_excess_m_s": 2.999999996686209e-10
+  },
+  {
+    "phase": "development",
+    "preview": 4,
+    "variant": "progress_0.25",
+    "policy": "passive",
+    "case": "constant_-1",
+    "true_delay": 0,
+    "position_excess_m": 0.0,
+    "velocity_excess_m_s": 2.999999996686209e-10
+  },
+  {
+    "phase": "development",
+    "preview": 4,
+    "variant": "progress_0.5",
+    "policy": "passive",
+    "case": "constant_-1",
+    "true_delay": 0,
+    "position_excess_m": 0.0,
+    "velocity_excess_m_s": 2.999999996686209e-10
+  },
+  {
+    "phase": "development",
+    "preview": 4,
+    "variant": "progress_1",
+    "policy": "passive",
+    "case": "constant_-1",
+    "true_delay": 0,
+    "position_excess_m": 0.0,
+    "velocity_excess_m_s": 3.000000135464087e-10
+  },
+  {
+    "phase": "development",
+    "preview": 8,
+    "variant": "lex_energy",
+    "policy": "passive",
+    "case": "constant_-1",
+    "true_delay": 0,
+    "position_excess_m": 0.0,
+    "velocity_excess_m_s": 3.000000135464087e-10
+  },
+  {
+    "phase": "development",
+    "preview": 8,
+    "variant": "progress_0.25",
+    "policy": "passive",
+    "case": "constant_-1",
+    "true_delay": 0,
+    "position_excess_m": 0.0,
+    "velocity_excess_m_s": 2.999999996686209e-10
+  },
+  {
+    "phase": "development",
+    "preview": 8,
+    "variant": "progress_0.5",
+    "policy": "passive",
+    "case": "constant_-1",
+    "true_delay": 0,
+    "position_excess_m": 0.0,
+    "velocity_excess_m_s": 2.999999996686209e-10
+  },
+  {
+    "phase": "development",
+    "preview": 8,
+    "variant": "progress_1",
+    "policy": "passive",
+    "case": "constant_-1",
+    "true_delay": 0,
+    "position_excess_m": 0.0,
+    "velocity_excess_m_s": 2.999999996686209e-10
+  }
+]

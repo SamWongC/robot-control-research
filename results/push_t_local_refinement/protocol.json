@@ -1,0 +1,23 @@
+{
+  "methods": [
+    "uniform_low",
+    "uniform_medium",
+    "uniform_high",
+    "contact_local",
+    "spread_matched",
+    "uniform_matched"
+  ],
+  "low": 0.0025,
+  "high": 0.000625,
+  "medium": 0.00125,
+  "threshold": 0.008,
+  "dilation": 1,
+  "repeats": 3,
+  "scope": "Exploratory reuse of 256 previously inspected confirmation batches; fixed rules before this run, no fresh generalization claim.",
+  "detector": "Low-resolution force contact OR endpoint geometric gap <8mm; one-stage dilation; no reference access.",
+  "step_budget": "All adaptive methods include same low pilot. Per candidate with n fine stages: rerun steps=400+60*n. Spread uses n evenly spaced fine stages. Uniform matched uses 20+3*n substeps per stage, exactly matching per-candidate steps.",
+  "source_sha256": "b49ccccc955d7a1f930005050a8dc5c46bbb32ea33181169b98f14461b1c181e",
+  "base_sha256": "497290a8852f4dd278a8b05969c1f66c956db6028fd4e3955d6e7a09bc0ee640",
+  "fixture_sha256": "0a01f837dc1c6d948812652739c8fd24a8b0a37d36f44814f085829361a50d67",
+  "solver": "Original Newton50 tolerance1e-10, warmstart disabled consistently"
+}

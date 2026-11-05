@@ -1,0 +1,130 @@
+[
+  {
+    "batch": 0,
+    "event_window_fraction": 0.12578125,
+    "positive_error_growth_in_event_windows": 0.5845135235993699,
+    "contact_stage_fraction": 0.1109375,
+    "contact_mismatch_fraction": 0.015625,
+    "coarse_error": 0.49664171008620883
+  },
+  {
+    "batch": 1,
+    "event_window_fraction": 0.13515625,
+    "positive_error_growth_in_event_windows": 0.4807204098900051,
+    "contact_stage_fraction": 0.12109375,
+    "contact_mismatch_fraction": 0.01640625,
+    "coarse_error": 0.7684859252187826
+  },
+  {
+    "batch": 2,
+    "event_window_fraction": 0.28203125,
+    "positive_error_growth_in_event_windows": 0.38735386813220224,
+    "contact_stage_fraction": 0.48046875,
+    "contact_mismatch_fraction": 0.040625,
+    "coarse_error": 0.7511184704483487
+  },
+  {
+    "batch": 3,
+    "event_window_fraction": 0.34453125,
+    "positive_error_growth_in_event_windows": 0.516391566321892,
+    "contact_stage_fraction": 0.4265625,
+    "contact_mismatch_fraction": 0.06875,
+    "coarse_error": 0.5597184305039686
+  },
+  {
+    "batch": 4,
+    "event_window_fraction": 0.32265625,
+    "positive_error_growth_in_event_windows": 0.35710493588510295,
+    "contact_stage_fraction": 0.5203125,
+    "contact_mismatch_fraction": 0.04140625,
+    "coarse_error": 0.2810537545026257
+  },
+  {
+    "batch": 5,
+    "event_window_fraction": 0.26875,
+    "positive_error_growth_in_event_windows": 0.25098534889440544,
+    "contact_stage_fraction": 0.58359375,
+    "contact_mismatch_fraction": 0.04765625,
+    "coarse_error": 2.159971167029534
+  },
+  {
+    "batch": 6,
+    "event_window_fraction": 0.33984375,
+    "positive_error_growth_in_event_windows": 0.4835282536766262,
+    "contact_stage_fraction": 0.41796875,
+    "contact_mismatch_fraction": 0.05078125,
+    "coarse_error": 2.5709261072006235
+  },
+  {
+    "batch": 7,
+    "event_window_fraction": 0.32890625,
+    "positive_error_growth_in_event_windows": 0.4719126955737987,
+    "contact_stage_fraction": 0.35703125,
+    "contact_mismatch_fraction": 0.0515625,
+    "coarse_error": 2.6188059495908007
+  },
+  {
+    "batch": 8,
+    "event_window_fraction": 0.10859375,
+    "positive_error_growth_in_event_windows": 0.5129514405130484,
+    "contact_stage_fraction": 0.10625,
+    "contact_mismatch_fraction": 0.00703125,
+    "coarse_error": 0.10796519546251204
+  },
+  {
+    "batch": 9,
+    "event_window_fraction": 0.0921875,
+    "positive_error_growth_in_event_windows": 0.5260012708242975,
+    "contact_stage_fraction": 0.07890625,
+    "contact_mismatch_fraction": 0.01328125,
+    "coarse_error": 0.07288232533131467
+  },
+  {
+    "batch": 10,
+    "event_window_fraction": 0.34296875,
+    "positive_error_growth_in_event_windows": 0.4928461733307107,
+    "contact_stage_fraction": 0.42421875,
+    "contact_mismatch_fraction": 0.05703125,
+    "coarse_error": 0.8976124778613013
+  },
+  {
+    "batch": 11,
+    "event_window_fraction": 0.32578125,
+    "positive_error_growth_in_event_windows": 0.38078767050334134,
+    "contact_stage_fraction": 0.4640625,
+    "contact_mismatch_fraction": 0.0734375,
+    "coarse_error": 1.7387160968488482
+  },
+  {
+    "batch": 12,
+    "event_window_fraction": 0.25,
+    "positive_error_growth_in_event_windows": 0.2162137539240847,
+    "contact_stage_fraction": 0.5515625,
+    "contact_mismatch_fraction": 0.0453125,
+    "coarse_error": 2.6813046445858593
+  },
+  {
+    "batch": 13,
+    "event_window_fraction": 0.2515625,
+    "positive_error_growth_in_event_windows": 0.40098734296769595,
+    "contact_stage_fraction": 0.5171875,
+    "contact_mismatch_fraction": 0.0390625,
+    "coarse_error": 0.33656712634787
+  },
+  {
+    "batch": 14,
+    "event_window_fraction": 0.37109375,
+    "positive_error_growth_in_event_windows": 0.5509147189449759,
+    "contact_stage_fraction": 0.36875,
+    "contact_mismatch_fraction": 0.053125,
+    "coarse_error": 2.125672823917313
+  },
+  {
+    "batch": 15,
+    "event_window_fraction": 0.35078125,
+    "positive_error_growth_in_event_windows": 0.47091957786197564,
+    "contact_stage_fraction": 0.3875,
+    "contact_mismatch_fraction": 0.0546875,
+    "coarse_error": 2.837794277225612
+  }
+]

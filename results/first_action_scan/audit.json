@@ -1,0 +1,23 @@
+{
+  "phases": [
+    {
+      "phase": "scan",
+      "episodes": 7918,
+      "transitions": 23754,
+      "max_scalar_recurrence_residual": 8.673617379884035e-19,
+      "states_measurements_queue_costs_success_and_counts_verified": true,
+      "true_delay_retained": true
+    },
+    {
+      "phase": "test",
+      "episodes": 1024,
+      "transitions": 3072,
+      "max_scalar_recurrence_residual": 8.673617379884035e-19,
+      "states_measurements_queue_costs_success_and_counts_verified": true,
+      "true_delay_retained": true
+    }
+  ],
+  "hashes_verified": true,
+  "selection_recomputed": true,
+  "new_inputs_distinct_from_scan_and_previous_test": true
+}

@@ -1,0 +1,37 @@
+test_all_sets_nonempty_and_truth_not_needed (test_candidate_sets.CandidateTests.test_all_sets_nonempty_and_truth_not_needed) ... ok
+test_causal_measurement_prefix (test_candidate_sets.CandidateTests.test_causal_measurement_prefix) ... ok
+test_geometry_zero_for_ramp_and_constant (test_candidate_sets.CandidateTests.test_geometry_zero_for_ramp_and_constant) ... ok
+test_gls_matches_direct_weighted_least_squares (test_candidate_sets.CandidateTests.test_gls_matches_direct_weighted_least_squares) ... ok
+test_lifted_predictions_match_stepwise_model (test_delay_mismatch.ConstrainedTests.test_lifted_predictions_match_stepwise_model) ... ok
+test_qp_against_independent_coordinate_solver_and_clipping (test_delay_mismatch.ConstrainedTests.test_qp_against_independent_coordinate_solver_and_clipping) ... ok
+test_rollout_input_bounds_and_actual_fixed_delay (test_delay_mismatch.ConstrainedTests.test_rollout_input_bounds_and_actual_fixed_delay) ... ok
+test_unconstrained_optimum_when_bounds_inactive (test_delay_mismatch.ConstrainedTests.test_unconstrained_optimum_when_bounds_inactive) ... ok
+test_disturbance_can_exactly_mimic_wrong_delay (test_disturbance_identification.IdentificationTests.test_disturbance_can_exactly_mimic_wrong_delay) ... ok
+test_disturbance_interval (test_disturbance_identification.IdentificationTests.test_disturbance_interval) ... ok
+test_no_future_data_influence (test_disturbance_identification.IdentificationTests.test_no_future_data_influence) ... ok
+test_recovery_with_excited_exact_data (test_disturbance_identification.IdentificationTests.test_recovery_with_excited_exact_data) ... ok
+test_augmented_model_matches_physical_queue (test_experiment.ExperimentTests.test_augmented_model_matches_physical_queue) ... ok
+test_determinism_and_known_delay_convergence (test_experiment.ExperimentTests.test_determinism_and_known_delay_convergence) ... ok
+test_fixed_delay_impulse (test_experiment.ExperimentTests.test_fixed_delay_impulse) ... ok
+test_invalid_delay (test_experiment.ExperimentTests.test_invalid_delay) ... ok
+test_zero_delay (test_experiment.ExperimentTests.test_zero_delay) ... ok
+test_constant_and_ramp_have_zero_centered_separation (test_identifiability.PassiveTests.test_constant_and_ramp_have_zero_centered_separation) ... ok
+test_multisine_is_distinguishable (test_identifiability.PassiveTests.test_multisine_is_distinguishable) ... ok
+test_noise_free_excited_identification (test_identifiability.PassiveTests.test_noise_free_excited_identification) ... ok
+test_paired_noise_and_reproducibility (test_identifiability.PassiveTests.test_paired_noise_and_reproducibility) ... ok
+test_affine_prediction_increment (test_joint_estimation.JointTests.test_affine_prediction_increment) ... ok
+test_causal_prefix_and_disturbance_boundaries (test_joint_estimation.JointTests.test_causal_prefix_and_disturbance_boundaries) ... ok
+test_joint_recovery_with_constant_disturbance (test_joint_estimation.JointTests.test_joint_recovery_with_constant_disturbance) ... ok
+test_linear_ramp_is_ambiguous_even_with_varying_commands (test_joint_estimation.JointTests.test_linear_ramp_is_ambiguous_even_with_varying_commands) ... ok
+
+----------------------------------------------------------------------
+Ran 25 tests in 0.224s
+
+OK
+Polishing not needed - no active set detected at optimal point
+Polishing not needed - no active set detected at optimal point
+Polishing not needed - no active set detected at optimal point
+Polishing not needed - no active set detected at optimal point
+Polishing not needed - no active set detected at optimal point
+Polishing not needed - no active set detected at optimal point
+Polishing not needed - no active set detected at optimal point

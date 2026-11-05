@@ -1,0 +1,125 @@
+{
+  "methods": [
+    {
+      "method": "fine_serial",
+      "p50_ms": 86.13084995886311,
+      "p95_ms": 95.87550001451746,
+      "p99_ms": 97.29780599824153,
+      "mean_regret": 0.0,
+      "max_regret": 0.0,
+      "exact_winners": 8,
+      "test_batches": 8,
+      "timing_repeats": 24
+    },
+    {
+      "method": "fine_cpu8",
+      "p50_ms": 12.593000021297485,
+      "p95_ms": 14.120630006073043,
+      "p99_ms": 14.192004968645051,
+      "mean_regret": 0.0,
+      "max_regret": 0.0,
+      "exact_winners": 8,
+      "test_batches": 8,
+      "timing_repeats": 24
+    },
+    {
+      "method": "coarse_cpu8",
+      "p50_ms": 3.4801499568857253,
+      "p95_ms": 3.992934973211959,
+      "p99_ms": 4.015813987934962,
+      "mean_regret": 0.006619720502079651,
+      "max_regret": 0.05295776401663721,
+      "exact_winners": 7,
+      "test_batches": 8,
+      "timing_repeats": 24
+    },
+    {
+      "method": "coarse_top8",
+      "p50_ms": 5.474099947605282,
+      "p95_ms": 6.878809997579083,
+      "p99_ms": 7.285575014539063,
+      "mean_regret": 0.0,
+      "max_regret": 0.0,
+      "exact_winners": 8,
+      "test_batches": 8,
+      "timing_repeats": 24
+    },
+    {
+      "method": "coarse_empirical_interval",
+      "p50_ms": 14.40195000031963,
+      "p95_ms": 18.172460020286962,
+      "p99_ms": 18.244523003231734,
+      "mean_regret": 0.0,
+      "max_regret": 0.0,
+      "exact_winners": 8,
+      "test_batches": 8,
+      "timing_repeats": 24
+    },
+    {
+      "method": "contact_segment",
+      "p50_ms": 22.139650012832135,
+      "p95_ms": 24.06908993725665,
+      "p99_ms": 24.24759994377382,
+      "mean_regret": 0.0,
+      "max_regret": 0.0,
+      "exact_winners": 8,
+      "test_batches": 8,
+      "timing_repeats": 24
+    },
+    {
+      "method": "fixed_segment",
+      "p50_ms": 16.12739998381585,
+      "p95_ms": 17.900554958032444,
+      "p99_ms": 17.930116973584518,
+      "mean_regret": 0.006990937564101907,
+      "max_regret": 0.055927500512815254,
+      "exact_winners": 7,
+      "test_batches": 8,
+      "timing_repeats": 24
+    },
+    {
+      "method": "cached_proposal",
+      "p50_ms": 1.4609500067308545,
+      "p95_ms": 1.751014997716993,
+      "p99_ms": 1.84786805533804,
+      "mean_regret": 0.013610658066181558,
+      "max_regret": 0.055927500512815254,
+      "exact_winners": 6,
+      "test_batches": 8,
+      "timing_repeats": 24
+    },
+    {
+      "method": "warp_fine",
+      "p50_ms": 182.5354999746196,
+      "p95_ms": 238.1621949141845,
+      "p99_ms": 238.36143896915019,
+      "mean_regret": 0.013610658066181558,
+      "max_regret": 0.055927500512815254,
+      "exact_winners": 6,
+      "test_batches": 8,
+      "timing_repeats": 24
+    },
+    {
+      "method": "warp_coarse",
+      "p50_ms": 47.60504997102544,
+      "p95_ms": 56.96689992910251,
+      "p99_ms": 57.04239403014071,
+      "mean_regret": 0.020783747103195416,
+      "max_regret": 0.11331221280892612,
+      "exact_winners": 6,
+      "test_batches": 8,
+      "timing_repeats": 24
+    }
+  ],
+  "native_rollout_median_share": 0.9686499178728298,
+  "instrumented_collision_share": 0.24579630500407806,
+  "mean_event_window_fraction": 0.2615234375,
+  "mean_positive_error_growth_in_event_windows": 0.43010792243959234,
+  "empirical_interval_test_violations": 2,
+  "empirical_interval_test_count": 512,
+  "halfstep_winner_changes": 0,
+  "halfstep_max_cost_difference": 1.7586189881293497,
+  "coarse_top8_p95_reduction": 0.5128538886281544,
+  "fixture_identical_after_warmstart_fix": true,
+  "decision": "Mechanism reproduced at small scale; generic coarse top-8 succeeds here; proposed contact-segment heuristic fails the speed gate; no novelty or general certificate established."
+}

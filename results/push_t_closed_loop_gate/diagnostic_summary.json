@@ -1,0 +1,287 @@
+{
+  "selected": {
+    "all_disagreement_ids": [
+      47,
+      65,
+      68,
+      70,
+      71,
+      73,
+      77,
+      78,
+      79
+    ],
+    "selected_ids": [
+      47,
+      65,
+      68,
+      70,
+      71,
+      73,
+      77,
+      78
+    ],
+    "rule": "first eight IDs with any success disagreement; all four methods at half execution timestep",
+    "scope": "post-hoc sensitivity, not independent validation"
+  },
+  "results": [
+    {
+      "case": 47,
+      "method": "high",
+      "base_success": true,
+      "half_success": true,
+      "base_error": 0.018399968962906507,
+      "half_error": 0.0049086180842291055
+    },
+    {
+      "case": 47,
+      "method": "low",
+      "base_success": true,
+      "half_success": true,
+      "base_error": 0.018462415151702275,
+      "half_error": 0.0038572301234122823
+    },
+    {
+      "case": 47,
+      "method": "medium",
+      "base_success": false,
+      "half_success": true,
+      "base_error": 0.01845037315123487,
+      "half_error": 0.004065007524134088
+    },
+    {
+      "case": 47,
+      "method": "top32",
+      "base_success": true,
+      "half_success": true,
+      "base_error": 0.018399968962906507,
+      "half_error": 0.0049086180842291055
+    },
+    {
+      "case": 65,
+      "method": "high",
+      "base_success": false,
+      "half_success": false,
+      "base_error": 0.10402458841586769,
+      "half_error": 0.10326996718893613
+    },
+    {
+      "case": 65,
+      "method": "low",
+      "base_success": true,
+      "half_success": false,
+      "base_error": 0.008031271696107062,
+      "half_error": 0.10326996718893613
+    },
+    {
+      "case": 65,
+      "method": "medium",
+      "base_success": true,
+      "half_success": false,
+      "base_error": 0.0016899113611933388,
+      "half_error": 0.10326996718893613
+    },
+    {
+      "case": 65,
+      "method": "top32",
+      "base_success": true,
+      "half_success": false,
+      "base_error": 0.007245948576817399,
+      "half_error": 0.10326996718893613
+    },
+    {
+      "case": 68,
+      "method": "high",
+      "base_success": false,
+      "half_success": false,
+      "base_error": 0.004806460159676568,
+      "half_error": 0.033176746525479264
+    },
+    {
+      "case": 68,
+      "method": "low",
+      "base_success": false,
+      "half_success": false,
+      "base_error": 0.08927515386504836,
+      "half_error": 0.10853654866408308
+    },
+    {
+      "case": 68,
+      "method": "medium",
+      "base_success": true,
+      "half_success": false,
+      "base_error": 0.0025690166778095476,
+      "half_error": 0.037181526150550696
+    },
+    {
+      "case": 68,
+      "method": "top32",
+      "base_success": false,
+      "half_success": false,
+      "base_error": 0.012523160077695487,
+      "half_error": 0.09686352404638959
+    },
+    {
+      "case": 70,
+      "method": "high",
+      "base_success": true,
+      "half_success": false,
+      "base_error": 0.002115357501984922,
+      "half_error": 0.058616121434754656
+    },
+    {
+      "case": 70,
+      "method": "low",
+      "base_success": true,
+      "half_success": true,
+      "base_error": 0.0005072633058041618,
+      "half_error": 0.0003722529582998607
+    },
+    {
+      "case": 70,
+      "method": "medium",
+      "base_success": false,
+      "half_success": true,
+      "base_error": 0.04612706899912001,
+      "half_error": 0.017957350635638046
+    },
+    {
+      "case": 70,
+      "method": "top32",
+      "base_success": true,
+      "half_success": false,
+      "base_error": 0.002115357501984922,
+      "half_error": 0.058961531705814654
+    },
+    {
+      "case": 71,
+      "method": "high",
+      "base_success": false,
+      "half_success": false,
+      "base_error": 0.027995945415933466,
+      "half_error": 0.030633220949143215
+    },
+    {
+      "case": 71,
+      "method": "low",
+      "base_success": false,
+      "half_success": true,
+      "base_error": 0.02936079539024393,
+      "half_error": 0.016559972251261438
+    },
+    {
+      "case": 71,
+      "method": "medium",
+      "base_success": true,
+      "half_success": false,
+      "base_error": 0.012433937560407301,
+      "half_error": 0.02668668792051223
+    },
+    {
+      "case": 71,
+      "method": "top32",
+      "base_success": false,
+      "half_success": false,
+      "base_error": 0.023275396610416707,
+      "half_error": 0.030633220949143215
+    },
+    {
+      "case": 73,
+      "method": "high",
+      "base_success": false,
+      "half_success": false,
+      "base_error": 0.07179265732558365,
+      "half_error": 0.06895301791836196
+    },
+    {
+      "case": 73,
+      "method": "low",
+      "base_success": true,
+      "half_success": false,
+      "base_error": 0.0036895772985642964,
+      "half_error": 0.053237954582363196
+    },
+    {
+      "case": 73,
+      "method": "medium",
+      "base_success": false,
+      "half_success": true,
+      "base_error": 0.07060464203848917,
+      "half_error": 0.0029588577297391242
+    },
+    {
+      "case": 73,
+      "method": "top32",
+      "base_success": false,
+      "half_success": false,
+      "base_error": 0.07047923905784886,
+      "half_error": 0.06895301791836196
+    },
+    {
+      "case": 77,
+      "method": "high",
+      "base_success": false,
+      "half_success": true,
+      "base_error": 0.1059246031880082,
+      "half_error": 0.00731635584397595
+    },
+    {
+      "case": 77,
+      "method": "low",
+      "base_success": true,
+      "half_success": true,
+      "base_error": 0.014067185291772885,
+      "half_error": 0.0020802973907176783
+    },
+    {
+      "case": 77,
+      "method": "medium",
+      "base_success": false,
+      "half_success": false,
+      "base_error": 0.10090414053007205,
+      "half_error": 0.1163381459671258
+    },
+    {
+      "case": 77,
+      "method": "top32",
+      "base_success": false,
+      "half_success": true,
+      "base_error": 0.012439386161815265,
+      "half_error": 0.0034830946902287725
+    },
+    {
+      "case": 78,
+      "method": "high",
+      "base_success": true,
+      "half_success": true,
+      "base_error": 0.007908363803020579,
+      "half_error": 0.0001490673525855357
+    },
+    {
+      "case": 78,
+      "method": "low",
+      "base_success": false,
+      "half_success": false,
+      "base_error": 0.07231489637026747,
+      "half_error": 0.07222171530294744
+    },
+    {
+      "case": 78,
+      "method": "medium",
+      "base_success": true,
+      "half_success": false,
+      "base_error": 0.01433885929606826,
+      "half_error": 0.07088285565633927
+    },
+    {
+      "case": 78,
+      "method": "top32",
+      "base_success": true,
+      "half_success": true,
+      "base_error": 0.007908363803020579,
+      "half_error": 0.0001490673525855357
+    }
+  ],
+  "label_flips": 15,
+  "extra_trajectories_audited": 40
+}

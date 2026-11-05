@@ -1,0 +1,29 @@
+{
+  "date": "2026-11-04",
+  "claim": "Command-queue-structured observation-branch merging with robust feasibility or bounded performance loss, without first solving the full tree",
+  "decision": "NO-GO for the broad claim as an independent contribution; standard restricted certificates feasible; no new general compression theorem established",
+  "review_type": "Targeted primary-source full-text section review, not exhaustive originality certification",
+  "queries": [
+    "robust multistage model predictive control scenario tree branch merging guarantees",
+    "input delay systems bisimulation state reduction command queue control",
+    "belief tree simplification performance bounds POMDP merging observations",
+    "approximate bisimulation time-delay symbolic models",
+    "delay Artstein reduction unknown input delay predictor",
+    "scenario tree reduction nested distance control bounds"
+  ],
+  "sources": [
+    {"id":"S1","title":"Speeding up POMDP Planning via Simplification","url":"https://indelman.github.io/ANPL-Website/Publications/Sztyglic22iros.pdf","status":"IROS 2022 author PDF","access":"Full 8-page text accessible; bounds, pruning and Theorem 1 inspected","scope":"Given-belief-tree simplification; not worst-case hard-safety theorem"},
+    {"id":"S2","title":"Simplified POMDP Planning with an Alternative Observation Space and Formal Performance Guarantees","url":"https://arxiv.org/html/2410.07630v1","status":"2024 preprint v1","access":"Full HTML; model and bounded rewards, Sections 3-4, bounds and proofs inspected","scope":"Probabilistic observation-topology simplification, including policy-space differences"},
+    {"id":"S3","title":"Open-loop POMDP Simplification and Safe Skipping of Replanning with Formal Performance Guarantees","url":"https://arxiv.org/html/2604.01352v1","status":"2026 preprint v1","access":"Full HTML; Sections IV-V, Theorem 4.1, 5.1/5.2 and relevant proof appendices inspected","scope":"AOL/AFO value bounds; skipping bounds use positive Q and likelihood ratios; no claim of all-disturbance hard safety"},
+    {"id":"S4","title":"Symbolic Models for Nonlinear Time-Varying Time-Delay Systems via Alternating Approximate Bisimulation","url":"https://arxiv.org/pdf/1011.5835","status":"Author preprint, journal counterpart DOI 10.1002/rnc.3204","access":"Full 20-page PDF; equation 2.1, assumptions, Definition 3.2, Theorems 5.8 and 6.2 inspected","scope":"Unknown time-varying STATE delay and known constant INPUT delay; incremental stability and abstraction, not identical to our unknown fixed input delay"},
+    {"id":"S5","title":"Tube-enhanced multi-stage model predictive control for flexible robust control of constrained linear systems with additive and parametric uncertainties","url":"https://eldorado.tu-dortmund.de/bitstreams/92837a99-43d4-4dd9-aaeb-f0058d9e1d53/download","status":"2021 institutional journal full text","access":"Full 30-page PDF; multistage construction, tubes/robust horizon, Section 5 feasibility/stability and Theorem 1 inspected","scope":"State-feedback and uncertainty information timing must be matched; tube complexity reduction already established"},
+    {"id":"S6","title":"Scenario Tree Reduction via Wasserstein Barycenters","url":"https://dan-mim.github.io/files/reduction_tree.pdf","status":"Author manuscript; publisher counterpart DOI 10.1007/s10479-026-07062-8","access":"Full 25-page PDF; introduction, nested-distance formulation and reduction algorithm inspected","scope":"Stochastic filtration-aware reduction; not treated as a robust hard-constraint guarantee"}
+  ],
+  "additional_screened_not_core_fulltext_evidence": [
+    {"url":"https://doi.org/10.1016/j.sysconle.2010.04.001","access":"Publisher abstract/introduction"},
+    {"url":"https://doi.org/10.1002/rnc.3204","access":"Publisher summary; author preprint reviewed separately as S4"},
+    {"url":"https://doi.org/10.1016/j.sysconle.2020.104743","access":"Publisher abstract"}
+  ],
+  "mathematical_checks": "queue_merge_math_audit.py uses exact Fraction arithmetic for five elementary check groups; reports include general derivations and limitations",
+  "not_done": ["No new robot experiments", "No general feedback-merging solver", "No independent reproof of every cited theorem", "No acceptance or novelty guarantee", "No historical experiments rerun"]
+}

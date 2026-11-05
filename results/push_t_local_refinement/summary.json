@@ -1,0 +1,84 @@
+{
+  "methods": [
+    {
+      "method": "uniform_low",
+      "losses": 27,
+      "mean_regret": 0.009536406746682852,
+      "max_regret": 1.0556425114458428,
+      "p50_ms": 12.991649971809238,
+      "p95_ms": 22.07945502595976,
+      "mean_physics_steps": 25600.0,
+      "case148_chosen": 5,
+      "case148_regret": 1.0556425114458428,
+      "case148_finest_regret": 1.0486802934739163,
+      "case148_median_ms": 15.62510000076145
+    },
+    {
+      "method": "uniform_medium",
+      "losses": 12,
+      "mean_regret": 0.0036610384031183054,
+      "max_regret": 0.3671489039689053,
+      "p50_ms": 24.733649974223226,
+      "p95_ms": 43.95485498826019,
+      "mean_physics_steps": 51200.0,
+      "case148_chosen": 37,
+      "case148_regret": 0.0,
+      "case148_finest_regret": 0.0,
+      "case148_median_ms": 30.41859995573759
+    },
+    {
+      "method": "uniform_high",
+      "losses": 0,
+      "mean_regret": 0.0,
+      "max_regret": 0.0,
+      "p50_ms": 50.04324996843934,
+      "p95_ms": 87.08992498577572,
+      "mean_physics_steps": 102400.0,
+      "case148_chosen": 37,
+      "case148_regret": 0.0,
+      "case148_finest_regret": 0.0,
+      "case148_median_ms": 58.195099933072925
+    },
+    {
+      "method": "contact_local",
+      "losses": 2,
+      "mean_regret": 2.700552271495257e-05,
+      "max_regret": 0.005649408343887052,
+      "p50_ms": 60.71299995528534,
+      "p95_ms": 98.62952999537809,
+      "mean_physics_steps": 95056.484375,
+      "case148_chosen": 37,
+      "case148_regret": 0.0,
+      "case148_finest_regret": 0.0,
+      "case148_median_ms": 69.44099999964237
+    },
+    {
+      "method": "spread_matched",
+      "losses": 14,
+      "mean_regret": 0.00125898174461272,
+      "max_regret": 0.12649561097327844,
+      "p50_ms": 59.00219996692613,
+      "p95_ms": 98.24963994324206,
+      "mean_physics_steps": 95056.484375,
+      "case148_chosen": 37,
+      "case148_regret": 0.0,
+      "case148_finest_regret": 0.0,
+      "case148_median_ms": 69.34449996333569
+    },
+    {
+      "method": "uniform_matched",
+      "losses": 10,
+      "mean_regret": 0.0020606477584067646,
+      "max_regret": 0.17582656517675765,
+      "p50_ms": 89.63999996194616,
+      "p95_ms": 134.5137899799738,
+      "mean_physics_steps": 95056.484375,
+      "case148_chosen": 37,
+      "case148_regret": 0.0,
+      "case148_finest_regret": 0.0,
+      "case148_median_ms": 80.62120003160089
+    }
+  ],
+  "mean_fine_stage_fraction": 0.5710479736328125,
+  "case148_fraction": 0.64140625
+}

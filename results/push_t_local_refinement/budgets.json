@@ -1,0 +1,1026 @@
+[
+  {
+    "batch": 0,
+    "fine_stage_fraction": 0.56640625
+  },
+  {
+    "batch": 1,
+    "fine_stage_fraction": 0.54296875
+  },
+  {
+    "batch": 2,
+    "fine_stage_fraction": 0.52421875
+  },
+  {
+    "batch": 3,
+    "fine_stage_fraction": 0.54140625
+  },
+  {
+    "batch": 4,
+    "fine_stage_fraction": 0.5453125
+  },
+  {
+    "batch": 5,
+    "fine_stage_fraction": 0.4828125
+  },
+  {
+    "batch": 6,
+    "fine_stage_fraction": 0.4796875
+  },
+  {
+    "batch": 7,
+    "fine_stage_fraction": 0.52109375
+  },
+  {
+    "batch": 8,
+    "fine_stage_fraction": 0.48515625
+  },
+  {
+    "batch": 9,
+    "fine_stage_fraction": 0.50234375
+  },
+  {
+    "batch": 10,
+    "fine_stage_fraction": 0.49140625
+  },
+  {
+    "batch": 11,
+    "fine_stage_fraction": 0.5046875
+  },
+  {
+    "batch": 12,
+    "fine_stage_fraction": 0.52421875
+  },
+  {
+    "batch": 13,
+    "fine_stage_fraction": 0.5609375
+  },
+  {
+    "batch": 14,
+    "fine_stage_fraction": 0.5375
+  },
+  {
+    "batch": 15,
+    "fine_stage_fraction": 0.56328125
+  },
+  {
+    "batch": 16,
+    "fine_stage_fraction": 0.446875
+  },
+  {
+    "batch": 17,
+    "fine_stage_fraction": 0.56015625
+  },
+  {
+    "batch": 18,
+    "fine_stage_fraction": 0.53359375
+  },
+  {
+    "batch": 19,
+    "fine_stage_fraction": 0.52890625
+  },
+  {
+    "batch": 20,
+    "fine_stage_fraction": 0.49140625
+  },
+  {
+    "batch": 21,
+    "fine_stage_fraction": 0.5515625
+  },
+  {
+    "batch": 22,
+    "fine_stage_fraction": 0.5390625
+  },
+  {
+    "batch": 23,
+    "fine_stage_fraction": 0.5171875
+  },
+  {
+    "batch": 24,
+    "fine_stage_fraction": 0.4578125
+  },
+  {
+    "batch": 25,
+    "fine_stage_fraction": 0.521875
+  },
+  {
+    "batch": 26,
+    "fine_stage_fraction": 0.490625
+  },
+  {
+    "batch": 27,
+    "fine_stage_fraction": 0.53671875
+  },
+  {
+    "batch": 28,
+    "fine_stage_fraction": 0.54765625
+  },
+  {
+    "batch": 29,
+    "fine_stage_fraction": 0.50625
+  },
+  {
+    "batch": 30,
+    "fine_stage_fraction": 0.5734375
+  },
+  {
+    "batch": 31,
+    "fine_stage_fraction": 0.55234375
+  },
+  {
+    "batch": 32,
+    "fine_stage_fraction": 0.49140625
+  },
+  {
+    "batch": 33,
+    "fine_stage_fraction": 0.57890625
+  },
+  {
+    "batch": 34,
+    "fine_stage_fraction": 0.525
+  },
+  {
+    "batch": 35,
+    "fine_stage_fraction": 0.49375
+  },
+  {
+    "batch": 36,
+    "fine_stage_fraction": 0.52734375
+  },
+  {
+    "batch": 37,
+    "fine_stage_fraction": 0.49453125
+  },
+  {
+    "batch": 38,
+    "fine_stage_fraction": 0.55390625
+  },
+  {
+    "batch": 39,
+    "fine_stage_fraction": 0.525
+  },
+  {
+    "batch": 40,
+    "fine_stage_fraction": 0.49140625
+  },
+  {
+    "batch": 41,
+    "fine_stage_fraction": 0.55234375
+  },
+  {
+    "batch": 42,
+    "fine_stage_fraction": 0.5
+  },
+  {
+    "batch": 43,
+    "fine_stage_fraction": 0.565625
+  },
+  {
+    "batch": 44,
+    "fine_stage_fraction": 0.5453125
+  },
+  {
+    "batch": 45,
+    "fine_stage_fraction": 0.5
+  },
+  {
+    "batch": 46,
+    "fine_stage_fraction": 0.4765625
+  },
+  {
+    "batch": 47,
+    "fine_stage_fraction": 0.56953125
+  },
+  {
+    "batch": 48,
+    "fine_stage_fraction": 0.5484375
+  },
+  {
+    "batch": 49,
+    "fine_stage_fraction": 0.51640625
+  },
+  {
+    "batch": 50,
+    "fine_stage_fraction": 0.56015625
+  },
+  {
+    "batch": 51,
+    "fine_stage_fraction": 0.44375
+  },
+  {
+    "batch": 52,
+    "fine_stage_fraction": 0.51328125
+  },
+  {
+    "batch": 53,
+    "fine_stage_fraction": 0.50703125
+  },
+  {
+    "batch": 54,
+    "fine_stage_fraction": 0.50703125
+  },
+  {
+    "batch": 55,
+    "fine_stage_fraction": 0.60234375
+  },
+  {
+    "batch": 56,
+    "fine_stage_fraction": 0.48984375
+  },
+  {
+    "batch": 57,
+    "fine_stage_fraction": 0.53671875
+  },
+  {
+    "batch": 58,
+    "fine_stage_fraction": 0.5328125
+  },
+  {
+    "batch": 59,
+    "fine_stage_fraction": 0.4515625
+  },
+  {
+    "batch": 60,
+    "fine_stage_fraction": 0.4953125
+  },
+  {
+    "batch": 61,
+    "fine_stage_fraction": 0.5375
+  },
+  {
+    "batch": 62,
+    "fine_stage_fraction": 0.4875
+  },
+  {
+    "batch": 63,
+    "fine_stage_fraction": 0.54765625
+  },
+  {
+    "batch": 64,
+    "fine_stage_fraction": 0.459375
+  },
+  {
+    "batch": 65,
+    "fine_stage_fraction": 0.43671875
+  },
+  {
+    "batch": 66,
+    "fine_stage_fraction": 0.44453125
+  },
+  {
+    "batch": 67,
+    "fine_stage_fraction": 0.453125
+  },
+  {
+    "batch": 68,
+    "fine_stage_fraction": 0.46484375
+  },
+  {
+    "batch": 69,
+    "fine_stage_fraction": 0.46328125
+  },
+  {
+    "batch": 70,
+    "fine_stage_fraction": 0.45859375
+  },
+  {
+    "batch": 71,
+    "fine_stage_fraction": 0.44140625
+  },
+  {
+    "batch": 72,
+    "fine_stage_fraction": 0.49453125
+  },
+  {
+    "batch": 73,
+    "fine_stage_fraction": 0.4328125
+  },
+  {
+    "batch": 74,
+    "fine_stage_fraction": 0.47265625
+  },
+  {
+    "batch": 75,
+    "fine_stage_fraction": 0.46171875
+  },
+  {
+    "batch": 76,
+    "fine_stage_fraction": 0.4609375
+  },
+  {
+    "batch": 77,
+    "fine_stage_fraction": 0.503125
+  },
+  {
+    "batch": 78,
+    "fine_stage_fraction": 0.46484375
+  },
+  {
+    "batch": 79,
+    "fine_stage_fraction": 0.4484375
+  },
+  {
+    "batch": 80,
+    "fine_stage_fraction": 0.49375
+  },
+  {
+    "batch": 81,
+    "fine_stage_fraction": 0.44921875
+  },
+  {
+    "batch": 82,
+    "fine_stage_fraction": 0.49609375
+  },
+  {
+    "batch": 83,
+    "fine_stage_fraction": 0.4859375
+  },
+  {
+    "batch": 84,
+    "fine_stage_fraction": 0.45625
+  },
+  {
+    "batch": 85,
+    "fine_stage_fraction": 0.4671875
+  },
+  {
+    "batch": 86,
+    "fine_stage_fraction": 0.4609375
+  },
+  {
+    "batch": 87,
+    "fine_stage_fraction": 0.51953125
+  },
+  {
+    "batch": 88,
+    "fine_stage_fraction": 0.46640625
+  },
+  {
+    "batch": 89,
+    "fine_stage_fraction": 0.48359375
+  },
+  {
+    "batch": 90,
+    "fine_stage_fraction": 0.5015625
+  },
+  {
+    "batch": 91,
+    "fine_stage_fraction": 0.471875
+  },
+  {
+    "batch": 92,
+    "fine_stage_fraction": 0.428125
+  },
+  {
+    "batch": 93,
+    "fine_stage_fraction": 0.46953125
+  },
+  {
+    "batch": 94,
+    "fine_stage_fraction": 0.44765625
+  },
+  {
+    "batch": 95,
+    "fine_stage_fraction": 0.478125
+  },
+  {
+    "batch": 96,
+    "fine_stage_fraction": 0.475
+  },
+  {
+    "batch": 97,
+    "fine_stage_fraction": 0.4703125
+  },
+  {
+    "batch": 98,
+    "fine_stage_fraction": 0.48203125
+  },
+  {
+    "batch": 99,
+    "fine_stage_fraction": 0.45390625
+  },
+  {
+    "batch": 100,
+    "fine_stage_fraction": 0.47578125
+  },
+  {
+    "batch": 101,
+    "fine_stage_fraction": 0.46953125
+  },
+  {
+    "batch": 102,
+    "fine_stage_fraction": 0.48671875
+  },
+  {
+    "batch": 103,
+    "fine_stage_fraction": 0.43984375
+  },
+  {
+    "batch": 104,
+    "fine_stage_fraction": 0.478125
+  },
+  {
+    "batch": 105,
+    "fine_stage_fraction": 0.475
+  },
+  {
+    "batch": 106,
+    "fine_stage_fraction": 0.48203125
+  },
+  {
+    "batch": 107,
+    "fine_stage_fraction": 0.4515625
+  },
+  {
+    "batch": 108,
+    "fine_stage_fraction": 0.4875
+  },
+  {
+    "batch": 109,
+    "fine_stage_fraction": 0.47734375
+  },
+  {
+    "batch": 110,
+    "fine_stage_fraction": 0.4734375
+  },
+  {
+    "batch": 111,
+    "fine_stage_fraction": 0.459375
+  },
+  {
+    "batch": 112,
+    "fine_stage_fraction": 0.43828125
+  },
+  {
+    "batch": 113,
+    "fine_stage_fraction": 0.465625
+  },
+  {
+    "batch": 114,
+    "fine_stage_fraction": 0.48046875
+  },
+  {
+    "batch": 115,
+    "fine_stage_fraction": 0.4765625
+  },
+  {
+    "batch": 116,
+    "fine_stage_fraction": 0.4625
+  },
+  {
+    "batch": 117,
+    "fine_stage_fraction": 0.4328125
+  },
+  {
+    "batch": 118,
+    "fine_stage_fraction": 0.50390625
+  },
+  {
+    "batch": 119,
+    "fine_stage_fraction": 0.47109375
+  },
+  {
+    "batch": 120,
+    "fine_stage_fraction": 0.49296875
+  },
+  {
+    "batch": 121,
+    "fine_stage_fraction": 0.4859375
+  },
+  {
+    "batch": 122,
+    "fine_stage_fraction": 0.490625
+  },
+  {
+    "batch": 123,
+    "fine_stage_fraction": 0.425
+  },
+  {
+    "batch": 124,
+    "fine_stage_fraction": 0.46484375
+  },
+  {
+    "batch": 125,
+    "fine_stage_fraction": 0.46484375
+  },
+  {
+    "batch": 126,
+    "fine_stage_fraction": 0.465625
+  },
+  {
+    "batch": 127,
+    "fine_stage_fraction": 0.4890625
+  },
+  {
+    "batch": 128,
+    "fine_stage_fraction": 0.6296875
+  },
+  {
+    "batch": 129,
+    "fine_stage_fraction": 0.6203125
+  },
+  {
+    "batch": 130,
+    "fine_stage_fraction": 0.64609375
+  },
+  {
+    "batch": 131,
+    "fine_stage_fraction": 0.66953125
+  },
+  {
+    "batch": 132,
+    "fine_stage_fraction": 0.71953125
+  },
+  {
+    "batch": 133,
+    "fine_stage_fraction": 0.7828125
+  },
+  {
+    "batch": 134,
+    "fine_stage_fraction": 0.82421875
+  },
+  {
+    "batch": 135,
+    "fine_stage_fraction": 0.71640625
+  },
+  {
+    "batch": 136,
+    "fine_stage_fraction": 0.79375
+  },
+  {
+    "batch": 137,
+    "fine_stage_fraction": 0.66484375
+  },
+  {
+    "batch": 138,
+    "fine_stage_fraction": 0.7625
+  },
+  {
+    "batch": 139,
+    "fine_stage_fraction": 0.65859375
+  },
+  {
+    "batch": 140,
+    "fine_stage_fraction": 0.72265625
+  },
+  {
+    "batch": 141,
+    "fine_stage_fraction": 0.55859375
+  },
+  {
+    "batch": 142,
+    "fine_stage_fraction": 0.6921875
+  },
+  {
+    "batch": 143,
+    "fine_stage_fraction": 0.66328125
+  },
+  {
+    "batch": 144,
+    "fine_stage_fraction": 0.625
+  },
+  {
+    "batch": 145,
+    "fine_stage_fraction": 0.73203125
+  },
+  {
+    "batch": 146,
+    "fine_stage_fraction": 0.44140625
+  },
+  {
+    "batch": 147,
+    "fine_stage_fraction": 0.72734375
+  },
+  {
+    "batch": 148,
+    "fine_stage_fraction": 0.64140625
+  },
+  {
+    "batch": 149,
+    "fine_stage_fraction": 0.61640625
+  },
+  {
+    "batch": 150,
+    "fine_stage_fraction": 0.67109375
+  },
+  {
+    "batch": 151,
+    "fine_stage_fraction": 0.575
+  },
+  {
+    "batch": 152,
+    "fine_stage_fraction": 0.53671875
+  },
+  {
+    "batch": 153,
+    "fine_stage_fraction": 0.49921875
+  },
+  {
+    "batch": 154,
+    "fine_stage_fraction": 0.54921875
+  },
+  {
+    "batch": 155,
+    "fine_stage_fraction": 0.7515625
+  },
+  {
+    "batch": 156,
+    "fine_stage_fraction": 0.79765625
+  },
+  {
+    "batch": 157,
+    "fine_stage_fraction": 0.6671875
+  },
+  {
+    "batch": 158,
+    "fine_stage_fraction": 0.7890625
+  },
+  {
+    "batch": 159,
+    "fine_stage_fraction": 0.5640625
+  },
+  {
+    "batch": 160,
+    "fine_stage_fraction": 0.69765625
+  },
+  {
+    "batch": 161,
+    "fine_stage_fraction": 0.65859375
+  },
+  {
+    "batch": 162,
+    "fine_stage_fraction": 0.80859375
+  },
+  {
+    "batch": 163,
+    "fine_stage_fraction": 0.61171875
+  },
+  {
+    "batch": 164,
+    "fine_stage_fraction": 0.659375
+  },
+  {
+    "batch": 165,
+    "fine_stage_fraction": 0.4765625
+  },
+  {
+    "batch": 166,
+    "fine_stage_fraction": 0.67890625
+  },
+  {
+    "batch": 167,
+    "fine_stage_fraction": 0.7421875
+  },
+  {
+    "batch": 168,
+    "fine_stage_fraction": 0.6796875
+  },
+  {
+    "batch": 169,
+    "fine_stage_fraction": 0.80546875
+  },
+  {
+    "batch": 170,
+    "fine_stage_fraction": 0.7796875
+  },
+  {
+    "batch": 171,
+    "fine_stage_fraction": 0.709375
+  },
+  {
+    "batch": 172,
+    "fine_stage_fraction": 0.7578125
+  },
+  {
+    "batch": 173,
+    "fine_stage_fraction": 0.63515625
+  },
+  {
+    "batch": 174,
+    "fine_stage_fraction": 0.81015625
+  },
+  {
+    "batch": 175,
+    "fine_stage_fraction": 0.81171875
+  },
+  {
+    "batch": 176,
+    "fine_stage_fraction": 0.6375
+  },
+  {
+    "batch": 177,
+    "fine_stage_fraction": 0.73515625
+  },
+  {
+    "batch": 178,
+    "fine_stage_fraction": 0.67578125
+  },
+  {
+    "batch": 179,
+    "fine_stage_fraction": 0.86953125
+  },
+  {
+    "batch": 180,
+    "fine_stage_fraction": 0.72109375
+  },
+  {
+    "batch": 181,
+    "fine_stage_fraction": 0.5828125
+  },
+  {
+    "batch": 182,
+    "fine_stage_fraction": 0.6234375
+  },
+  {
+    "batch": 183,
+    "fine_stage_fraction": 0.68203125
+  },
+  {
+    "batch": 184,
+    "fine_stage_fraction": 0.73203125
+  },
+  {
+    "batch": 185,
+    "fine_stage_fraction": 0.74140625
+  },
+  {
+    "batch": 186,
+    "fine_stage_fraction": 0.6140625
+  },
+  {
+    "batch": 187,
+    "fine_stage_fraction": 0.75703125
+  },
+  {
+    "batch": 188,
+    "fine_stage_fraction": 0.56875
+  },
+  {
+    "batch": 189,
+    "fine_stage_fraction": 0.61796875
+  },
+  {
+    "batch": 190,
+    "fine_stage_fraction": 0.58984375
+  },
+  {
+    "batch": 191,
+    "fine_stage_fraction": 0.659375
+  },
+  {
+    "batch": 192,
+    "fine_stage_fraction": 0.58359375
+  },
+  {
+    "batch": 193,
+    "fine_stage_fraction": 0.621875
+  },
+  {
+    "batch": 194,
+    "fine_stage_fraction": 0.60234375
+  },
+  {
+    "batch": 195,
+    "fine_stage_fraction": 0.56328125
+  },
+  {
+    "batch": 196,
+    "fine_stage_fraction": 0.63671875
+  },
+  {
+    "batch": 197,
+    "fine_stage_fraction": 0.57578125
+  },
+  {
+    "batch": 198,
+    "fine_stage_fraction": 0.61015625
+  },
+  {
+    "batch": 199,
+    "fine_stage_fraction": 0.62890625
+  },
+  {
+    "batch": 200,
+    "fine_stage_fraction": 0.56484375
+  },
+  {
+    "batch": 201,
+    "fine_stage_fraction": 0.65390625
+  },
+  {
+    "batch": 202,
+    "fine_stage_fraction": 0.63125
+  },
+  {
+    "batch": 203,
+    "fine_stage_fraction": 0.64140625
+  },
+  {
+    "batch": 204,
+    "fine_stage_fraction": 0.60859375
+  },
+  {
+    "batch": 205,
+    "fine_stage_fraction": 0.64140625
+  },
+  {
+    "batch": 206,
+    "fine_stage_fraction": 0.60234375
+  },
+  {
+    "batch": 207,
+    "fine_stage_fraction": 0.6328125
+  },
+  {
+    "batch": 208,
+    "fine_stage_fraction": 0.59296875
+  },
+  {
+    "batch": 209,
+    "fine_stage_fraction": 0.5890625
+  },
+  {
+    "batch": 210,
+    "fine_stage_fraction": 0.63359375
+  },
+  {
+    "batch": 211,
+    "fine_stage_fraction": 0.584375
+  },
+  {
+    "batch": 212,
+    "fine_stage_fraction": 0.58125
+  },
+  {
+    "batch": 213,
+    "fine_stage_fraction": 0.59921875
+  },
+  {
+    "batch": 214,
+    "fine_stage_fraction": 0.575
+  },
+  {
+    "batch": 215,
+    "fine_stage_fraction": 0.63125
+  },
+  {
+    "batch": 216,
+    "fine_stage_fraction": 0.65234375
+  },
+  {
+    "batch": 217,
+    "fine_stage_fraction": 0.65546875
+  },
+  {
+    "batch": 218,
+    "fine_stage_fraction": 0.61875
+  },
+  {
+    "batch": 219,
+    "fine_stage_fraction": 0.6375
+  },
+  {
+    "batch": 220,
+    "fine_stage_fraction": 0.6
+  },
+  {
+    "batch": 221,
+    "fine_stage_fraction": 0.6171875
+  },
+  {
+    "batch": 222,
+    "fine_stage_fraction": 0.5859375
+  },
+  {
+    "batch": 223,
+    "fine_stage_fraction": 0.65234375
+  },
+  {
+    "batch": 224,
+    "fine_stage_fraction": 0.6453125
+  },
+  {
+    "batch": 225,
+    "fine_stage_fraction": 0.61015625
+  },
+  {
+    "batch": 226,
+    "fine_stage_fraction": 0.61875
+  },
+  {
+    "batch": 227,
+    "fine_stage_fraction": 0.67109375
+  },
+  {
+    "batch": 228,
+    "fine_stage_fraction": 0.6375
+  },
+  {
+    "batch": 229,
+    "fine_stage_fraction": 0.64453125
+  },
+  {
+    "batch": 230,
+    "fine_stage_fraction": 0.63984375
+  },
+  {
+    "batch": 231,
+    "fine_stage_fraction": 0.59296875
+  },
+  {
+    "batch": 232,
+    "fine_stage_fraction": 0.56953125
+  },
+  {
+    "batch": 233,
+    "fine_stage_fraction": 0.56328125
+  },
+  {
+    "batch": 234,
+    "fine_stage_fraction": 0.5796875
+  },
+  {
+    "batch": 235,
+    "fine_stage_fraction": 0.640625
+  },
+  {
+    "batch": 236,
+    "fine_stage_fraction": 0.603125
+  },
+  {
+    "batch": 237,
+    "fine_stage_fraction": 0.63515625
+  },
+  {
+    "batch": 238,
+    "fine_stage_fraction": 0.61328125
+  },
+  {
+    "batch": 239,
+    "fine_stage_fraction": 0.63125
+  },
+  {
+    "batch": 240,
+    "fine_stage_fraction": 0.64296875
+  },
+  {
+    "batch": 241,
+    "fine_stage_fraction": 0.59453125
+  },
+  {
+    "batch": 242,
+    "fine_stage_fraction": 0.56171875
+  },
+  {
+    "batch": 243,
+    "fine_stage_fraction": 0.6078125
+  },
+  {
+    "batch": 244,
+    "fine_stage_fraction": 0.634375
+  },
+  {
+    "batch": 245,
+    "fine_stage_fraction": 0.58359375
+  },
+  {
+    "batch": 246,
+    "fine_stage_fraction": 0.603125
+  },
+  {
+    "batch": 247,
+    "fine_stage_fraction": 0.65546875
+  },
+  {
+    "batch": 248,
+    "fine_stage_fraction": 0.6109375
+  },
+  {
+    "batch": 249,
+    "fine_stage_fraction": 0.64453125
+  },
+  {
+    "batch": 250,
+    "fine_stage_fraction": 0.6234375
+  },
+  {
+    "batch": 251,
+    "fine_stage_fraction": 0.603125
+  },
+  {
+    "batch": 252,
+    "fine_stage_fraction": 0.6421875
+  },
+  {
+    "batch": 253,
+    "fine_stage_fraction": 0.578125
+  },
+  {
+    "batch": 254,
+    "fine_stage_fraction": 0.646875
+  },
+  {
+    "batch": 255,
+    "fine_stage_fraction": 0.6328125
+  }
+]

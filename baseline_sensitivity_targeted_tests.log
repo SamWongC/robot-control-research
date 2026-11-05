@@ -1,0 +1,10 @@
+test_heldout_disjoint_and_bounds (test_baseline_sensitivity.BaselineSensitivityTests.test_heldout_disjoint_and_bounds) ... ok
+test_legacy_plan_identical (test_baseline_sensitivity.BaselineSensitivityTests.test_legacy_plan_identical) ... ok
+test_lexicographic_priority_and_known_delay (test_baseline_sensitivity.BaselineSensitivityTests.test_lexicographic_priority_and_known_delay) ... ok
+test_no_reset_pending_command_and_probe_off_at_zero_preview (test_baseline_sensitivity.BaselineSensitivityTests.test_no_reset_pending_command_and_probe_off_at_zero_preview) ... ok
+test_reference_endpoints_and_derivatives (test_baseline_sensitivity.BaselineSensitivityTests.test_reference_endpoints_and_derivatives) ... ok
+
+----------------------------------------------------------------------
+Ran 5 tests in 0.070s
+
+OK

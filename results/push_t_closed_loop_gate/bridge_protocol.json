@@ -1,0 +1,8 @@
+{
+  "scope": "Post-confirmation exploratory bridge, not independent validation",
+  "initial_candidates": "archived batch148 all64",
+  "later_candidates": "new closed-loop generator; method-specific warm start and states",
+  "seed": 2026110511,
+  "first_action_difference_mps": 0.1966062918870222,
+  "source_sha": "9eb951df35ed8a0dd89e17f9885619e7e522d6c0afd8fd73871f6ed989e8a987"
+}

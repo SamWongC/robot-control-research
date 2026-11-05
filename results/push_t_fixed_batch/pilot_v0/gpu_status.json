@@ -1,0 +1,12 @@
+{
+  "status": "completed",
+  "warmup_build_seconds": {
+    "warp_fine": 30.985380400088616,
+    "warp_coarse": 0.11324370000511408
+  },
+  "total_seconds": 43.633538399939425,
+  "warp": "1.19.0",
+  "source_sha256": "8c2eb8232f8619f493a0cce35317c95e03a38c004483de0ace80a85caaf8092c",
+  "device": "cuda:0",
+  "caveat": "Float32 MuJoCo Warp, different backend; timings are not guaranteed quality-equivalent to float64 CPU reference. Includes reset, host-device transfer, synchronization, output and cost."
+}

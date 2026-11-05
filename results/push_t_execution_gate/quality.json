@@ -1,0 +1,2306 @@
+[
+  {
+    "batch": 0,
+    "method": "stage_two_pass",
+    "chosen": 52,
+    "regret": 0.0
+  },
+  {
+    "batch": 0,
+    "method": "uniform_high",
+    "chosen": 52,
+    "regret": 0.0
+  },
+  {
+    "batch": 0,
+    "method": "uniform_medium",
+    "chosen": 52,
+    "regret": 0.0
+  },
+  {
+    "batch": 0,
+    "method": "contiguous",
+    "chosen": 52,
+    "regret": 0.0
+  },
+  {
+    "batch": 0,
+    "method": "online_one_pass",
+    "chosen": 52,
+    "regret": 0.0
+  },
+  {
+    "batch": 0,
+    "method": "prefix_reuse",
+    "chosen": 52,
+    "regret": 0.0
+  },
+  {
+    "batch": 4,
+    "method": "contiguous",
+    "chosen": 31,
+    "regret": 0.0
+  },
+  {
+    "batch": 4,
+    "method": "online_one_pass",
+    "chosen": 31,
+    "regret": 0.0
+  },
+  {
+    "batch": 4,
+    "method": "uniform_high",
+    "chosen": 31,
+    "regret": 0.0
+  },
+  {
+    "batch": 4,
+    "method": "stage_two_pass",
+    "chosen": 31,
+    "regret": 0.0
+  },
+  {
+    "batch": 4,
+    "method": "prefix_reuse",
+    "chosen": 31,
+    "regret": 0.0
+  },
+  {
+    "batch": 4,
+    "method": "uniform_medium",
+    "chosen": 31,
+    "regret": 0.0
+  },
+  {
+    "batch": 8,
+    "method": "contiguous",
+    "chosen": 29,
+    "regret": 0.0
+  },
+  {
+    "batch": 8,
+    "method": "online_one_pass",
+    "chosen": 29,
+    "regret": 0.0
+  },
+  {
+    "batch": 8,
+    "method": "prefix_reuse",
+    "chosen": 29,
+    "regret": 0.0
+  },
+  {
+    "batch": 8,
+    "method": "uniform_high",
+    "chosen": 29,
+    "regret": 0.0
+  },
+  {
+    "batch": 8,
+    "method": "stage_two_pass",
+    "chosen": 29,
+    "regret": 0.0
+  },
+  {
+    "batch": 8,
+    "method": "uniform_medium",
+    "chosen": 29,
+    "regret": 0.0
+  },
+  {
+    "batch": 12,
+    "method": "online_one_pass",
+    "chosen": 47,
+    "regret": 0.0
+  },
+  {
+    "batch": 12,
+    "method": "prefix_reuse",
+    "chosen": 47,
+    "regret": 0.0
+  },
+  {
+    "batch": 12,
+    "method": "uniform_medium",
+    "chosen": 47,
+    "regret": 0.0
+  },
+  {
+    "batch": 12,
+    "method": "stage_two_pass",
+    "chosen": 47,
+    "regret": 0.0
+  },
+  {
+    "batch": 12,
+    "method": "contiguous",
+    "chosen": 47,
+    "regret": 0.0
+  },
+  {
+    "batch": 12,
+    "method": "uniform_high",
+    "chosen": 47,
+    "regret": 0.0
+  },
+  {
+    "batch": 16,
+    "method": "uniform_high",
+    "chosen": 5,
+    "regret": 0.0
+  },
+  {
+    "batch": 16,
+    "method": "stage_two_pass",
+    "chosen": 5,
+    "regret": 0.0
+  },
+  {
+    "batch": 16,
+    "method": "uniform_medium",
+    "chosen": 47,
+    "regret": 0.1297107939525759
+  },
+  {
+    "batch": 16,
+    "method": "online_one_pass",
+    "chosen": 5,
+    "regret": 0.0
+  },
+  {
+    "batch": 16,
+    "method": "prefix_reuse",
+    "chosen": 5,
+    "regret": 0.0
+  },
+  {
+    "batch": 16,
+    "method": "contiguous",
+    "chosen": 5,
+    "regret": 0.0
+  },
+  {
+    "batch": 20,
+    "method": "uniform_medium",
+    "chosen": 23,
+    "regret": 0.0
+  },
+  {
+    "batch": 20,
+    "method": "online_one_pass",
+    "chosen": 23,
+    "regret": 0.0
+  },
+  {
+    "batch": 20,
+    "method": "prefix_reuse",
+    "chosen": 23,
+    "regret": 0.0
+  },
+  {
+    "batch": 20,
+    "method": "contiguous",
+    "chosen": 23,
+    "regret": 0.0
+  },
+  {
+    "batch": 20,
+    "method": "stage_two_pass",
+    "chosen": 23,
+    "regret": 0.0
+  },
+  {
+    "batch": 20,
+    "method": "uniform_high",
+    "chosen": 23,
+    "regret": 0.0
+  },
+  {
+    "batch": 24,
+    "method": "contiguous",
+    "chosen": 31,
+    "regret": 0.0
+  },
+  {
+    "batch": 24,
+    "method": "uniform_medium",
+    "chosen": 31,
+    "regret": 0.0
+  },
+  {
+    "batch": 24,
+    "method": "uniform_high",
+    "chosen": 31,
+    "regret": 0.0
+  },
+  {
+    "batch": 24,
+    "method": "online_one_pass",
+    "chosen": 31,
+    "regret": 0.0
+  },
+  {
+    "batch": 24,
+    "method": "prefix_reuse",
+    "chosen": 31,
+    "regret": 0.0
+  },
+  {
+    "batch": 24,
+    "method": "stage_two_pass",
+    "chosen": 31,
+    "regret": 0.0
+  },
+  {
+    "batch": 28,
+    "method": "stage_two_pass",
+    "chosen": 49,
+    "regret": 0.0
+  },
+  {
+    "batch": 28,
+    "method": "uniform_medium",
+    "chosen": 49,
+    "regret": 0.0
+  },
+  {
+    "batch": 28,
+    "method": "contiguous",
+    "chosen": 49,
+    "regret": 0.0
+  },
+  {
+    "batch": 28,
+    "method": "prefix_reuse",
+    "chosen": 49,
+    "regret": 0.0
+  },
+  {
+    "batch": 28,
+    "method": "online_one_pass",
+    "chosen": 49,
+    "regret": 0.0
+  },
+  {
+    "batch": 28,
+    "method": "uniform_high",
+    "chosen": 49,
+    "regret": 0.0
+  },
+  {
+    "batch": 32,
+    "method": "stage_two_pass",
+    "chosen": 55,
+    "regret": 0.0
+  },
+  {
+    "batch": 32,
+    "method": "online_one_pass",
+    "chosen": 55,
+    "regret": 0.0
+  },
+  {
+    "batch": 32,
+    "method": "uniform_high",
+    "chosen": 55,
+    "regret": 0.0
+  },
+  {
+    "batch": 32,
+    "method": "contiguous",
+    "chosen": 55,
+    "regret": 0.0
+  },
+  {
+    "batch": 32,
+    "method": "uniform_medium",
+    "chosen": 55,
+    "regret": 0.0
+  },
+  {
+    "batch": 32,
+    "method": "prefix_reuse",
+    "chosen": 55,
+    "regret": 0.0
+  },
+  {
+    "batch": 36,
+    "method": "uniform_high",
+    "chosen": 2,
+    "regret": 0.0
+  },
+  {
+    "batch": 36,
+    "method": "uniform_medium",
+    "chosen": 2,
+    "regret": 0.0
+  },
+  {
+    "batch": 36,
+    "method": "online_one_pass",
+    "chosen": 2,
+    "regret": 0.0
+  },
+  {
+    "batch": 36,
+    "method": "stage_two_pass",
+    "chosen": 2,
+    "regret": 0.0
+  },
+  {
+    "batch": 36,
+    "method": "prefix_reuse",
+    "chosen": 2,
+    "regret": 0.0
+  },
+  {
+    "batch": 36,
+    "method": "contiguous",
+    "chosen": 2,
+    "regret": 0.0
+  },
+  {
+    "batch": 40,
+    "method": "prefix_reuse",
+    "chosen": 55,
+    "regret": 0.0
+  },
+  {
+    "batch": 40,
+    "method": "online_one_pass",
+    "chosen": 55,
+    "regret": 0.0
+  },
+  {
+    "batch": 40,
+    "method": "contiguous",
+    "chosen": 55,
+    "regret": 0.0
+  },
+  {
+    "batch": 40,
+    "method": "uniform_medium",
+    "chosen": 55,
+    "regret": 0.0
+  },
+  {
+    "batch": 40,
+    "method": "uniform_high",
+    "chosen": 55,
+    "regret": 0.0
+  },
+  {
+    "batch": 40,
+    "method": "stage_two_pass",
+    "chosen": 55,
+    "regret": 0.0
+  },
+  {
+    "batch": 44,
+    "method": "contiguous",
+    "chosen": 38,
+    "regret": 0.0
+  },
+  {
+    "batch": 44,
+    "method": "uniform_medium",
+    "chosen": 38,
+    "regret": 0.0
+  },
+  {
+    "batch": 44,
+    "method": "online_one_pass",
+    "chosen": 38,
+    "regret": 0.0
+  },
+  {
+    "batch": 44,
+    "method": "prefix_reuse",
+    "chosen": 38,
+    "regret": 0.0
+  },
+  {
+    "batch": 44,
+    "method": "uniform_high",
+    "chosen": 38,
+    "regret": 0.0
+  },
+  {
+    "batch": 44,
+    "method": "stage_two_pass",
+    "chosen": 38,
+    "regret": 0.0
+  },
+  {
+    "batch": 48,
+    "method": "online_one_pass",
+    "chosen": 31,
+    "regret": 0.0
+  },
+  {
+    "batch": 48,
+    "method": "stage_two_pass",
+    "chosen": 31,
+    "regret": 0.0
+  },
+  {
+    "batch": 48,
+    "method": "prefix_reuse",
+    "chosen": 31,
+    "regret": 0.0
+  },
+  {
+    "batch": 48,
+    "method": "uniform_medium",
+    "chosen": 31,
+    "regret": 0.0
+  },
+  {
+    "batch": 48,
+    "method": "contiguous",
+    "chosen": 31,
+    "regret": 0.0
+  },
+  {
+    "batch": 48,
+    "method": "uniform_high",
+    "chosen": 31,
+    "regret": 0.0
+  },
+  {
+    "batch": 52,
+    "method": "uniform_medium",
+    "chosen": 13,
+    "regret": 0.0
+  },
+  {
+    "batch": 52,
+    "method": "uniform_high",
+    "chosen": 13,
+    "regret": 0.0
+  },
+  {
+    "batch": 52,
+    "method": "online_one_pass",
+    "chosen": 13,
+    "regret": 0.0
+  },
+  {
+    "batch": 52,
+    "method": "prefix_reuse",
+    "chosen": 13,
+    "regret": 0.0
+  },
+  {
+    "batch": 52,
+    "method": "stage_two_pass",
+    "chosen": 13,
+    "regret": 0.0
+  },
+  {
+    "batch": 52,
+    "method": "contiguous",
+    "chosen": 13,
+    "regret": 0.0
+  },
+  {
+    "batch": 56,
+    "method": "uniform_medium",
+    "chosen": 56,
+    "regret": 0.0
+  },
+  {
+    "batch": 56,
+    "method": "prefix_reuse",
+    "chosen": 56,
+    "regret": 0.0
+  },
+  {
+    "batch": 56,
+    "method": "contiguous",
+    "chosen": 56,
+    "regret": 0.0
+  },
+  {
+    "batch": 56,
+    "method": "uniform_high",
+    "chosen": 56,
+    "regret": 0.0
+  },
+  {
+    "batch": 56,
+    "method": "online_one_pass",
+    "chosen": 56,
+    "regret": 0.0
+  },
+  {
+    "batch": 56,
+    "method": "stage_two_pass",
+    "chosen": 56,
+    "regret": 0.0
+  },
+  {
+    "batch": 60,
+    "method": "contiguous",
+    "chosen": 29,
+    "regret": 0.0
+  },
+  {
+    "batch": 60,
+    "method": "stage_two_pass",
+    "chosen": 29,
+    "regret": 0.0
+  },
+  {
+    "batch": 60,
+    "method": "uniform_medium",
+    "chosen": 29,
+    "regret": 0.0
+  },
+  {
+    "batch": 60,
+    "method": "prefix_reuse",
+    "chosen": 29,
+    "regret": 0.0
+  },
+  {
+    "batch": 60,
+    "method": "uniform_high",
+    "chosen": 29,
+    "regret": 0.0
+  },
+  {
+    "batch": 60,
+    "method": "online_one_pass",
+    "chosen": 29,
+    "regret": 0.0
+  },
+  {
+    "batch": 64,
+    "method": "online_one_pass",
+    "chosen": 41,
+    "regret": 0.0
+  },
+  {
+    "batch": 64,
+    "method": "uniform_medium",
+    "chosen": 41,
+    "regret": 0.0
+  },
+  {
+    "batch": 64,
+    "method": "uniform_high",
+    "chosen": 41,
+    "regret": 0.0
+  },
+  {
+    "batch": 64,
+    "method": "contiguous",
+    "chosen": 41,
+    "regret": 0.0
+  },
+  {
+    "batch": 64,
+    "method": "stage_two_pass",
+    "chosen": 41,
+    "regret": 0.0
+  },
+  {
+    "batch": 64,
+    "method": "prefix_reuse",
+    "chosen": 41,
+    "regret": 0.0
+  },
+  {
+    "batch": 68,
+    "method": "uniform_medium",
+    "chosen": 46,
+    "regret": 0.0
+  },
+  {
+    "batch": 68,
+    "method": "online_one_pass",
+    "chosen": 46,
+    "regret": 0.0
+  },
+  {
+    "batch": 68,
+    "method": "prefix_reuse",
+    "chosen": 46,
+    "regret": 0.0
+  },
+  {
+    "batch": 68,
+    "method": "stage_two_pass",
+    "chosen": 46,
+    "regret": 0.0
+  },
+  {
+    "batch": 68,
+    "method": "contiguous",
+    "chosen": 46,
+    "regret": 0.0
+  },
+  {
+    "batch": 68,
+    "method": "uniform_high",
+    "chosen": 46,
+    "regret": 0.0
+  },
+  {
+    "batch": 72,
+    "method": "uniform_high",
+    "chosen": 11,
+    "regret": 0.0
+  },
+  {
+    "batch": 72,
+    "method": "contiguous",
+    "chosen": 11,
+    "regret": 0.0
+  },
+  {
+    "batch": 72,
+    "method": "stage_two_pass",
+    "chosen": 11,
+    "regret": 0.0
+  },
+  {
+    "batch": 72,
+    "method": "online_one_pass",
+    "chosen": 11,
+    "regret": 0.0
+  },
+  {
+    "batch": 72,
+    "method": "uniform_medium",
+    "chosen": 11,
+    "regret": 0.0
+  },
+  {
+    "batch": 72,
+    "method": "prefix_reuse",
+    "chosen": 11,
+    "regret": 0.0
+  },
+  {
+    "batch": 76,
+    "method": "prefix_reuse",
+    "chosen": 46,
+    "regret": 0.0
+  },
+  {
+    "batch": 76,
+    "method": "uniform_high",
+    "chosen": 46,
+    "regret": 0.0
+  },
+  {
+    "batch": 76,
+    "method": "uniform_medium",
+    "chosen": 46,
+    "regret": 0.0
+  },
+  {
+    "batch": 76,
+    "method": "online_one_pass",
+    "chosen": 46,
+    "regret": 0.0
+  },
+  {
+    "batch": 76,
+    "method": "stage_two_pass",
+    "chosen": 46,
+    "regret": 0.0
+  },
+  {
+    "batch": 76,
+    "method": "contiguous",
+    "chosen": 46,
+    "regret": 0.0
+  },
+  {
+    "batch": 80,
+    "method": "contiguous",
+    "chosen": 35,
+    "regret": 0.0
+  },
+  {
+    "batch": 80,
+    "method": "prefix_reuse",
+    "chosen": 35,
+    "regret": 0.0
+  },
+  {
+    "batch": 80,
+    "method": "online_one_pass",
+    "chosen": 35,
+    "regret": 0.0
+  },
+  {
+    "batch": 80,
+    "method": "uniform_medium",
+    "chosen": 35,
+    "regret": 0.0
+  },
+  {
+    "batch": 80,
+    "method": "stage_two_pass",
+    "chosen": 35,
+    "regret": 0.0
+  },
+  {
+    "batch": 80,
+    "method": "uniform_high",
+    "chosen": 35,
+    "regret": 0.0
+  },
+  {
+    "batch": 84,
+    "method": "uniform_medium",
+    "chosen": 10,
+    "regret": 0.0
+  },
+  {
+    "batch": 84,
+    "method": "uniform_high",
+    "chosen": 10,
+    "regret": 0.0
+  },
+  {
+    "batch": 84,
+    "method": "stage_two_pass",
+    "chosen": 10,
+    "regret": 0.0
+  },
+  {
+    "batch": 84,
+    "method": "online_one_pass",
+    "chosen": 10,
+    "regret": 0.0
+  },
+  {
+    "batch": 84,
+    "method": "prefix_reuse",
+    "chosen": 10,
+    "regret": 0.0
+  },
+  {
+    "batch": 84,
+    "method": "contiguous",
+    "chosen": 10,
+    "regret": 0.0
+  },
+  {
+    "batch": 88,
+    "method": "prefix_reuse",
+    "chosen": 56,
+    "regret": 0.0
+  },
+  {
+    "batch": 88,
+    "method": "contiguous",
+    "chosen": 56,
+    "regret": 0.0
+  },
+  {
+    "batch": 88,
+    "method": "uniform_medium",
+    "chosen": 56,
+    "regret": 0.0
+  },
+  {
+    "batch": 88,
+    "method": "online_one_pass",
+    "chosen": 56,
+    "regret": 0.0
+  },
+  {
+    "batch": 88,
+    "method": "uniform_high",
+    "chosen": 56,
+    "regret": 0.0
+  },
+  {
+    "batch": 88,
+    "method": "stage_two_pass",
+    "chosen": 56,
+    "regret": 0.0
+  },
+  {
+    "batch": 92,
+    "method": "online_one_pass",
+    "chosen": 21,
+    "regret": 0.0
+  },
+  {
+    "batch": 92,
+    "method": "prefix_reuse",
+    "chosen": 21,
+    "regret": 0.0
+  },
+  {
+    "batch": 92,
+    "method": "stage_two_pass",
+    "chosen": 21,
+    "regret": 0.0
+  },
+  {
+    "batch": 92,
+    "method": "uniform_high",
+    "chosen": 21,
+    "regret": 0.0
+  },
+  {
+    "batch": 92,
+    "method": "contiguous",
+    "chosen": 21,
+    "regret": 0.0
+  },
+  {
+    "batch": 92,
+    "method": "uniform_medium",
+    "chosen": 21,
+    "regret": 0.0
+  },
+  {
+    "batch": 96,
+    "method": "contiguous",
+    "chosen": 19,
+    "regret": 0.0
+  },
+  {
+    "batch": 96,
+    "method": "prefix_reuse",
+    "chosen": 19,
+    "regret": 0.0
+  },
+  {
+    "batch": 96,
+    "method": "uniform_medium",
+    "chosen": 19,
+    "regret": 0.0
+  },
+  {
+    "batch": 96,
+    "method": "uniform_high",
+    "chosen": 19,
+    "regret": 0.0
+  },
+  {
+    "batch": 96,
+    "method": "stage_two_pass",
+    "chosen": 19,
+    "regret": 0.0
+  },
+  {
+    "batch": 96,
+    "method": "online_one_pass",
+    "chosen": 19,
+    "regret": 0.0
+  },
+  {
+    "batch": 100,
+    "method": "contiguous",
+    "chosen": 32,
+    "regret": 0.0
+  },
+  {
+    "batch": 100,
+    "method": "prefix_reuse",
+    "chosen": 32,
+    "regret": 0.0
+  },
+  {
+    "batch": 100,
+    "method": "stage_two_pass",
+    "chosen": 32,
+    "regret": 0.0
+  },
+  {
+    "batch": 100,
+    "method": "uniform_medium",
+    "chosen": 22,
+    "regret": 0.10412379497173774
+  },
+  {
+    "batch": 100,
+    "method": "uniform_high",
+    "chosen": 32,
+    "regret": 0.0
+  },
+  {
+    "batch": 100,
+    "method": "online_one_pass",
+    "chosen": 32,
+    "regret": 0.0
+  },
+  {
+    "batch": 104,
+    "method": "uniform_medium",
+    "chosen": 33,
+    "regret": 0.0
+  },
+  {
+    "batch": 104,
+    "method": "prefix_reuse",
+    "chosen": 33,
+    "regret": 0.0
+  },
+  {
+    "batch": 104,
+    "method": "stage_two_pass",
+    "chosen": 33,
+    "regret": 0.0
+  },
+  {
+    "batch": 104,
+    "method": "uniform_high",
+    "chosen": 33,
+    "regret": 0.0
+  },
+  {
+    "batch": 104,
+    "method": "contiguous",
+    "chosen": 33,
+    "regret": 0.0
+  },
+  {
+    "batch": 104,
+    "method": "online_one_pass",
+    "chosen": 33,
+    "regret": 0.0
+  },
+  {
+    "batch": 108,
+    "method": "uniform_medium",
+    "chosen": 43,
+    "regret": 0.0
+  },
+  {
+    "batch": 108,
+    "method": "online_one_pass",
+    "chosen": 43,
+    "regret": 0.0
+  },
+  {
+    "batch": 108,
+    "method": "uniform_high",
+    "chosen": 43,
+    "regret": 0.0
+  },
+  {
+    "batch": 108,
+    "method": "stage_two_pass",
+    "chosen": 43,
+    "regret": 0.0
+  },
+  {
+    "batch": 108,
+    "method": "contiguous",
+    "chosen": 43,
+    "regret": 0.0
+  },
+  {
+    "batch": 108,
+    "method": "prefix_reuse",
+    "chosen": 43,
+    "regret": 0.0
+  },
+  {
+    "batch": 112,
+    "method": "contiguous",
+    "chosen": 48,
+    "regret": 0.0
+  },
+  {
+    "batch": 112,
+    "method": "online_one_pass",
+    "chosen": 48,
+    "regret": 0.0
+  },
+  {
+    "batch": 112,
+    "method": "uniform_high",
+    "chosen": 48,
+    "regret": 0.0
+  },
+  {
+    "batch": 112,
+    "method": "stage_two_pass",
+    "chosen": 48,
+    "regret": 0.0
+  },
+  {
+    "batch": 112,
+    "method": "uniform_medium",
+    "chosen": 48,
+    "regret": 0.0
+  },
+  {
+    "batch": 112,
+    "method": "prefix_reuse",
+    "chosen": 48,
+    "regret": 0.0
+  },
+  {
+    "batch": 116,
+    "method": "uniform_medium",
+    "chosen": 61,
+    "regret": 0.0
+  },
+  {
+    "batch": 116,
+    "method": "uniform_high",
+    "chosen": 61,
+    "regret": 0.0
+  },
+  {
+    "batch": 116,
+    "method": "contiguous",
+    "chosen": 61,
+    "regret": 0.0
+  },
+  {
+    "batch": 116,
+    "method": "stage_two_pass",
+    "chosen": 61,
+    "regret": 0.0
+  },
+  {
+    "batch": 116,
+    "method": "prefix_reuse",
+    "chosen": 61,
+    "regret": 0.0
+  },
+  {
+    "batch": 116,
+    "method": "online_one_pass",
+    "chosen": 61,
+    "regret": 0.0
+  },
+  {
+    "batch": 120,
+    "method": "stage_two_pass",
+    "chosen": 0,
+    "regret": 0.0
+  },
+  {
+    "batch": 120,
+    "method": "contiguous",
+    "chosen": 0,
+    "regret": 0.0
+  },
+  {
+    "batch": 120,
+    "method": "uniform_high",
+    "chosen": 0,
+    "regret": 0.0
+  },
+  {
+    "batch": 120,
+    "method": "prefix_reuse",
+    "chosen": 0,
+    "regret": 0.0
+  },
+  {
+    "batch": 120,
+    "method": "online_one_pass",
+    "chosen": 0,
+    "regret": 0.0
+  },
+  {
+    "batch": 120,
+    "method": "uniform_medium",
+    "chosen": 0,
+    "regret": 0.0
+  },
+  {
+    "batch": 124,
+    "method": "uniform_medium",
+    "chosen": 39,
+    "regret": 0.0
+  },
+  {
+    "batch": 124,
+    "method": "stage_two_pass",
+    "chosen": 39,
+    "regret": 0.0
+  },
+  {
+    "batch": 124,
+    "method": "prefix_reuse",
+    "chosen": 39,
+    "regret": 0.0
+  },
+  {
+    "batch": 124,
+    "method": "contiguous",
+    "chosen": 39,
+    "regret": 0.0
+  },
+  {
+    "batch": 124,
+    "method": "online_one_pass",
+    "chosen": 39,
+    "regret": 0.0
+  },
+  {
+    "batch": 124,
+    "method": "uniform_high",
+    "chosen": 39,
+    "regret": 0.0
+  },
+  {
+    "batch": 128,
+    "method": "stage_two_pass",
+    "chosen": 55,
+    "regret": 0.0
+  },
+  {
+    "batch": 128,
+    "method": "contiguous",
+    "chosen": 55,
+    "regret": 0.0
+  },
+  {
+    "batch": 128,
+    "method": "prefix_reuse",
+    "chosen": 55,
+    "regret": 0.0
+  },
+  {
+    "batch": 128,
+    "method": "uniform_high",
+    "chosen": 55,
+    "regret": 0.0
+  },
+  {
+    "batch": 128,
+    "method": "uniform_medium",
+    "chosen": 55,
+    "regret": 0.0
+  },
+  {
+    "batch": 128,
+    "method": "online_one_pass",
+    "chosen": 55,
+    "regret": 0.0
+  },
+  {
+    "batch": 132,
+    "method": "stage_two_pass",
+    "chosen": 16,
+    "regret": 0.0
+  },
+  {
+    "batch": 132,
+    "method": "prefix_reuse",
+    "chosen": 16,
+    "regret": 0.0
+  },
+  {
+    "batch": 132,
+    "method": "online_one_pass",
+    "chosen": 16,
+    "regret": 0.0
+  },
+  {
+    "batch": 132,
+    "method": "uniform_high",
+    "chosen": 16,
+    "regret": 0.0
+  },
+  {
+    "batch": 132,
+    "method": "contiguous",
+    "chosen": 16,
+    "regret": 0.0
+  },
+  {
+    "batch": 132,
+    "method": "uniform_medium",
+    "chosen": 16,
+    "regret": 0.0
+  },
+  {
+    "batch": 136,
+    "method": "uniform_medium",
+    "chosen": 53,
+    "regret": 0.0
+  },
+  {
+    "batch": 136,
+    "method": "online_one_pass",
+    "chosen": 53,
+    "regret": 0.0
+  },
+  {
+    "batch": 136,
+    "method": "stage_two_pass",
+    "chosen": 53,
+    "regret": 0.0
+  },
+  {
+    "batch": 136,
+    "method": "contiguous",
+    "chosen": 53,
+    "regret": 0.0
+  },
+  {
+    "batch": 136,
+    "method": "uniform_high",
+    "chosen": 53,
+    "regret": 0.0
+  },
+  {
+    "batch": 136,
+    "method": "prefix_reuse",
+    "chosen": 53,
+    "regret": 0.0
+  },
+  {
+    "batch": 140,
+    "method": "online_one_pass",
+    "chosen": 8,
+    "regret": 0.0
+  },
+  {
+    "batch": 140,
+    "method": "uniform_high",
+    "chosen": 8,
+    "regret": 0.0
+  },
+  {
+    "batch": 140,
+    "method": "prefix_reuse",
+    "chosen": 8,
+    "regret": 0.0
+  },
+  {
+    "batch": 140,
+    "method": "stage_two_pass",
+    "chosen": 8,
+    "regret": 0.0
+  },
+  {
+    "batch": 140,
+    "method": "uniform_medium",
+    "chosen": 8,
+    "regret": 0.0
+  },
+  {
+    "batch": 140,
+    "method": "contiguous",
+    "chosen": 8,
+    "regret": 0.0
+  },
+  {
+    "batch": 144,
+    "method": "prefix_reuse",
+    "chosen": 6,
+    "regret": 0.0
+  },
+  {
+    "batch": 144,
+    "method": "contiguous",
+    "chosen": 6,
+    "regret": 0.0
+  },
+  {
+    "batch": 144,
+    "method": "online_one_pass",
+    "chosen": 6,
+    "regret": 0.0
+  },
+  {
+    "batch": 144,
+    "method": "uniform_high",
+    "chosen": 6,
+    "regret": 0.0
+  },
+  {
+    "batch": 144,
+    "method": "stage_two_pass",
+    "chosen": 6,
+    "regret": 0.0
+  },
+  {
+    "batch": 144,
+    "method": "uniform_medium",
+    "chosen": 6,
+    "regret": 0.0
+  },
+  {
+    "batch": 148,
+    "method": "uniform_medium",
+    "chosen": 37,
+    "regret": 0.0
+  },
+  {
+    "batch": 148,
+    "method": "stage_two_pass",
+    "chosen": 37,
+    "regret": 0.0
+  },
+  {
+    "batch": 148,
+    "method": "online_one_pass",
+    "chosen": 37,
+    "regret": 0.0
+  },
+  {
+    "batch": 148,
+    "method": "prefix_reuse",
+    "chosen": 37,
+    "regret": 0.0
+  },
+  {
+    "batch": 148,
+    "method": "uniform_high",
+    "chosen": 37,
+    "regret": 0.0
+  },
+  {
+    "batch": 148,
+    "method": "contiguous",
+    "chosen": 37,
+    "regret": 0.0
+  },
+  {
+    "batch": 152,
+    "method": "stage_two_pass",
+    "chosen": 25,
+    "regret": 0.0
+  },
+  {
+    "batch": 152,
+    "method": "online_one_pass",
+    "chosen": 25,
+    "regret": 0.0
+  },
+  {
+    "batch": 152,
+    "method": "contiguous",
+    "chosen": 25,
+    "regret": 0.0
+  },
+  {
+    "batch": 152,
+    "method": "uniform_medium",
+    "chosen": 25,
+    "regret": 0.0
+  },
+  {
+    "batch": 152,
+    "method": "uniform_high",
+    "chosen": 25,
+    "regret": 0.0
+  },
+  {
+    "batch": 152,
+    "method": "prefix_reuse",
+    "chosen": 25,
+    "regret": 0.0
+  },
+  {
+    "batch": 156,
+    "method": "online_one_pass",
+    "chosen": 50,
+    "regret": 0.0
+  },
+  {
+    "batch": 156,
+    "method": "prefix_reuse",
+    "chosen": 50,
+    "regret": 0.0
+  },
+  {
+    "batch": 156,
+    "method": "uniform_high",
+    "chosen": 50,
+    "regret": 0.0
+  },
+  {
+    "batch": 156,
+    "method": "stage_two_pass",
+    "chosen": 50,
+    "regret": 0.0
+  },
+  {
+    "batch": 156,
+    "method": "contiguous",
+    "chosen": 50,
+    "regret": 0.0
+  },
+  {
+    "batch": 156,
+    "method": "uniform_medium",
+    "chosen": 50,
+    "regret": 0.0
+  },
+  {
+    "batch": 160,
+    "method": "online_one_pass",
+    "chosen": 62,
+    "regret": 0.0
+  },
+  {
+    "batch": 160,
+    "method": "uniform_medium",
+    "chosen": 62,
+    "regret": 0.0
+  },
+  {
+    "batch": 160,
+    "method": "prefix_reuse",
+    "chosen": 62,
+    "regret": 0.0
+  },
+  {
+    "batch": 160,
+    "method": "stage_two_pass",
+    "chosen": 62,
+    "regret": 0.0
+  },
+  {
+    "batch": 160,
+    "method": "contiguous",
+    "chosen": 62,
+    "regret": 0.0
+  },
+  {
+    "batch": 160,
+    "method": "uniform_high",
+    "chosen": 62,
+    "regret": 0.0
+  },
+  {
+    "batch": 164,
+    "method": "uniform_high",
+    "chosen": 43,
+    "regret": 0.0
+  },
+  {
+    "batch": 164,
+    "method": "uniform_medium",
+    "chosen": 45,
+    "regret": 0.0035452050760346188
+  },
+  {
+    "batch": 164,
+    "method": "online_one_pass",
+    "chosen": 43,
+    "regret": 0.0
+  },
+  {
+    "batch": 164,
+    "method": "contiguous",
+    "chosen": 43,
+    "regret": 0.0
+  },
+  {
+    "batch": 164,
+    "method": "prefix_reuse",
+    "chosen": 43,
+    "regret": 0.0
+  },
+  {
+    "batch": 164,
+    "method": "stage_two_pass",
+    "chosen": 43,
+    "regret": 0.0
+  },
+  {
+    "batch": 168,
+    "method": "uniform_medium",
+    "chosen": 22,
+    "regret": 0.09461539662692253
+  },
+  {
+    "batch": 168,
+    "method": "contiguous",
+    "chosen": 23,
+    "regret": 0.0
+  },
+  {
+    "batch": 168,
+    "method": "online_one_pass",
+    "chosen": 23,
+    "regret": 0.0
+  },
+  {
+    "batch": 168,
+    "method": "stage_two_pass",
+    "chosen": 23,
+    "regret": 0.0
+  },
+  {
+    "batch": 168,
+    "method": "uniform_high",
+    "chosen": 23,
+    "regret": 0.0
+  },
+  {
+    "batch": 168,
+    "method": "prefix_reuse",
+    "chosen": 23,
+    "regret": 0.0
+  },
+  {
+    "batch": 172,
+    "method": "online_one_pass",
+    "chosen": 28,
+    "regret": 0.0
+  },
+  {
+    "batch": 172,
+    "method": "stage_two_pass",
+    "chosen": 28,
+    "regret": 0.0
+  },
+  {
+    "batch": 172,
+    "method": "uniform_medium",
+    "chosen": 28,
+    "regret": 0.0
+  },
+  {
+    "batch": 172,
+    "method": "uniform_high",
+    "chosen": 28,
+    "regret": 0.0
+  },
+  {
+    "batch": 172,
+    "method": "prefix_reuse",
+    "chosen": 28,
+    "regret": 0.0
+  },
+  {
+    "batch": 172,
+    "method": "contiguous",
+    "chosen": 28,
+    "regret": 0.0
+  },
+  {
+    "batch": 176,
+    "method": "uniform_medium",
+    "chosen": 47,
+    "regret": 0.0
+  },
+  {
+    "batch": 176,
+    "method": "uniform_high",
+    "chosen": 47,
+    "regret": 0.0
+  },
+  {
+    "batch": 176,
+    "method": "contiguous",
+    "chosen": 47,
+    "regret": 0.0
+  },
+  {
+    "batch": 176,
+    "method": "stage_two_pass",
+    "chosen": 47,
+    "regret": 0.0
+  },
+  {
+    "batch": 176,
+    "method": "online_one_pass",
+    "chosen": 47,
+    "regret": 0.0
+  },
+  {
+    "batch": 176,
+    "method": "prefix_reuse",
+    "chosen": 47,
+    "regret": 0.0
+  },
+  {
+    "batch": 180,
+    "method": "stage_two_pass",
+    "chosen": 32,
+    "regret": 0.0
+  },
+  {
+    "batch": 180,
+    "method": "prefix_reuse",
+    "chosen": 32,
+    "regret": 0.0
+  },
+  {
+    "batch": 180,
+    "method": "uniform_medium",
+    "chosen": 32,
+    "regret": 0.0
+  },
+  {
+    "batch": 180,
+    "method": "online_one_pass",
+    "chosen": 32,
+    "regret": 0.0
+  },
+  {
+    "batch": 180,
+    "method": "contiguous",
+    "chosen": 32,
+    "regret": 0.0
+  },
+  {
+    "batch": 180,
+    "method": "uniform_high",
+    "chosen": 32,
+    "regret": 0.0
+  },
+  {
+    "batch": 184,
+    "method": "uniform_medium",
+    "chosen": 30,
+    "regret": 0.0
+  },
+  {
+    "batch": 184,
+    "method": "prefix_reuse",
+    "chosen": 30,
+    "regret": 0.0
+  },
+  {
+    "batch": 184,
+    "method": "contiguous",
+    "chosen": 30,
+    "regret": 0.0
+  },
+  {
+    "batch": 184,
+    "method": "uniform_high",
+    "chosen": 30,
+    "regret": 0.0
+  },
+  {
+    "batch": 184,
+    "method": "online_one_pass",
+    "chosen": 30,
+    "regret": 0.0
+  },
+  {
+    "batch": 184,
+    "method": "stage_two_pass",
+    "chosen": 30,
+    "regret": 0.0
+  },
+  {
+    "batch": 188,
+    "method": "uniform_high",
+    "chosen": 52,
+    "regret": 0.0
+  },
+  {
+    "batch": 188,
+    "method": "stage_two_pass",
+    "chosen": 52,
+    "regret": 0.0
+  },
+  {
+    "batch": 188,
+    "method": "online_one_pass",
+    "chosen": 52,
+    "regret": 0.0
+  },
+  {
+    "batch": 188,
+    "method": "contiguous",
+    "chosen": 52,
+    "regret": 0.0
+  },
+  {
+    "batch": 188,
+    "method": "prefix_reuse",
+    "chosen": 52,
+    "regret": 0.0
+  },
+  {
+    "batch": 188,
+    "method": "uniform_medium",
+    "chosen": 52,
+    "regret": 0.0
+  },
+  {
+    "batch": 192,
+    "method": "stage_two_pass",
+    "chosen": 10,
+    "regret": 0.0
+  },
+  {
+    "batch": 192,
+    "method": "prefix_reuse",
+    "chosen": 10,
+    "regret": 0.0
+  },
+  {
+    "batch": 192,
+    "method": "online_one_pass",
+    "chosen": 10,
+    "regret": 0.0
+  },
+  {
+    "batch": 192,
+    "method": "uniform_medium",
+    "chosen": 10,
+    "regret": 0.0
+  },
+  {
+    "batch": 192,
+    "method": "contiguous",
+    "chosen": 10,
+    "regret": 0.0
+  },
+  {
+    "batch": 192,
+    "method": "uniform_high",
+    "chosen": 10,
+    "regret": 0.0
+  },
+  {
+    "batch": 196,
+    "method": "online_one_pass",
+    "chosen": 14,
+    "regret": 0.0
+  },
+  {
+    "batch": 196,
+    "method": "contiguous",
+    "chosen": 14,
+    "regret": 0.0
+  },
+  {
+    "batch": 196,
+    "method": "prefix_reuse",
+    "chosen": 14,
+    "regret": 0.0
+  },
+  {
+    "batch": 196,
+    "method": "uniform_medium",
+    "chosen": 14,
+    "regret": 0.0
+  },
+  {
+    "batch": 196,
+    "method": "stage_two_pass",
+    "chosen": 14,
+    "regret": 0.0
+  },
+  {
+    "batch": 196,
+    "method": "uniform_high",
+    "chosen": 14,
+    "regret": 0.0
+  },
+  {
+    "batch": 200,
+    "method": "uniform_high",
+    "chosen": 0,
+    "regret": 0.0
+  },
+  {
+    "batch": 200,
+    "method": "contiguous",
+    "chosen": 0,
+    "regret": 0.0
+  },
+  {
+    "batch": 200,
+    "method": "online_one_pass",
+    "chosen": 0,
+    "regret": 0.0
+  },
+  {
+    "batch": 200,
+    "method": "uniform_medium",
+    "chosen": 0,
+    "regret": 0.0
+  },
+  {
+    "batch": 200,
+    "method": "stage_two_pass",
+    "chosen": 0,
+    "regret": 0.0
+  },
+  {
+    "batch": 200,
+    "method": "prefix_reuse",
+    "chosen": 0,
+    "regret": 0.0
+  },
+  {
+    "batch": 204,
+    "method": "uniform_medium",
+    "chosen": 42,
+    "regret": 0.0
+  },
+  {
+    "batch": 204,
+    "method": "contiguous",
+    "chosen": 42,
+    "regret": 0.0
+  },
+  {
+    "batch": 204,
+    "method": "uniform_high",
+    "chosen": 42,
+    "regret": 0.0
+  },
+  {
+    "batch": 204,
+    "method": "prefix_reuse",
+    "chosen": 42,
+    "regret": 0.0
+  },
+  {
+    "batch": 204,
+    "method": "online_one_pass",
+    "chosen": 42,
+    "regret": 0.0
+  },
+  {
+    "batch": 204,
+    "method": "stage_two_pass",
+    "chosen": 42,
+    "regret": 0.0
+  },
+  {
+    "batch": 208,
+    "method": "stage_two_pass",
+    "chosen": 34,
+    "regret": 0.0
+  },
+  {
+    "batch": 208,
+    "method": "uniform_medium",
+    "chosen": 34,
+    "regret": 0.0
+  },
+  {
+    "batch": 208,
+    "method": "online_one_pass",
+    "chosen": 34,
+    "regret": 0.0
+  },
+  {
+    "batch": 208,
+    "method": "uniform_high",
+    "chosen": 34,
+    "regret": 0.0
+  },
+  {
+    "batch": 208,
+    "method": "contiguous",
+    "chosen": 34,
+    "regret": 0.0
+  },
+  {
+    "batch": 208,
+    "method": "prefix_reuse",
+    "chosen": 34,
+    "regret": 0.0
+  },
+  {
+    "batch": 212,
+    "method": "uniform_medium",
+    "chosen": 43,
+    "regret": 0.0
+  },
+  {
+    "batch": 212,
+    "method": "online_one_pass",
+    "chosen": 43,
+    "regret": 0.0
+  },
+  {
+    "batch": 212,
+    "method": "stage_two_pass",
+    "chosen": 43,
+    "regret": 0.0
+  },
+  {
+    "batch": 212,
+    "method": "prefix_reuse",
+    "chosen": 43,
+    "regret": 0.0
+  },
+  {
+    "batch": 212,
+    "method": "contiguous",
+    "chosen": 43,
+    "regret": 0.0
+  },
+  {
+    "batch": 212,
+    "method": "uniform_high",
+    "chosen": 43,
+    "regret": 0.0
+  },
+  {
+    "batch": 216,
+    "method": "online_one_pass",
+    "chosen": 17,
+    "regret": 0.0
+  },
+  {
+    "batch": 216,
+    "method": "stage_two_pass",
+    "chosen": 17,
+    "regret": 0.0
+  },
+  {
+    "batch": 216,
+    "method": "contiguous",
+    "chosen": 17,
+    "regret": 0.0
+  },
+  {
+    "batch": 216,
+    "method": "prefix_reuse",
+    "chosen": 17,
+    "regret": 0.0
+  },
+  {
+    "batch": 216,
+    "method": "uniform_medium",
+    "chosen": 17,
+    "regret": 0.0
+  },
+  {
+    "batch": 216,
+    "method": "uniform_high",
+    "chosen": 17,
+    "regret": 0.0
+  },
+  {
+    "batch": 220,
+    "method": "stage_two_pass",
+    "chosen": 0,
+    "regret": 0.0
+  },
+  {
+    "batch": 220,
+    "method": "online_one_pass",
+    "chosen": 0,
+    "regret": 0.0
+  },
+  {
+    "batch": 220,
+    "method": "uniform_high",
+    "chosen": 0,
+    "regret": 0.0
+  },
+  {
+    "batch": 220,
+    "method": "contiguous",
+    "chosen": 0,
+    "regret": 0.0
+  },
+  {
+    "batch": 220,
+    "method": "uniform_medium",
+    "chosen": 0,
+    "regret": 0.0
+  },
+  {
+    "batch": 220,
+    "method": "prefix_reuse",
+    "chosen": 0,
+    "regret": 0.0
+  },
+  {
+    "batch": 224,
+    "method": "uniform_medium",
+    "chosen": 59,
+    "regret": 0.0
+  },
+  {
+    "batch": 224,
+    "method": "uniform_high",
+    "chosen": 59,
+    "regret": 0.0
+  },
+  {
+    "batch": 224,
+    "method": "online_one_pass",
+    "chosen": 59,
+    "regret": 0.0
+  },
+  {
+    "batch": 224,
+    "method": "contiguous",
+    "chosen": 59,
+    "regret": 0.0
+  },
+  {
+    "batch": 224,
+    "method": "stage_two_pass",
+    "chosen": 59,
+    "regret": 0.0
+  },
+  {
+    "batch": 224,
+    "method": "prefix_reuse",
+    "chosen": 59,
+    "regret": 0.0
+  },
+  {
+    "batch": 228,
+    "method": "contiguous",
+    "chosen": 50,
+    "regret": 0.0
+  },
+  {
+    "batch": 228,
+    "method": "prefix_reuse",
+    "chosen": 50,
+    "regret": 0.0
+  },
+  {
+    "batch": 228,
+    "method": "uniform_medium",
+    "chosen": 50,
+    "regret": 0.0
+  },
+  {
+    "batch": 228,
+    "method": "uniform_high",
+    "chosen": 50,
+    "regret": 0.0
+  },
+  {
+    "batch": 228,
+    "method": "online_one_pass",
+    "chosen": 50,
+    "regret": 0.0
+  },
+  {
+    "batch": 228,
+    "method": "stage_two_pass",
+    "chosen": 50,
+    "regret": 0.0
+  },
+  {
+    "batch": 232,
+    "method": "uniform_medium",
+    "chosen": 0,
+    "regret": 0.0
+  },
+  {
+    "batch": 232,
+    "method": "prefix_reuse",
+    "chosen": 0,
+    "regret": 0.0
+  },
+  {
+    "batch": 232,
+    "method": "uniform_high",
+    "chosen": 0,
+    "regret": 0.0
+  },
+  {
+    "batch": 232,
+    "method": "online_one_pass",
+    "chosen": 0,
+    "regret": 0.0
+  },
+  {
+    "batch": 232,
+    "method": "contiguous",
+    "chosen": 0,
+    "regret": 0.0
+  },
+  {
+    "batch": 232,
+    "method": "stage_two_pass",
+    "chosen": 0,
+    "regret": 0.0
+  },
+  {
+    "batch": 236,
+    "method": "contiguous",
+    "chosen": 37,
+    "regret": 0.0
+  },
+  {
+    "batch": 236,
+    "method": "stage_two_pass",
+    "chosen": 37,
+    "regret": 0.0
+  },
+  {
+    "batch": 236,
+    "method": "uniform_high",
+    "chosen": 37,
+    "regret": 0.0
+  },
+  {
+    "batch": 236,
+    "method": "uniform_medium",
+    "chosen": 37,
+    "regret": 0.0
+  },
+  {
+    "batch": 236,
+    "method": "online_one_pass",
+    "chosen": 37,
+    "regret": 0.0
+  },
+  {
+    "batch": 236,
+    "method": "prefix_reuse",
+    "chosen": 37,
+    "regret": 0.0
+  },
+  {
+    "batch": 240,
+    "method": "uniform_medium",
+    "chosen": 37,
+    "regret": 0.0
+  },
+  {
+    "batch": 240,
+    "method": "contiguous",
+    "chosen": 37,
+    "regret": 0.0
+  },
+  {
+    "batch": 240,
+    "method": "uniform_high",
+    "chosen": 37,
+    "regret": 0.0
+  },
+  {
+    "batch": 240,
+    "method": "prefix_reuse",
+    "chosen": 37,
+    "regret": 0.0
+  },
+  {
+    "batch": 240,
+    "method": "stage_two_pass",
+    "chosen": 37,
+    "regret": 0.0
+  },
+  {
+    "batch": 240,
+    "method": "online_one_pass",
+    "chosen": 37,
+    "regret": 0.0
+  },
+  {
+    "batch": 244,
+    "method": "contiguous",
+    "chosen": 62,
+    "regret": 0.0
+  },
+  {
+    "batch": 244,
+    "method": "uniform_medium",
+    "chosen": 62,
+    "regret": 0.0
+  },
+  {
+    "batch": 244,
+    "method": "online_one_pass",
+    "chosen": 62,
+    "regret": 0.0
+  },
+  {
+    "batch": 244,
+    "method": "prefix_reuse",
+    "chosen": 62,
+    "regret": 0.0
+  },
+  {
+    "batch": 244,
+    "method": "stage_two_pass",
+    "chosen": 62,
+    "regret": 0.0
+  },
+  {
+    "batch": 244,
+    "method": "uniform_high",
+    "chosen": 62,
+    "regret": 0.0
+  },
+  {
+    "batch": 248,
+    "method": "online_one_pass",
+    "chosen": 40,
+    "regret": 0.0
+  },
+  {
+    "batch": 248,
+    "method": "uniform_high",
+    "chosen": 40,
+    "regret": 0.0
+  },
+  {
+    "batch": 248,
+    "method": "prefix_reuse",
+    "chosen": 40,
+    "regret": 0.0
+  },
+  {
+    "batch": 248,
+    "method": "contiguous",
+    "chosen": 40,
+    "regret": 0.0
+  },
+  {
+    "batch": 248,
+    "method": "stage_two_pass",
+    "chosen": 40,
+    "regret": 0.0
+  },
+  {
+    "batch": 248,
+    "method": "uniform_medium",
+    "chosen": 40,
+    "regret": 0.0
+  },
+  {
+    "batch": 252,
+    "method": "online_one_pass",
+    "chosen": 5,
+    "regret": 0.0
+  },
+  {
+    "batch": 252,
+    "method": "stage_two_pass",
+    "chosen": 5,
+    "regret": 0.0
+  },
+  {
+    "batch": 252,
+    "method": "uniform_high",
+    "chosen": 5,
+    "regret": 0.0
+  },
+  {
+    "batch": 252,
+    "method": "prefix_reuse",
+    "chosen": 5,
+    "regret": 0.0
+  },
+  {
+    "batch": 252,
+    "method": "contiguous",
+    "chosen": 5,
+    "regret": 0.0
+  },
+  {
+    "batch": 252,
+    "method": "uniform_medium",
+    "chosen": 5,
+    "regret": 0.0
+  }
+]

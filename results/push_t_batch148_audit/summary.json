@@ -1,0 +1,92 @@
+{
+  "settings": [
+    {
+      "config": "original",
+      "winners": [
+        3,
+        5,
+        37,
+        37,
+        37,
+        37,
+        37
+      ],
+      "last_two_max_cost_delta": 0.10088263714686363,
+      "finest_best_runnerup_margin": 0.5394858760275376,
+      "finest_original_top32_loss": 1.0486802934739163,
+      "finest_own_coarse_top32_loss": 1.0486802934739163,
+      "finest_cost5_minus37": 1.0486802934739163
+    },
+    {
+      "config": "tight_cold",
+      "winners": [
+        3,
+        5,
+        37,
+        37,
+        37,
+        37,
+        37
+      ],
+      "last_two_max_cost_delta": 0.10085055070229743,
+      "finest_best_runnerup_margin": 0.5394858754263034,
+      "finest_original_top32_loss": 1.0486802928726822,
+      "finest_own_coarse_top32_loss": 1.0486802928726822,
+      "finest_cost5_minus37": 1.0486802928726822
+    },
+    {
+      "config": "warm",
+      "winners": [
+        7,
+        5,
+        37,
+        37,
+        37,
+        37,
+        37
+      ],
+      "last_two_max_cost_delta": 0.1009915434908022,
+      "finest_best_runnerup_margin": 0.5070048816699666,
+      "finest_original_top32_loss": 1.0500653827756832,
+      "finest_own_coarse_top32_loss": 1.0500653827756832,
+      "finest_cost5_minus37": 1.0500653827756832
+    },
+    {
+      "config": "tight_warm",
+      "winners": [
+        7,
+        5,
+        37,
+        37,
+        37,
+        37,
+        37
+      ],
+      "last_two_max_cost_delta": 0.1009915434908022,
+      "finest_best_runnerup_margin": 0.5330540451185888,
+      "finest_original_top32_loss": 1.0500023314242837,
+      "finest_own_coarse_top32_loss": 1.0500023314242837,
+      "finest_cost5_minus37": 1.0500023314242837
+    },
+    {
+      "config": "cg_tight",
+      "winners": [
+        7,
+        5,
+        37,
+        37,
+        37,
+        37,
+        37
+      ],
+      "last_two_max_cost_delta": 0.1008720049353915,
+      "finest_best_runnerup_margin": 0.5263745546149772,
+      "finest_original_top32_loss": 1.048562919013575,
+      "finest_own_coarse_top32_loss": 1.048562919013575,
+      "finest_cost5_minus37": 1.048562919013575
+    }
+  ],
+  "max_cross_setting_finest_cost_range": 0.11515765076979001,
+  "any_trace_warning": false,
+  "trace_iteration_cap_steps": 0
+}

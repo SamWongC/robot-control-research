@@ -1,0 +1,9 @@
+test_ellipsoid_factor_matches_information (test_common_delay_reproduction.ReproductionTests.test_ellipsoid_factor_matches_information) ... ok
+test_history_update_timing (test_common_delay_reproduction.ReproductionTests.test_history_update_timing) ... ok
+test_numerical_certificate_rejects_boundary (test_common_delay_reproduction.ReproductionTests.test_numerical_certificate_rejects_boundary) ... ok
+test_true_equation_errors_and_dimensions (test_common_delay_reproduction.ReproductionTests.test_true_equation_errors_and_dimensions) ... ok
+
+----------------------------------------------------------------------
+Ran 4 tests in 0.005s
+
+OK

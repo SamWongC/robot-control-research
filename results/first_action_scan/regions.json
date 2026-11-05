@@ -1,0 +1,1694 @@
+[
+  {
+    "action": -2.0,
+    "prep_admissible": false,
+    "uniform_first_observation_separation": true,
+    "nominal_known_delay_feasible": [
+      false,
+      false
+    ],
+    "both_model_specific_nominal_feasible": false,
+    "common_nominal_open_loop": false,
+    "region": "prep_inadmissible"
+  },
+  {
+    "action": -1.95,
+    "prep_admissible": false,
+    "uniform_first_observation_separation": true,
+    "nominal_known_delay_feasible": [
+      false,
+      false
+    ],
+    "both_model_specific_nominal_feasible": false,
+    "common_nominal_open_loop": false,
+    "region": "prep_inadmissible"
+  },
+  {
+    "action": -1.9,
+    "prep_admissible": false,
+    "uniform_first_observation_separation": true,
+    "nominal_known_delay_feasible": [
+      false,
+      false
+    ],
+    "both_model_specific_nominal_feasible": false,
+    "common_nominal_open_loop": false,
+    "region": "prep_inadmissible"
+  },
+  {
+    "action": -1.85,
+    "prep_admissible": false,
+    "uniform_first_observation_separation": true,
+    "nominal_known_delay_feasible": [
+      false,
+      false
+    ],
+    "both_model_specific_nominal_feasible": false,
+    "common_nominal_open_loop": false,
+    "region": "prep_inadmissible"
+  },
+  {
+    "action": -1.8,
+    "prep_admissible": false,
+    "uniform_first_observation_separation": true,
+    "nominal_known_delay_feasible": [
+      false,
+      false
+    ],
+    "both_model_specific_nominal_feasible": false,
+    "common_nominal_open_loop": false,
+    "region": "prep_inadmissible"
+  },
+  {
+    "action": -1.75,
+    "prep_admissible": false,
+    "uniform_first_observation_separation": true,
+    "nominal_known_delay_feasible": [
+      false,
+      false
+    ],
+    "both_model_specific_nominal_feasible": false,
+    "common_nominal_open_loop": false,
+    "region": "prep_inadmissible"
+  },
+  {
+    "action": -1.7,
+    "prep_admissible": false,
+    "uniform_first_observation_separation": true,
+    "nominal_known_delay_feasible": [
+      false,
+      false
+    ],
+    "both_model_specific_nominal_feasible": false,
+    "common_nominal_open_loop": false,
+    "region": "prep_inadmissible"
+  },
+  {
+    "action": -1.65,
+    "prep_admissible": false,
+    "uniform_first_observation_separation": true,
+    "nominal_known_delay_feasible": [
+      false,
+      false
+    ],
+    "both_model_specific_nominal_feasible": false,
+    "common_nominal_open_loop": false,
+    "region": "prep_inadmissible"
+  },
+  {
+    "action": -1.6,
+    "prep_admissible": false,
+    "uniform_first_observation_separation": true,
+    "nominal_known_delay_feasible": [
+      false,
+      false
+    ],
+    "both_model_specific_nominal_feasible": false,
+    "common_nominal_open_loop": false,
+    "region": "prep_inadmissible"
+  },
+  {
+    "action": -1.55,
+    "prep_admissible": false,
+    "uniform_first_observation_separation": true,
+    "nominal_known_delay_feasible": [
+      false,
+      false
+    ],
+    "both_model_specific_nominal_feasible": false,
+    "common_nominal_open_loop": false,
+    "region": "prep_inadmissible"
+  },
+  {
+    "action": -1.5,
+    "prep_admissible": false,
+    "uniform_first_observation_separation": true,
+    "nominal_known_delay_feasible": [
+      false,
+      false
+    ],
+    "both_model_specific_nominal_feasible": false,
+    "common_nominal_open_loop": false,
+    "region": "prep_inadmissible"
+  },
+  {
+    "action": -1.45,
+    "prep_admissible": false,
+    "uniform_first_observation_separation": true,
+    "nominal_known_delay_feasible": [
+      false,
+      false
+    ],
+    "both_model_specific_nominal_feasible": false,
+    "common_nominal_open_loop": false,
+    "region": "prep_inadmissible"
+  },
+  {
+    "action": -1.4,
+    "prep_admissible": false,
+    "uniform_first_observation_separation": true,
+    "nominal_known_delay_feasible": [
+      false,
+      false
+    ],
+    "both_model_specific_nominal_feasible": false,
+    "common_nominal_open_loop": false,
+    "region": "prep_inadmissible"
+  },
+  {
+    "action": -1.35,
+    "prep_admissible": false,
+    "uniform_first_observation_separation": true,
+    "nominal_known_delay_feasible": [
+      false,
+      false
+    ],
+    "both_model_specific_nominal_feasible": false,
+    "common_nominal_open_loop": false,
+    "region": "prep_inadmissible"
+  },
+  {
+    "action": -1.3,
+    "prep_admissible": false,
+    "uniform_first_observation_separation": true,
+    "nominal_known_delay_feasible": [
+      false,
+      false
+    ],
+    "both_model_specific_nominal_feasible": false,
+    "common_nominal_open_loop": false,
+    "region": "prep_inadmissible"
+  },
+  {
+    "action": -1.25,
+    "prep_admissible": false,
+    "uniform_first_observation_separation": true,
+    "nominal_known_delay_feasible": [
+      false,
+      false
+    ],
+    "both_model_specific_nominal_feasible": false,
+    "common_nominal_open_loop": false,
+    "region": "prep_inadmissible"
+  },
+  {
+    "action": -1.2,
+    "prep_admissible": false,
+    "uniform_first_observation_separation": true,
+    "nominal_known_delay_feasible": [
+      false,
+      false
+    ],
+    "both_model_specific_nominal_feasible": false,
+    "common_nominal_open_loop": false,
+    "region": "prep_inadmissible"
+  },
+  {
+    "action": -1.15,
+    "prep_admissible": true,
+    "uniform_first_observation_separation": true,
+    "nominal_known_delay_feasible": [
+      false,
+      false
+    ],
+    "both_model_specific_nominal_feasible": false,
+    "common_nominal_open_loop": false,
+    "region": "identify_only"
+  },
+  {
+    "action": -1.1,
+    "prep_admissible": true,
+    "uniform_first_observation_separation": true,
+    "nominal_known_delay_feasible": [
+      false,
+      false
+    ],
+    "both_model_specific_nominal_feasible": false,
+    "common_nominal_open_loop": false,
+    "region": "identify_only"
+  },
+  {
+    "action": -1.05,
+    "prep_admissible": true,
+    "uniform_first_observation_separation": true,
+    "nominal_known_delay_feasible": [
+      true,
+      false
+    ],
+    "both_model_specific_nominal_feasible": false,
+    "common_nominal_open_loop": false,
+    "region": "identify_only"
+  },
+  {
+    "action": -1.0,
+    "prep_admissible": true,
+    "uniform_first_observation_separation": true,
+    "nominal_known_delay_feasible": [
+      true,
+      false
+    ],
+    "both_model_specific_nominal_feasible": false,
+    "common_nominal_open_loop": false,
+    "region": "identify_only"
+  },
+  {
+    "action": -0.95,
+    "prep_admissible": true,
+    "uniform_first_observation_separation": true,
+    "nominal_known_delay_feasible": [
+      true,
+      false
+    ],
+    "both_model_specific_nominal_feasible": false,
+    "common_nominal_open_loop": false,
+    "region": "identify_only"
+  },
+  {
+    "action": -0.9,
+    "prep_admissible": true,
+    "uniform_first_observation_separation": true,
+    "nominal_known_delay_feasible": [
+      true,
+      false
+    ],
+    "both_model_specific_nominal_feasible": false,
+    "common_nominal_open_loop": false,
+    "region": "identify_only"
+  },
+  {
+    "action": -0.85,
+    "prep_admissible": true,
+    "uniform_first_observation_separation": true,
+    "nominal_known_delay_feasible": [
+      true,
+      false
+    ],
+    "both_model_specific_nominal_feasible": false,
+    "common_nominal_open_loop": false,
+    "region": "identify_only"
+  },
+  {
+    "action": -0.8,
+    "prep_admissible": true,
+    "uniform_first_observation_separation": true,
+    "nominal_known_delay_feasible": [
+      true,
+      false
+    ],
+    "both_model_specific_nominal_feasible": false,
+    "common_nominal_open_loop": false,
+    "region": "identify_only"
+  },
+  {
+    "action": -0.75,
+    "prep_admissible": true,
+    "uniform_first_observation_separation": true,
+    "nominal_known_delay_feasible": [
+      true,
+      false
+    ],
+    "both_model_specific_nominal_feasible": false,
+    "common_nominal_open_loop": false,
+    "region": "identify_only"
+  },
+  {
+    "action": -0.7,
+    "prep_admissible": true,
+    "uniform_first_observation_separation": true,
+    "nominal_known_delay_feasible": [
+      true,
+      false
+    ],
+    "both_model_specific_nominal_feasible": false,
+    "common_nominal_open_loop": false,
+    "region": "identify_only"
+  },
+  {
+    "action": -0.65,
+    "prep_admissible": true,
+    "uniform_first_observation_separation": true,
+    "nominal_known_delay_feasible": [
+      true,
+      false
+    ],
+    "both_model_specific_nominal_feasible": false,
+    "common_nominal_open_loop": false,
+    "region": "identify_only"
+  },
+  {
+    "action": -0.6,
+    "prep_admissible": true,
+    "uniform_first_observation_separation": true,
+    "nominal_known_delay_feasible": [
+      true,
+      false
+    ],
+    "both_model_specific_nominal_feasible": false,
+    "common_nominal_open_loop": false,
+    "region": "identify_only"
+  },
+  {
+    "action": -0.55,
+    "prep_admissible": true,
+    "uniform_first_observation_separation": true,
+    "nominal_known_delay_feasible": [
+      true,
+      false
+    ],
+    "both_model_specific_nominal_feasible": false,
+    "common_nominal_open_loop": false,
+    "region": "identify_only"
+  },
+  {
+    "action": -0.5,
+    "prep_admissible": true,
+    "uniform_first_observation_separation": true,
+    "nominal_known_delay_feasible": [
+      true,
+      false
+    ],
+    "both_model_specific_nominal_feasible": false,
+    "common_nominal_open_loop": false,
+    "region": "identify_only"
+  },
+  {
+    "action": -0.45,
+    "prep_admissible": true,
+    "uniform_first_observation_separation": true,
+    "nominal_known_delay_feasible": [
+      true,
+      false
+    ],
+    "both_model_specific_nominal_feasible": false,
+    "common_nominal_open_loop": false,
+    "region": "identify_only"
+  },
+  {
+    "action": -0.4,
+    "prep_admissible": true,
+    "uniform_first_observation_separation": true,
+    "nominal_known_delay_feasible": [
+      true,
+      false
+    ],
+    "both_model_specific_nominal_feasible": false,
+    "common_nominal_open_loop": false,
+    "region": "identify_only"
+  },
+  {
+    "action": -0.355,
+    "prep_admissible": true,
+    "uniform_first_observation_separation": true,
+    "nominal_known_delay_feasible": [
+      true,
+      false
+    ],
+    "both_model_specific_nominal_feasible": false,
+    "common_nominal_open_loop": false,
+    "region": "identify_only"
+  },
+  {
+    "action": -0.35,
+    "prep_admissible": true,
+    "uniform_first_observation_separation": true,
+    "nominal_known_delay_feasible": [
+      true,
+      false
+    ],
+    "both_model_specific_nominal_feasible": false,
+    "common_nominal_open_loop": false,
+    "region": "identify_only"
+  },
+  {
+    "action": -0.3,
+    "prep_admissible": true,
+    "uniform_first_observation_separation": true,
+    "nominal_known_delay_feasible": [
+      true,
+      false
+    ],
+    "both_model_specific_nominal_feasible": false,
+    "common_nominal_open_loop": false,
+    "region": "identify_only"
+  },
+  {
+    "action": -0.25,
+    "prep_admissible": true,
+    "uniform_first_observation_separation": true,
+    "nominal_known_delay_feasible": [
+      true,
+      false
+    ],
+    "both_model_specific_nominal_feasible": false,
+    "common_nominal_open_loop": false,
+    "region": "identify_only"
+  },
+  {
+    "action": -0.2,
+    "prep_admissible": true,
+    "uniform_first_observation_separation": true,
+    "nominal_known_delay_feasible": [
+      true,
+      false
+    ],
+    "both_model_specific_nominal_feasible": false,
+    "common_nominal_open_loop": false,
+    "region": "identify_only"
+  },
+  {
+    "action": -0.15,
+    "prep_admissible": true,
+    "uniform_first_observation_separation": true,
+    "nominal_known_delay_feasible": [
+      true,
+      false
+    ],
+    "both_model_specific_nominal_feasible": false,
+    "common_nominal_open_loop": false,
+    "region": "identify_only"
+  },
+  {
+    "action": -0.145,
+    "prep_admissible": true,
+    "uniform_first_observation_separation": true,
+    "nominal_known_delay_feasible": [
+      true,
+      false
+    ],
+    "both_model_specific_nominal_feasible": false,
+    "common_nominal_open_loop": false,
+    "region": "identify_only"
+  },
+  {
+    "action": -0.14,
+    "prep_admissible": true,
+    "uniform_first_observation_separation": true,
+    "nominal_known_delay_feasible": [
+      true,
+      false
+    ],
+    "both_model_specific_nominal_feasible": false,
+    "common_nominal_open_loop": false,
+    "region": "identify_only"
+  },
+  {
+    "action": -0.135,
+    "prep_admissible": true,
+    "uniform_first_observation_separation": true,
+    "nominal_known_delay_feasible": [
+      true,
+      false
+    ],
+    "both_model_specific_nominal_feasible": false,
+    "common_nominal_open_loop": false,
+    "region": "identify_only"
+  },
+  {
+    "action": -0.13,
+    "prep_admissible": true,
+    "uniform_first_observation_separation": true,
+    "nominal_known_delay_feasible": [
+      true,
+      false
+    ],
+    "both_model_specific_nominal_feasible": false,
+    "common_nominal_open_loop": false,
+    "region": "identify_only"
+  },
+  {
+    "action": -0.125,
+    "prep_admissible": true,
+    "uniform_first_observation_separation": true,
+    "nominal_known_delay_feasible": [
+      true,
+      false
+    ],
+    "both_model_specific_nominal_feasible": false,
+    "common_nominal_open_loop": false,
+    "region": "identify_only"
+  },
+  {
+    "action": -0.12,
+    "prep_admissible": true,
+    "uniform_first_observation_separation": true,
+    "nominal_known_delay_feasible": [
+      true,
+      false
+    ],
+    "both_model_specific_nominal_feasible": false,
+    "common_nominal_open_loop": false,
+    "region": "identify_only"
+  },
+  {
+    "action": -0.115,
+    "prep_admissible": true,
+    "uniform_first_observation_separation": true,
+    "nominal_known_delay_feasible": [
+      true,
+      false
+    ],
+    "both_model_specific_nominal_feasible": false,
+    "common_nominal_open_loop": false,
+    "region": "identify_only"
+  },
+  {
+    "action": -0.11,
+    "prep_admissible": true,
+    "uniform_first_observation_separation": true,
+    "nominal_known_delay_feasible": [
+      true,
+      true
+    ],
+    "both_model_specific_nominal_feasible": true,
+    "common_nominal_open_loop": false,
+    "region": "both_nominal"
+  },
+  {
+    "action": -0.105,
+    "prep_admissible": true,
+    "uniform_first_observation_separation": true,
+    "nominal_known_delay_feasible": [
+      true,
+      true
+    ],
+    "both_model_specific_nominal_feasible": true,
+    "common_nominal_open_loop": false,
+    "region": "both_nominal"
+  },
+  {
+    "action": -0.1,
+    "prep_admissible": true,
+    "uniform_first_observation_separation": true,
+    "nominal_known_delay_feasible": [
+      true,
+      true
+    ],
+    "both_model_specific_nominal_feasible": true,
+    "common_nominal_open_loop": false,
+    "region": "both_nominal"
+  },
+  {
+    "action": -0.095,
+    "prep_admissible": true,
+    "uniform_first_observation_separation": true,
+    "nominal_known_delay_feasible": [
+      true,
+      true
+    ],
+    "both_model_specific_nominal_feasible": true,
+    "common_nominal_open_loop": false,
+    "region": "both_nominal"
+  },
+  {
+    "action": -0.09,
+    "prep_admissible": true,
+    "uniform_first_observation_separation": true,
+    "nominal_known_delay_feasible": [
+      true,
+      true
+    ],
+    "both_model_specific_nominal_feasible": true,
+    "common_nominal_open_loop": false,
+    "region": "both_nominal"
+  },
+  {
+    "action": -0.085,
+    "prep_admissible": true,
+    "uniform_first_observation_separation": true,
+    "nominal_known_delay_feasible": [
+      true,
+      true
+    ],
+    "both_model_specific_nominal_feasible": true,
+    "common_nominal_open_loop": false,
+    "region": "both_nominal"
+  },
+  {
+    "action": -0.08,
+    "prep_admissible": true,
+    "uniform_first_observation_separation": true,
+    "nominal_known_delay_feasible": [
+      true,
+      true
+    ],
+    "both_model_specific_nominal_feasible": true,
+    "common_nominal_open_loop": false,
+    "region": "both_nominal"
+  },
+  {
+    "action": -0.075,
+    "prep_admissible": true,
+    "uniform_first_observation_separation": true,
+    "nominal_known_delay_feasible": [
+      true,
+      true
+    ],
+    "both_model_specific_nominal_feasible": true,
+    "common_nominal_open_loop": false,
+    "region": "both_nominal"
+  },
+  {
+    "action": -0.07,
+    "prep_admissible": true,
+    "uniform_first_observation_separation": true,
+    "nominal_known_delay_feasible": [
+      true,
+      true
+    ],
+    "both_model_specific_nominal_feasible": true,
+    "common_nominal_open_loop": false,
+    "region": "both_nominal"
+  },
+  {
+    "action": -0.065,
+    "prep_admissible": true,
+    "uniform_first_observation_separation": true,
+    "nominal_known_delay_feasible": [
+      true,
+      true
+    ],
+    "both_model_specific_nominal_feasible": true,
+    "common_nominal_open_loop": false,
+    "region": "both_nominal"
+  },
+  {
+    "action": -0.06,
+    "prep_admissible": true,
+    "uniform_first_observation_separation": true,
+    "nominal_known_delay_feasible": [
+      true,
+      true
+    ],
+    "both_model_specific_nominal_feasible": true,
+    "common_nominal_open_loop": false,
+    "region": "both_nominal"
+  },
+  {
+    "action": -0.055,
+    "prep_admissible": true,
+    "uniform_first_observation_separation": true,
+    "nominal_known_delay_feasible": [
+      true,
+      true
+    ],
+    "both_model_specific_nominal_feasible": true,
+    "common_nominal_open_loop": false,
+    "region": "both_nominal"
+  },
+  {
+    "action": -0.05,
+    "prep_admissible": true,
+    "uniform_first_observation_separation": true,
+    "nominal_known_delay_feasible": [
+      true,
+      true
+    ],
+    "both_model_specific_nominal_feasible": true,
+    "common_nominal_open_loop": false,
+    "region": "both_nominal"
+  },
+  {
+    "action": -0.048,
+    "prep_admissible": true,
+    "uniform_first_observation_separation": false,
+    "nominal_known_delay_feasible": [
+      true,
+      true
+    ],
+    "both_model_specific_nominal_feasible": true,
+    "common_nominal_open_loop": false,
+    "region": "nominal_task_only"
+  },
+  {
+    "action": -0.045,
+    "prep_admissible": true,
+    "uniform_first_observation_separation": false,
+    "nominal_known_delay_feasible": [
+      true,
+      true
+    ],
+    "both_model_specific_nominal_feasible": true,
+    "common_nominal_open_loop": false,
+    "region": "nominal_task_only"
+  },
+  {
+    "action": -0.041,
+    "prep_admissible": true,
+    "uniform_first_observation_separation": false,
+    "nominal_known_delay_feasible": [
+      true,
+      true
+    ],
+    "both_model_specific_nominal_feasible": true,
+    "common_nominal_open_loop": false,
+    "region": "nominal_task_only"
+  },
+  {
+    "action": -0.04,
+    "prep_admissible": true,
+    "uniform_first_observation_separation": false,
+    "nominal_known_delay_feasible": [
+      true,
+      true
+    ],
+    "both_model_specific_nominal_feasible": true,
+    "common_nominal_open_loop": false,
+    "region": "nominal_task_only"
+  },
+  {
+    "action": -0.035,
+    "prep_admissible": true,
+    "uniform_first_observation_separation": false,
+    "nominal_known_delay_feasible": [
+      true,
+      true
+    ],
+    "both_model_specific_nominal_feasible": true,
+    "common_nominal_open_loop": false,
+    "region": "nominal_task_only"
+  },
+  {
+    "action": -0.03,
+    "prep_admissible": true,
+    "uniform_first_observation_separation": false,
+    "nominal_known_delay_feasible": [
+      true,
+      true
+    ],
+    "both_model_specific_nominal_feasible": true,
+    "common_nominal_open_loop": false,
+    "region": "nominal_task_only"
+  },
+  {
+    "action": -0.025,
+    "prep_admissible": true,
+    "uniform_first_observation_separation": false,
+    "nominal_known_delay_feasible": [
+      true,
+      true
+    ],
+    "both_model_specific_nominal_feasible": true,
+    "common_nominal_open_loop": false,
+    "region": "nominal_task_only"
+  },
+  {
+    "action": -0.02,
+    "prep_admissible": true,
+    "uniform_first_observation_separation": false,
+    "nominal_known_delay_feasible": [
+      true,
+      true
+    ],
+    "both_model_specific_nominal_feasible": true,
+    "common_nominal_open_loop": false,
+    "region": "nominal_task_only"
+  },
+  {
+    "action": -0.015,
+    "prep_admissible": true,
+    "uniform_first_observation_separation": false,
+    "nominal_known_delay_feasible": [
+      true,
+      true
+    ],
+    "both_model_specific_nominal_feasible": true,
+    "common_nominal_open_loop": false,
+    "region": "nominal_task_only"
+  },
+  {
+    "action": -0.01,
+    "prep_admissible": true,
+    "uniform_first_observation_separation": false,
+    "nominal_known_delay_feasible": [
+      true,
+      true
+    ],
+    "both_model_specific_nominal_feasible": true,
+    "common_nominal_open_loop": false,
+    "region": "nominal_task_only"
+  },
+  {
+    "action": -0.005,
+    "prep_admissible": true,
+    "uniform_first_observation_separation": false,
+    "nominal_known_delay_feasible": [
+      true,
+      true
+    ],
+    "both_model_specific_nominal_feasible": true,
+    "common_nominal_open_loop": false,
+    "region": "nominal_task_only"
+  },
+  {
+    "action": 0.0,
+    "prep_admissible": true,
+    "uniform_first_observation_separation": false,
+    "nominal_known_delay_feasible": [
+      true,
+      true
+    ],
+    "both_model_specific_nominal_feasible": true,
+    "common_nominal_open_loop": false,
+    "region": "nominal_task_only"
+  },
+  {
+    "action": 0.005,
+    "prep_admissible": true,
+    "uniform_first_observation_separation": false,
+    "nominal_known_delay_feasible": [
+      true,
+      true
+    ],
+    "both_model_specific_nominal_feasible": true,
+    "common_nominal_open_loop": false,
+    "region": "nominal_task_only"
+  },
+  {
+    "action": 0.01,
+    "prep_admissible": true,
+    "uniform_first_observation_separation": false,
+    "nominal_known_delay_feasible": [
+      true,
+      true
+    ],
+    "both_model_specific_nominal_feasible": true,
+    "common_nominal_open_loop": false,
+    "region": "nominal_task_only"
+  },
+  {
+    "action": 0.015,
+    "prep_admissible": true,
+    "uniform_first_observation_separation": false,
+    "nominal_known_delay_feasible": [
+      true,
+      true
+    ],
+    "both_model_specific_nominal_feasible": true,
+    "common_nominal_open_loop": false,
+    "region": "nominal_task_only"
+  },
+  {
+    "action": 0.02,
+    "prep_admissible": true,
+    "uniform_first_observation_separation": false,
+    "nominal_known_delay_feasible": [
+      true,
+      true
+    ],
+    "both_model_specific_nominal_feasible": true,
+    "common_nominal_open_loop": false,
+    "region": "nominal_task_only"
+  },
+  {
+    "action": 0.025,
+    "prep_admissible": true,
+    "uniform_first_observation_separation": false,
+    "nominal_known_delay_feasible": [
+      true,
+      true
+    ],
+    "both_model_specific_nominal_feasible": true,
+    "common_nominal_open_loop": false,
+    "region": "nominal_task_only"
+  },
+  {
+    "action": 0.03,
+    "prep_admissible": true,
+    "uniform_first_observation_separation": false,
+    "nominal_known_delay_feasible": [
+      true,
+      true
+    ],
+    "both_model_specific_nominal_feasible": true,
+    "common_nominal_open_loop": false,
+    "region": "nominal_task_only"
+  },
+  {
+    "action": 0.035,
+    "prep_admissible": true,
+    "uniform_first_observation_separation": false,
+    "nominal_known_delay_feasible": [
+      true,
+      true
+    ],
+    "both_model_specific_nominal_feasible": true,
+    "common_nominal_open_loop": false,
+    "region": "nominal_task_only"
+  },
+  {
+    "action": 0.04,
+    "prep_admissible": true,
+    "uniform_first_observation_separation": false,
+    "nominal_known_delay_feasible": [
+      true,
+      true
+    ],
+    "both_model_specific_nominal_feasible": true,
+    "common_nominal_open_loop": false,
+    "region": "nominal_task_only"
+  },
+  {
+    "action": 0.041,
+    "prep_admissible": true,
+    "uniform_first_observation_separation": false,
+    "nominal_known_delay_feasible": [
+      true,
+      true
+    ],
+    "both_model_specific_nominal_feasible": true,
+    "common_nominal_open_loop": false,
+    "region": "nominal_task_only"
+  },
+  {
+    "action": 0.045,
+    "prep_admissible": true,
+    "uniform_first_observation_separation": false,
+    "nominal_known_delay_feasible": [
+      true,
+      true
+    ],
+    "both_model_specific_nominal_feasible": true,
+    "common_nominal_open_loop": false,
+    "region": "nominal_task_only"
+  },
+  {
+    "action": 0.048,
+    "prep_admissible": true,
+    "uniform_first_observation_separation": false,
+    "nominal_known_delay_feasible": [
+      true,
+      true
+    ],
+    "both_model_specific_nominal_feasible": true,
+    "common_nominal_open_loop": false,
+    "region": "nominal_task_only"
+  },
+  {
+    "action": 0.05,
+    "prep_admissible": true,
+    "uniform_first_observation_separation": true,
+    "nominal_known_delay_feasible": [
+      true,
+      true
+    ],
+    "both_model_specific_nominal_feasible": true,
+    "common_nominal_open_loop": false,
+    "region": "both_nominal"
+  },
+  {
+    "action": 0.055,
+    "prep_admissible": true,
+    "uniform_first_observation_separation": true,
+    "nominal_known_delay_feasible": [
+      true,
+      true
+    ],
+    "both_model_specific_nominal_feasible": true,
+    "common_nominal_open_loop": false,
+    "region": "both_nominal"
+  },
+  {
+    "action": 0.06,
+    "prep_admissible": true,
+    "uniform_first_observation_separation": true,
+    "nominal_known_delay_feasible": [
+      true,
+      true
+    ],
+    "both_model_specific_nominal_feasible": true,
+    "common_nominal_open_loop": false,
+    "region": "both_nominal"
+  },
+  {
+    "action": 0.065,
+    "prep_admissible": true,
+    "uniform_first_observation_separation": true,
+    "nominal_known_delay_feasible": [
+      true,
+      true
+    ],
+    "both_model_specific_nominal_feasible": true,
+    "common_nominal_open_loop": false,
+    "region": "both_nominal"
+  },
+  {
+    "action": 0.07,
+    "prep_admissible": true,
+    "uniform_first_observation_separation": true,
+    "nominal_known_delay_feasible": [
+      true,
+      true
+    ],
+    "both_model_specific_nominal_feasible": true,
+    "common_nominal_open_loop": false,
+    "region": "both_nominal"
+  },
+  {
+    "action": 0.075,
+    "prep_admissible": true,
+    "uniform_first_observation_separation": true,
+    "nominal_known_delay_feasible": [
+      true,
+      true
+    ],
+    "both_model_specific_nominal_feasible": true,
+    "common_nominal_open_loop": false,
+    "region": "both_nominal"
+  },
+  {
+    "action": 0.08,
+    "prep_admissible": true,
+    "uniform_first_observation_separation": true,
+    "nominal_known_delay_feasible": [
+      true,
+      true
+    ],
+    "both_model_specific_nominal_feasible": true,
+    "common_nominal_open_loop": false,
+    "region": "both_nominal"
+  },
+  {
+    "action": 0.085,
+    "prep_admissible": true,
+    "uniform_first_observation_separation": true,
+    "nominal_known_delay_feasible": [
+      true,
+      true
+    ],
+    "both_model_specific_nominal_feasible": true,
+    "common_nominal_open_loop": false,
+    "region": "both_nominal"
+  },
+  {
+    "action": 0.09,
+    "prep_admissible": true,
+    "uniform_first_observation_separation": true,
+    "nominal_known_delay_feasible": [
+      true,
+      true
+    ],
+    "both_model_specific_nominal_feasible": true,
+    "common_nominal_open_loop": false,
+    "region": "both_nominal"
+  },
+  {
+    "action": 0.095,
+    "prep_admissible": true,
+    "uniform_first_observation_separation": true,
+    "nominal_known_delay_feasible": [
+      true,
+      true
+    ],
+    "both_model_specific_nominal_feasible": true,
+    "common_nominal_open_loop": false,
+    "region": "both_nominal"
+  },
+  {
+    "action": 0.1,
+    "prep_admissible": true,
+    "uniform_first_observation_separation": true,
+    "nominal_known_delay_feasible": [
+      true,
+      true
+    ],
+    "both_model_specific_nominal_feasible": true,
+    "common_nominal_open_loop": false,
+    "region": "both_nominal"
+  },
+  {
+    "action": 0.105,
+    "prep_admissible": true,
+    "uniform_first_observation_separation": true,
+    "nominal_known_delay_feasible": [
+      true,
+      true
+    ],
+    "both_model_specific_nominal_feasible": true,
+    "common_nominal_open_loop": false,
+    "region": "both_nominal"
+  },
+  {
+    "action": 0.11,
+    "prep_admissible": true,
+    "uniform_first_observation_separation": true,
+    "nominal_known_delay_feasible": [
+      true,
+      true
+    ],
+    "both_model_specific_nominal_feasible": true,
+    "common_nominal_open_loop": false,
+    "region": "both_nominal"
+  },
+  {
+    "action": 0.115,
+    "prep_admissible": true,
+    "uniform_first_observation_separation": true,
+    "nominal_known_delay_feasible": [
+      true,
+      false
+    ],
+    "both_model_specific_nominal_feasible": false,
+    "common_nominal_open_loop": false,
+    "region": "identify_only"
+  },
+  {
+    "action": 0.12,
+    "prep_admissible": true,
+    "uniform_first_observation_separation": true,
+    "nominal_known_delay_feasible": [
+      true,
+      false
+    ],
+    "both_model_specific_nominal_feasible": false,
+    "common_nominal_open_loop": false,
+    "region": "identify_only"
+  },
+  {
+    "action": 0.125,
+    "prep_admissible": true,
+    "uniform_first_observation_separation": true,
+    "nominal_known_delay_feasible": [
+      true,
+      false
+    ],
+    "both_model_specific_nominal_feasible": false,
+    "common_nominal_open_loop": false,
+    "region": "identify_only"
+  },
+  {
+    "action": 0.13,
+    "prep_admissible": true,
+    "uniform_first_observation_separation": true,
+    "nominal_known_delay_feasible": [
+      true,
+      false
+    ],
+    "both_model_specific_nominal_feasible": false,
+    "common_nominal_open_loop": false,
+    "region": "identify_only"
+  },
+  {
+    "action": 0.135,
+    "prep_admissible": true,
+    "uniform_first_observation_separation": true,
+    "nominal_known_delay_feasible": [
+      true,
+      false
+    ],
+    "both_model_specific_nominal_feasible": false,
+    "common_nominal_open_loop": false,
+    "region": "identify_only"
+  },
+  {
+    "action": 0.14,
+    "prep_admissible": true,
+    "uniform_first_observation_separation": true,
+    "nominal_known_delay_feasible": [
+      true,
+      false
+    ],
+    "both_model_specific_nominal_feasible": false,
+    "common_nominal_open_loop": false,
+    "region": "identify_only"
+  },
+  {
+    "action": 0.145,
+    "prep_admissible": true,
+    "uniform_first_observation_separation": true,
+    "nominal_known_delay_feasible": [
+      true,
+      false
+    ],
+    "both_model_specific_nominal_feasible": false,
+    "common_nominal_open_loop": false,
+    "region": "identify_only"
+  },
+  {
+    "action": 0.15,
+    "prep_admissible": true,
+    "uniform_first_observation_separation": true,
+    "nominal_known_delay_feasible": [
+      true,
+      false
+    ],
+    "both_model_specific_nominal_feasible": false,
+    "common_nominal_open_loop": false,
+    "region": "identify_only"
+  },
+  {
+    "action": 0.2,
+    "prep_admissible": true,
+    "uniform_first_observation_separation": true,
+    "nominal_known_delay_feasible": [
+      true,
+      false
+    ],
+    "both_model_specific_nominal_feasible": false,
+    "common_nominal_open_loop": false,
+    "region": "identify_only"
+  },
+  {
+    "action": 0.25,
+    "prep_admissible": true,
+    "uniform_first_observation_separation": true,
+    "nominal_known_delay_feasible": [
+      true,
+      false
+    ],
+    "both_model_specific_nominal_feasible": false,
+    "common_nominal_open_loop": false,
+    "region": "identify_only"
+  },
+  {
+    "action": 0.3,
+    "prep_admissible": true,
+    "uniform_first_observation_separation": true,
+    "nominal_known_delay_feasible": [
+      true,
+      false
+    ],
+    "both_model_specific_nominal_feasible": false,
+    "common_nominal_open_loop": false,
+    "region": "identify_only"
+  },
+  {
+    "action": 0.35,
+    "prep_admissible": true,
+    "uniform_first_observation_separation": true,
+    "nominal_known_delay_feasible": [
+      true,
+      false
+    ],
+    "both_model_specific_nominal_feasible": false,
+    "common_nominal_open_loop": false,
+    "region": "identify_only"
+  },
+  {
+    "action": 0.355,
+    "prep_admissible": true,
+    "uniform_first_observation_separation": true,
+    "nominal_known_delay_feasible": [
+      true,
+      false
+    ],
+    "both_model_specific_nominal_feasible": false,
+    "common_nominal_open_loop": false,
+    "region": "identify_only"
+  },
+  {
+    "action": 0.4,
+    "prep_admissible": true,
+    "uniform_first_observation_separation": true,
+    "nominal_known_delay_feasible": [
+      true,
+      false
+    ],
+    "both_model_specific_nominal_feasible": false,
+    "common_nominal_open_loop": false,
+    "region": "identify_only"
+  },
+  {
+    "action": 0.45,
+    "prep_admissible": true,
+    "uniform_first_observation_separation": true,
+    "nominal_known_delay_feasible": [
+      true,
+      false
+    ],
+    "both_model_specific_nominal_feasible": false,
+    "common_nominal_open_loop": false,
+    "region": "identify_only"
+  },
+  {
+    "action": 0.5,
+    "prep_admissible": true,
+    "uniform_first_observation_separation": true,
+    "nominal_known_delay_feasible": [
+      true,
+      false
+    ],
+    "both_model_specific_nominal_feasible": false,
+    "common_nominal_open_loop": false,
+    "region": "identify_only"
+  },
+  {
+    "action": 0.55,
+    "prep_admissible": true,
+    "uniform_first_observation_separation": true,
+    "nominal_known_delay_feasible": [
+      true,
+      false
+    ],
+    "both_model_specific_nominal_feasible": false,
+    "common_nominal_open_loop": false,
+    "region": "identify_only"
+  },
+  {
+    "action": 0.6,
+    "prep_admissible": true,
+    "uniform_first_observation_separation": true,
+    "nominal_known_delay_feasible": [
+      false,
+      false
+    ],
+    "both_model_specific_nominal_feasible": false,
+    "common_nominal_open_loop": false,
+    "region": "identify_only"
+  },
+  {
+    "action": 0.65,
+    "prep_admissible": true,
+    "uniform_first_observation_separation": true,
+    "nominal_known_delay_feasible": [
+      false,
+      false
+    ],
+    "both_model_specific_nominal_feasible": false,
+    "common_nominal_open_loop": false,
+    "region": "identify_only"
+  },
+  {
+    "action": 0.7,
+    "prep_admissible": true,
+    "uniform_first_observation_separation": true,
+    "nominal_known_delay_feasible": [
+      false,
+      false
+    ],
+    "both_model_specific_nominal_feasible": false,
+    "common_nominal_open_loop": false,
+    "region": "identify_only"
+  },
+  {
+    "action": 0.75,
+    "prep_admissible": true,
+    "uniform_first_observation_separation": true,
+    "nominal_known_delay_feasible": [
+      false,
+      false
+    ],
+    "both_model_specific_nominal_feasible": false,
+    "common_nominal_open_loop": false,
+    "region": "identify_only"
+  },
+  {
+    "action": 0.8,
+    "prep_admissible": true,
+    "uniform_first_observation_separation": true,
+    "nominal_known_delay_feasible": [
+      false,
+      false
+    ],
+    "both_model_specific_nominal_feasible": false,
+    "common_nominal_open_loop": false,
+    "region": "identify_only"
+  },
+  {
+    "action": 0.85,
+    "prep_admissible": true,
+    "uniform_first_observation_separation": true,
+    "nominal_known_delay_feasible": [
+      false,
+      false
+    ],
+    "both_model_specific_nominal_feasible": false,
+    "common_nominal_open_loop": false,
+    "region": "identify_only"
+  },
+  {
+    "action": 0.9,
+    "prep_admissible": true,
+    "uniform_first_observation_separation": true,
+    "nominal_known_delay_feasible": [
+      false,
+      false
+    ],
+    "both_model_specific_nominal_feasible": false,
+    "common_nominal_open_loop": false,
+    "region": "identify_only"
+  },
+  {
+    "action": 0.95,
+    "prep_admissible": true,
+    "uniform_first_observation_separation": true,
+    "nominal_known_delay_feasible": [
+      false,
+      false
+    ],
+    "both_model_specific_nominal_feasible": false,
+    "common_nominal_open_loop": false,
+    "region": "identify_only"
+  },
+  {
+    "action": 1.0,
+    "prep_admissible": true,
+    "uniform_first_observation_separation": true,
+    "nominal_known_delay_feasible": [
+      false,
+      false
+    ],
+    "both_model_specific_nominal_feasible": false,
+    "common_nominal_open_loop": false,
+    "region": "identify_only"
+  },
+  {
+    "action": 1.05,
+    "prep_admissible": true,
+    "uniform_first_observation_separation": true,
+    "nominal_known_delay_feasible": [
+      false,
+      false
+    ],
+    "both_model_specific_nominal_feasible": false,
+    "common_nominal_open_loop": false,
+    "region": "identify_only"
+  },
+  {
+    "action": 1.1,
+    "prep_admissible": true,
+    "uniform_first_observation_separation": true,
+    "nominal_known_delay_feasible": [
+      false,
+      false
+    ],
+    "both_model_specific_nominal_feasible": false,
+    "common_nominal_open_loop": false,
+    "region": "identify_only"
+  },
+  {
+    "action": 1.15,
+    "prep_admissible": true,
+    "uniform_first_observation_separation": true,
+    "nominal_known_delay_feasible": [
+      false,
+      false
+    ],
+    "both_model_specific_nominal_feasible": false,
+    "common_nominal_open_loop": false,
+    "region": "identify_only"
+  },
+  {
+    "action": 1.2,
+    "prep_admissible": false,
+    "uniform_first_observation_separation": true,
+    "nominal_known_delay_feasible": [
+      false,
+      false
+    ],
+    "both_model_specific_nominal_feasible": false,
+    "common_nominal_open_loop": false,
+    "region": "prep_inadmissible"
+  },
+  {
+    "action": 1.25,
+    "prep_admissible": false,
+    "uniform_first_observation_separation": true,
+    "nominal_known_delay_feasible": [
+      false,
+      false
+    ],
+    "both_model_specific_nominal_feasible": false,
+    "common_nominal_open_loop": false,
+    "region": "prep_inadmissible"
+  },
+  {
+    "action": 1.3,
+    "prep_admissible": false,
+    "uniform_first_observation_separation": true,
+    "nominal_known_delay_feasible": [
+      false,
+      false
+    ],
+    "both_model_specific_nominal_feasible": false,
+    "common_nominal_open_loop": false,
+    "region": "prep_inadmissible"
+  },
+  {
+    "action": 1.35,
+    "prep_admissible": false,
+    "uniform_first_observation_separation": true,
+    "nominal_known_delay_feasible": [
+      false,
+      false
+    ],
+    "both_model_specific_nominal_feasible": false,
+    "common_nominal_open_loop": false,
+    "region": "prep_inadmissible"
+  },
+  {
+    "action": 1.4,
+    "prep_admissible": false,
+    "uniform_first_observation_separation": true,
+    "nominal_known_delay_feasible": [
+      false,
+      false
+    ],
+    "both_model_specific_nominal_feasible": false,
+    "common_nominal_open_loop": false,
+    "region": "prep_inadmissible"
+  },
+  {
+    "action": 1.45,
+    "prep_admissible": false,
+    "uniform_first_observation_separation": true,
+    "nominal_known_delay_feasible": [
+      false,
+      false
+    ],
+    "both_model_specific_nominal_feasible": false,
+    "common_nominal_open_loop": false,
+    "region": "prep_inadmissible"
+  },
+  {
+    "action": 1.5,
+    "prep_admissible": false,
+    "uniform_first_observation_separation": true,
+    "nominal_known_delay_feasible": [
+      false,
+      false
+    ],
+    "both_model_specific_nominal_feasible": false,
+    "common_nominal_open_loop": false,
+    "region": "prep_inadmissible"
+  },
+  {
+    "action": 1.55,
+    "prep_admissible": false,
+    "uniform_first_observation_separation": true,
+    "nominal_known_delay_feasible": [
+      false,
+      false
+    ],
+    "both_model_specific_nominal_feasible": false,
+    "common_nominal_open_loop": false,
+    "region": "prep_inadmissible"
+  },
+  {
+    "action": 1.6,
+    "prep_admissible": false,
+    "uniform_first_observation_separation": true,
+    "nominal_known_delay_feasible": [
+      false,
+      false
+    ],
+    "both_model_specific_nominal_feasible": false,
+    "common_nominal_open_loop": false,
+    "region": "prep_inadmissible"
+  },
+  {
+    "action": 1.65,
+    "prep_admissible": false,
+    "uniform_first_observation_separation": true,
+    "nominal_known_delay_feasible": [
+      false,
+      false
+    ],
+    "both_model_specific_nominal_feasible": false,
+    "common_nominal_open_loop": false,
+    "region": "prep_inadmissible"
+  },
+  {
+    "action": 1.7,
+    "prep_admissible": false,
+    "uniform_first_observation_separation": true,
+    "nominal_known_delay_feasible": [
+      false,
+      false
+    ],
+    "both_model_specific_nominal_feasible": false,
+    "common_nominal_open_loop": false,
+    "region": "prep_inadmissible"
+  },
+  {
+    "action": 1.75,
+    "prep_admissible": false,
+    "uniform_first_observation_separation": true,
+    "nominal_known_delay_feasible": [
+      false,
+      false
+    ],
+    "both_model_specific_nominal_feasible": false,
+    "common_nominal_open_loop": false,
+    "region": "prep_inadmissible"
+  },
+  {
+    "action": 1.8,
+    "prep_admissible": false,
+    "uniform_first_observation_separation": true,
+    "nominal_known_delay_feasible": [
+      false,
+      false
+    ],
+    "both_model_specific_nominal_feasible": false,
+    "common_nominal_open_loop": false,
+    "region": "prep_inadmissible"
+  },
+  {
+    "action": 1.85,
+    "prep_admissible": false,
+    "uniform_first_observation_separation": true,
+    "nominal_known_delay_feasible": [
+      false,
+      false
+    ],
+    "both_model_specific_nominal_feasible": false,
+    "common_nominal_open_loop": false,
+    "region": "prep_inadmissible"
+  },
+  {
+    "action": 1.9,
+    "prep_admissible": false,
+    "uniform_first_observation_separation": true,
+    "nominal_known_delay_feasible": [
+      false,
+      false
+    ],
+    "both_model_specific_nominal_feasible": false,
+    "common_nominal_open_loop": false,
+    "region": "prep_inadmissible"
+  },
+  {
+    "action": 1.95,
+    "prep_admissible": false,
+    "uniform_first_observation_separation": true,
+    "nominal_known_delay_feasible": [
+      false,
+      false
+    ],
+    "both_model_specific_nominal_feasible": false,
+    "common_nominal_open_loop": false,
+    "region": "prep_inadmissible"
+  },
+  {
+    "action": 2.0,
+    "prep_admissible": false,
+    "uniform_first_observation_separation": true,
+    "nominal_known_delay_feasible": [
+      false,
+      false
+    ],
+    "both_model_specific_nominal_feasible": false,
+    "common_nominal_open_loop": false,
+    "region": "prep_inadmissible"
+  }
+]

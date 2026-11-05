@@ -1,0 +1,11 @@
+{
+  "episodes_audited": 1480,
+  "transitions_audited": 7400,
+  "max_scalar_recurrence_residual": 8.673617379884035e-19,
+  "max_measurement_reconstruction_residual": 0.0,
+  "queue_continuity_and_task_start_no_reset": true,
+  "paired_disturbances_verified": true,
+  "true_delay_in_every_saved_prefix": true,
+  "all_positive_preview_probe_singletons_at_sample_1": true,
+  "summary_counts_recomputed": true
+}

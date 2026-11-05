@@ -1,0 +1,158 @@
+{
+  "date": "2026-11-04",
+  "scope": "Nearest-neighbor review; not exhaustive novelty certification",
+  "primary_sources_only": true,
+  "proofs_independently_reverified": false,
+  "algorithms_reproduced": false,
+  "search_families": [
+    "joint delay disturbance identification",
+    "input delay set membership",
+    "delay ambiguity robust output feedback",
+    "active model discrimination MPC",
+    "unobservable random delays reinforcement learning",
+    "selection conditional prediction coverage"
+  ],
+  "papers": [
+    {
+      "id": "R1",
+      "url": "https://arxiv.org/html/2611.00841v1",
+      "version_date": "2026-10-31",
+      "access": "full_text_core_sections_checked",
+      "sections": [
+        "II-A",
+        "IV-A: Theorem 2 / Eq.17",
+        "IV-B: Theorem 3",
+        "IV-C",
+        "V-B"
+      ],
+      "note": "Preprint; synthesis scope explicitly excludes ongoing disturbances after data collection."
+    },
+    {
+      "id": "R2",
+      "url": "https://static1.squarespace.com/static/5d4488dc0d24df0001719b1f/t/5d59c15afd93c4000193886c/1566163294489/CACE_2019_1.pdf",
+      "version_date": "2019",
+      "access": "full_text_core_sections_checked",
+      "sections": [
+        "3.1",
+        "3.2: Problem 1",
+        "4: online model probabilities",
+        "5: case study",
+        "6"
+      ],
+      "note": "Author-hosted journal PDF; algorithm not reproduced."
+    },
+    {
+      "id": "R3",
+      "url": "https://arxiv.org/html/2606.19590v1",
+      "version_date": "2026-06-17",
+      "access": "full_text_core_sections_checked",
+      "sections": [
+        "III: Eq.3",
+        "V-A: Eq.6",
+        "V-C/D/E",
+        "VI"
+      ],
+      "note": "Preprint; model discrimination with reachability is a strong general neighbor."
+    },
+    {
+      "id": "R4",
+      "url": "https://arxiv.org/html/2506.14411v2",
+      "version_date": "2026-07-12",
+      "access": "main_text_and_selected_appendices_checked",
+      "sections": [
+        "3.2: packets and buffer",
+        "4",
+        "5",
+        "G/H interface discussion"
+      ],
+      "note": "Hindsight delay reporting differs from pure inference from plant states/commands."
+    },
+    {
+      "id": "R5",
+      "url": "https://arxiv.org/html/1509.06542v1",
+      "version_date": "2015-09-22",
+      "access": "full_text_core_sections_checked",
+      "sections": [
+        "II-B",
+        "Theorems 1/2",
+        "III: mobile robot"
+      ],
+      "note": "Read proposed-controller conditions separately from conditions of its comparison controller."
+    },
+    {
+      "id": "R6",
+      "url": "https://publications.pvandenhof.nl/Paperfiles/Schoen-Autom92.pdf",
+      "version_date": "1992",
+      "access": "full_text_core_sections_checked",
+      "sections": [
+        "2",
+        "Theorem 4.1",
+        "5",
+        "appendix"
+      ],
+      "note": "Foundational closed-loop identifiability; not a direct finite-window disturbance-profile theorem."
+    },
+    {
+      "id": "R7",
+      "url": "https://doi.org/10.1049/cth2.12170",
+      "version_date": "2021",
+      "access": "partial_indexed_sections_only",
+      "sections": [
+        "problem model excerpt",
+        "analysis excerpt",
+        "example excerpt"
+      ],
+      "note": "Publisher HTML/PDF access failed; do not claim full-text completion."
+    },
+    {
+      "id": "R8",
+      "url": "https://doi.org/10.1016/j.conengprac.2017.03.007",
+      "version_date": "2017",
+      "access": "partial_publisher_sections_only",
+      "sections": [
+        "introduction",
+        "procedure snippet",
+        "example snippet"
+      ],
+      "note": "Full publisher body inaccessible; complete equations remain unchecked."
+    },
+    {
+      "id": "R9",
+      "url": "https://arxiv.org/html/2403.12295v2",
+      "version_date": null,
+      "access": "targeted_statistical_sections_only",
+      "sections": [
+        "definitions",
+        "exchangeability requirements",
+        "selection results"
+      ],
+      "note": "Adjacent statistics, not a delay-control baseline."
+    },
+    {
+      "id": "R10",
+      "url": "https://elib.dlr.de/215438/",
+      "version_date": "2025",
+      "access": "institutional_record_and_paper_fragments",
+      "sections": [
+        "task definition",
+        "arbitration meaning"
+      ],
+      "note": "Confidence concerns shared autonomy; not delay candidate identification."
+    }
+  ],
+  "blocked_primary_fulltexts": [
+    "R7",
+    "R8"
+  ],
+  "rejected_broad_claims": [
+    "joint estimation alone",
+    "candidate retention alone",
+    "stabilization without unique delay identification alone",
+    "active probing plus MPC alone",
+    "OLS/GLS profiling alone",
+    "pooled coverage implies conditional reliability"
+  ],
+  "provisional_direction": "Task-driven control under delay ambiguity and time-varying disturbances",
+  "originality_confirmed": false,
+  "historical_experiments_modified": false
+}

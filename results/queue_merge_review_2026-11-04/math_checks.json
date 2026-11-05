@@ -1,0 +1,84 @@
+{
+  "checks": [
+    {
+      "name": "empty_old_queue_does_not_remove_unknown_delay",
+      "first_next_states": [
+        "1",
+        "0"
+      ],
+      "passed": true
+    },
+    {
+      "name": "terminal_signature_omits_path_constraints",
+      "paths": [
+        [
+          "1",
+          "0"
+        ],
+        [
+          "0",
+          "0"
+        ]
+      ],
+      "passed": true
+    },
+    {
+      "name": "small_distance_without_margin_condition_does_not_preserve_feasibility",
+      "examples": [
+        {
+          "epsilon": "1/4",
+          "state_radius": "1/32",
+          "noise_bound": "1/32",
+          "disturbance_bound": "1/32",
+          "goal_tolerance": "1/8",
+          "separate_policy_margin": "1/16",
+          "action_interval_gap": "3/8"
+        },
+        {
+          "epsilon": "1/100",
+          "state_radius": "1/800",
+          "noise_bound": "1/800",
+          "disturbance_bound": "1/800",
+          "goal_tolerance": "1/200",
+          "separate_policy_margin": "1/400",
+          "action_interval_gap": "3/200"
+        },
+        {
+          "epsilon": "1/10000",
+          "state_radius": "1/80000",
+          "noise_bound": "1/80000",
+          "disturbance_bound": "1/80000",
+          "goal_tolerance": "1/20000",
+          "separate_policy_margin": "1/40000",
+          "action_interval_gap": "3/20000"
+        }
+      ],
+      "passed": true,
+      "scope": "Family of problems with shrinking tolerance; not a discontinuity claim for fixed positive tolerance and uniform Slater margin."
+    },
+    {
+      "name": "full_path_queue_signature_has_no_linear_dimension_reduction",
+      "dimensions": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "determinant": "1",
+      "passed": true,
+      "scope": "Known-delay scalar integrator across distinct histories; not a lower bound for arbitrary encodings or actual speedup."
+    },
+    {
+      "name": "standard_box_row_tightening",
+      "support": "71/105",
+      "passed": true
+    }
+  ],
+  "passed": 5,
+  "new_theorem_claim": false,
+  "source_sha256": "5f9971324303fc705205adcfa8e980d9421258af3dca6c1a03ae7cbaeb39cdaf"
+}

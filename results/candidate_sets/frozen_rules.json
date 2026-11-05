@@ -1,0 +1,11 @@
+{
+  "thresholds": {
+    "ols": 0.4388108420974177,
+    "gls": 5.250639552115246,
+    "geometry": 5.807705843707737
+  },
+  "target": 0.95,
+  "source_sha256": "a0edb730b4126f409d7260090f36977bc0002167f4f63902bb461b30a3d38b70",
+  "manifest_sha256": "7feafd9784d007e38733a64b2aba20310f704954352bbf0d4f9f71a440470c81",
+  "note": "Empirical development-window coverage, not guaranteed conditional or trajectory coverage."
+}

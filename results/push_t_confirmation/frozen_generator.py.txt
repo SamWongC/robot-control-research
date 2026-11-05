@@ -1,0 +1,30 @@
+def freeze():
+    OUT.mkdir(parents=True,exist_ok=True)
+    if (OUT/'fixture.npz').exists(): raise RuntimeError('Refuse overwrite frozen experiment')
+    rng=np.random.default_rng(2026110403); qs=[]; us=[]; gs=[]; labels=[]
+    for split in ['confirmation']:
+      for family in ['grazing','reversal','near_duplicate','fast_corner']:
+       for rep in range(64):
+        theta=rng.uniform(-np.pi,np.pi); c,s=np.cos(theta),np.sin(theta); R=np.array([[c,-s],[s,c]])
+        origin=rng.uniform(-.03,.03,2)
+        local=({'grazing':[-.078,.071],'reversal':[0,-.088],'near_duplicate':[-.078,.055],'fast_corner':[.077,.073]})[family]
+        p=origin+R@(np.array(local)+rng.uniform(-.001,.001,2))
+        q=np.r_[origin,theta,p]; target=origin+R@np.array([0,.025]); angle=np.arctan2(*(target-p)[::-1])
+        u=np.zeros((64,20,2))
+        for i in range(1,64):
+          a=angle+rng.normal(0,1.2,5); speed=rng.uniform(.08,.24,5)
+          if family=='reversal': a[2:]+=np.pi
+          if family=='grazing': a+=rng.choice([-1,1])*.8
+          if family=='fast_corner':speed[:]=rng.uniform(.20,.245,5)
+          knots=np.c_[np.cos(a),np.sin(a)]*speed[:,None]
+          for j in range(2):u[i,:,j]=np.interp(np.linspace(0,4,20),np.arange(5),knots[:,j])
+        if family=='near_duplicate':
+          # Eight clusters of close actions: rank crowding, selected without reference costs.
+          seeds=u[1:9].copy()
+          u=np.repeat(seeds,8,axis=0)+rng.normal(0,.006,(64,20,2));u=np.clip(u,-.245,.245)
+        goal=np.r_[origin+R@rng.uniform([-.09,-.09],[.12,.12]),theta+rng.uniform(-1.2,1.2)]
+        qs.append(q);us.append(u);gs.append(goal);labels.append(dict(split=split,family=family,repeat=rep))
+    np.savez_compressed(OUT/'fixture.npz',qpos=qs,controls=us,goals=gs)
+    dump('protocol.json',dict(seed=2026110403,labels=labels,base_source_sha256=base.sha(base.__file__),source_sha256=base.sha(__file__),fixture_sha256=base.sha(OUT/'fixture.npz'),
+      detector='margin threshold calibrated on development misses only; medium winner outside coarse top8; no test tuning',
+      meaningful_regret=1e-4,steps=[.01,.005,.0025,.00125],scope='Same simplified model; independent states/actions; no obstacles or hardware'))

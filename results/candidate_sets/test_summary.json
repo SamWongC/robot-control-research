@@ -1,0 +1,62 @@
+[
+  {
+    "method": "all",
+    "coverage": 1.0,
+    "mean_size": 9.0,
+    "singleton_fraction": 0.0,
+    "singleton_accuracy": null,
+    "worst_replay_coverage": 1.0,
+    "replays": 480,
+    "worst_signal_disturbance_noise_coverage": 1.0
+  },
+  {
+    "method": "point_ols",
+    "coverage": 0.43385416666666665,
+    "mean_size": 1.0,
+    "singleton_fraction": 1.0,
+    "singleton_accuracy": 0.43385416666666665,
+    "worst_replay_coverage": 0.0,
+    "replays": 480,
+    "worst_signal_disturbance_noise_coverage": 0.0
+  },
+  {
+    "method": "point_gls",
+    "coverage": 0.43951388888888887,
+    "mean_size": 1.0,
+    "singleton_fraction": 1.0,
+    "singleton_accuracy": 0.43951388888888887,
+    "worst_replay_coverage": 0.0,
+    "replays": 480,
+    "worst_signal_disturbance_noise_coverage": 0.0
+  },
+  {
+    "method": "set_ols",
+    "coverage": 0.9633402777777779,
+    "mean_size": 5.173868055555556,
+    "singleton_fraction": 0.34052083333333333,
+    "singleton_accuracy": 0.9123687162231059,
+    "worst_replay_coverage": 0.7466666666666667,
+    "replays": 480,
+    "worst_signal_disturbance_noise_coverage": 0.7773333333333333
+  },
+  {
+    "method": "set_gls",
+    "coverage": 0.9662152777777777,
+    "mean_size": 5.1929791666666665,
+    "singleton_fraction": 0.33695833333333336,
+    "singleton_accuracy": 0.9097316681093113,
+    "worst_replay_coverage": 0.6166666666666667,
+    "replays": 480,
+    "worst_signal_disturbance_noise_coverage": 0.6555555555555554
+  },
+  {
+    "method": "geometry_abstain",
+    "coverage": 0.9513055555555555,
+    "mean_size": 5.826666666666667,
+    "singleton_fraction": 0.39666666666666667,
+    "singleton_accuracy": 0.8772408963585434,
+    "worst_replay_coverage": 0.56,
+    "replays": 480,
+    "worst_signal_disturbance_noise_coverage": 0.6064444444444445
+  }
+]

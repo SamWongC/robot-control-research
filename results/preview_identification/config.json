@@ -1,0 +1,40 @@
+{
+  "previews_steps": [
+    0,
+    1,
+    2,
+    4,
+    8
+  ],
+  "modes": [
+    "hold_passive",
+    "task_only",
+    "probe",
+    "oracle"
+  ],
+  "target": [
+    0.002,
+    0.08
+  ],
+  "prep_state_bounds": [
+    0.01,
+    0.06
+  ],
+  "probe_amplitude": 0.1,
+  "seed": 20261104,
+  "random_cases": 32,
+  "dt": 0.05,
+  "disturbance_amplitude": 0.02,
+  "disturbance_increment_bound": 0.01,
+  "noise_bounds": [
+    1e-05,
+    0.0001
+  ],
+  "terminal_tolerances": [
+    0.0002,
+    0.003
+  ],
+  "input_bound": 2.0,
+  "source_sha256": "d67eb0f7f5cf3804e001b88084a89ab420fddae0e0329cbb857bd634d1b54839",
+  "dependency_sha256": "8c6346153bb6f6625636c0c20ca8565062db88b63b2d2817f1ee12e92f69a247"
+}

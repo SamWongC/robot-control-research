@@ -1,0 +1,67 @@
+{
+  "batch": 8,
+  "candidate": 1,
+  "timers": {
+    "mjTIMER_STEP": {
+      "seconds": 0.0030881997663527727,
+      "calls": 400
+    },
+    "mjTIMER_FORWARD": {
+      "seconds": 0.002758899354375899,
+      "calls": 400
+    },
+    "mjTIMER_INVERSE": {
+      "seconds": 0.0,
+      "calls": 0
+    },
+    "mjTIMER_POSITION": {
+      "seconds": 0.0017880997620522976,
+      "calls": 400
+    },
+    "mjTIMER_VELOCITY": {
+      "seconds": 0.00015380047261714935,
+      "calls": 400
+    },
+    "mjTIMER_ACTUATION": {
+      "seconds": 7.819989696145058e-05,
+      "calls": 400
+    },
+    "mjTIMER_CONSTRAINT": {
+      "seconds": 0.0004312999080866575,
+      "calls": 400
+    },
+    "mjTIMER_ADVANCE": {
+      "seconds": 0.00013160007074475288,
+      "calls": 400
+    },
+    "mjTIMER_POS_KINEMATICS": {
+      "seconds": 0.00020220025908201933,
+      "calls": 400
+    },
+    "mjTIMER_POS_INERTIA": {
+      "seconds": 0.0001301004085689783,
+      "calls": 400
+    },
+    "mjTIMER_POS_COLLISION": {
+      "seconds": 0.0007210003677755594,
+      "calls": 400
+    },
+    "mjTIMER_POS_MAKE": {
+      "seconds": 0.0002917991951107979,
+      "calls": 400
+    },
+    "mjTIMER_POS_PROJECT": {
+      "seconds": 4.9499678425490856e-05,
+      "calls": 400
+    },
+    "mjTIMER_COL_BROAD": {
+      "seconds": 0.0001468001864850521,
+      "calls": 400
+    },
+    "mjTIMER_COL_NARROW": {
+      "seconds": 0.0004238004330545664,
+      "calls": 400
+    }
+  },
+  "scope": "Instrumented single trajectory, timers overlap; callback perturbs runtime. Not aggregate benchmark shares."
+}

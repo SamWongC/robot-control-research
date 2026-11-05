@@ -1,0 +1,352 @@
+[
+  {
+    "config": "original",
+    "dt": 0.01,
+    "winner": 3,
+    "cost5": 4.4898033905276815,
+    "cost37": 7.817268500005058,
+    "cost5_minus37": -3.3274651094773766,
+    "original_top32_set_loss": 0.0,
+    "elapsed_seconds": 0.003616499947384
+  },
+  {
+    "config": "original",
+    "dt": 0.0025,
+    "winner": 5,
+    "cost5": 4.443872676926101,
+    "cost37": 7.735171716064436,
+    "cost5_minus37": -3.2912990391383357,
+    "original_top32_set_loss": 0.0,
+    "elapsed_seconds": 0.012091599986888468
+  },
+  {
+    "config": "original",
+    "dt": 0.000625,
+    "winner": 37,
+    "cost5": 4.4399473192491605,
+    "cost37": 3.3843048078033178,
+    "cost5_minus37": 1.0556425114458428,
+    "original_top32_set_loss": 1.0556425114458428,
+    "elapsed_seconds": 0.0524061000905931
+  },
+  {
+    "config": "original",
+    "dt": 0.0003125,
+    "winner": 37,
+    "cost5": 4.435357902284383,
+    "cost37": 3.3841732014485544,
+    "cost5_minus37": 1.0511847008358286,
+    "original_top32_set_loss": 1.0511847008358286,
+    "elapsed_seconds": 0.0950574999442324
+  },
+  {
+    "config": "original",
+    "dt": 0.00015625,
+    "winner": 37,
+    "cost5": 4.433776908511463,
+    "cost37": 3.3840869460320087,
+    "cost5_minus37": 1.0496899624794547,
+    "original_top32_set_loss": 1.0496899624794547,
+    "elapsed_seconds": 0.18888219993095845
+  },
+  {
+    "config": "original",
+    "dt": 7.8125e-05,
+    "winner": 37,
+    "cost5": 4.434908802069259,
+    "cost37": 3.384048306954734,
+    "cost5_minus37": 1.050860495114525,
+    "original_top32_set_loss": 1.050860495114525,
+    "elapsed_seconds": 0.3753976000007242
+  },
+  {
+    "config": "original",
+    "dt": 3.90625e-05,
+    "winner": 37,
+    "cost5": 4.432698030110669,
+    "cost37": 3.3840177366367525,
+    "cost5_minus37": 1.0486802934739163,
+    "original_top32_set_loss": 1.0486802934739163,
+    "elapsed_seconds": 0.7685808999231085
+  },
+  {
+    "config": "tight_cold",
+    "dt": 0.01,
+    "winner": 3,
+    "cost5": 4.4898033905276815,
+    "cost37": 7.817268500005058,
+    "cost5_minus37": -3.3274651094773766,
+    "original_top32_set_loss": 0.0,
+    "elapsed_seconds": 0.00882610003463924
+  },
+  {
+    "config": "tight_cold",
+    "dt": 0.0025,
+    "winner": 5,
+    "cost5": 4.443872676926101,
+    "cost37": 7.72292059565655,
+    "cost5_minus37": -3.2790479187304493,
+    "original_top32_set_loss": 0.0,
+    "elapsed_seconds": 0.012213399983011186
+  },
+  {
+    "config": "tight_cold",
+    "dt": 0.000625,
+    "winner": 37,
+    "cost5": 4.4399473192491605,
+    "cost37": 3.384304807803579,
+    "cost5_minus37": 1.0556425114455816,
+    "original_top32_set_loss": 1.0556425114455816,
+    "elapsed_seconds": 0.04826589999720454
+  },
+  {
+    "config": "tight_cold",
+    "dt": 0.0003125,
+    "winner": 37,
+    "cost5": 4.435357902284383,
+    "cost37": 3.384173201448813,
+    "cost5_minus37": 1.0511847008355701,
+    "original_top32_set_loss": 1.0511847008355701,
+    "elapsed_seconds": 0.0969184999121353
+  },
+  {
+    "config": "tight_cold",
+    "dt": 0.00015625,
+    "winner": 37,
+    "cost5": 4.433776908511463,
+    "cost37": 3.384086946032266,
+    "cost5_minus37": 1.0496899624791975,
+    "original_top32_set_loss": 1.0496899624791975,
+    "elapsed_seconds": 0.19816519995220006
+  },
+  {
+    "config": "tight_cold",
+    "dt": 7.8125e-05,
+    "winner": 37,
+    "cost5": 4.434908802069259,
+    "cost37": 3.3840483080511143,
+    "cost5_minus37": 1.0508604940181447,
+    "original_top32_set_loss": 1.0508604940181447,
+    "elapsed_seconds": 0.3959197000367567
+  },
+  {
+    "config": "tight_cold",
+    "dt": 3.90625e-05,
+    "winner": 37,
+    "cost5": 4.432698030110669,
+    "cost37": 3.3840177372379867,
+    "cost5_minus37": 1.0486802928726822,
+    "original_top32_set_loss": 1.0486802928726822,
+    "elapsed_seconds": 0.7648044000379741
+  },
+  {
+    "config": "warm",
+    "dt": 0.01,
+    "winner": 7,
+    "cost5": 4.497727178538646,
+    "cost37": 7.875417174648502,
+    "cost5_minus37": -3.377689996109856,
+    "original_top32_set_loss": 0.0,
+    "elapsed_seconds": 0.0087042999221012
+  },
+  {
+    "config": "warm",
+    "dt": 0.0025,
+    "winner": 5,
+    "cost5": 4.435425026632993,
+    "cost37": 7.7665228563637605,
+    "cost5_minus37": -3.3310978297307674,
+    "original_top32_set_loss": 0.0,
+    "elapsed_seconds": 0.013613499933853745
+  },
+  {
+    "config": "warm",
+    "dt": 0.000625,
+    "winner": 37,
+    "cost5": 4.437973042310348,
+    "cost37": 3.384303989927529,
+    "cost5_minus37": 1.0536690523828187,
+    "original_top32_set_loss": 1.0536690523828187,
+    "elapsed_seconds": 0.04842750006355345
+  },
+  {
+    "config": "warm",
+    "dt": 0.0003125,
+    "winner": 37,
+    "cost5": 4.435663120870672,
+    "cost37": 3.3841732014485557,
+    "cost5_minus37": 1.051489919422116,
+    "original_top32_set_loss": 1.051489919422116,
+    "elapsed_seconds": 0.09528559993486851
+  },
+  {
+    "config": "warm",
+    "dt": 0.00015625,
+    "winner": 37,
+    "cost5": 4.43387763627878,
+    "cost37": 3.384085449015205,
+    "cost5_minus37": 1.049792187263575,
+    "original_top32_set_loss": 1.049792187263575,
+    "elapsed_seconds": 0.19031759991776198
+  },
+  {
+    "config": "warm",
+    "dt": 7.8125e-05,
+    "winner": 37,
+    "cost5": 4.4337390410619095,
+    "cost37": 3.3840399954001694,
+    "cost5_minus37": 1.04969904566174,
+    "original_top32_set_loss": 1.04969904566174,
+    "elapsed_seconds": 0.381503599928692
+  },
+  {
+    "config": "warm",
+    "dt": 3.90625e-05,
+    "winner": 37,
+    "cost5": 4.4340807636174615,
+    "cost37": 3.3840153808417783,
+    "cost5_minus37": 1.0500653827756832,
+    "original_top32_set_loss": 1.0500653827756832,
+    "elapsed_seconds": 0.7642972999019548
+  },
+  {
+    "config": "tight_warm",
+    "dt": 0.01,
+    "winner": 7,
+    "cost5": 4.497727178538646,
+    "cost37": 7.875417174648502,
+    "cost5_minus37": -3.377689996109856,
+    "original_top32_set_loss": 0.0,
+    "elapsed_seconds": 0.009188500000163913
+  },
+  {
+    "config": "tight_warm",
+    "dt": 0.0025,
+    "winner": 5,
+    "cost5": 4.438444526669655,
+    "cost37": 7.7737112976399825,
+    "cost5_minus37": -3.3352667709703274,
+    "original_top32_set_loss": 0.0,
+    "elapsed_seconds": 0.012622999958693981
+  },
+  {
+    "config": "tight_warm",
+    "dt": 0.000625,
+    "winner": 37,
+    "cost5": 4.437973042310348,
+    "cost37": 3.3843039899277896,
+    "cost5_minus37": 1.053669052382558,
+    "original_top32_set_loss": 1.053669052382558,
+    "elapsed_seconds": 0.048427100060507655
+  },
+  {
+    "config": "tight_warm",
+    "dt": 0.0003125,
+    "winner": 37,
+    "cost5": 4.432279672177037,
+    "cost37": 3.3841732014488133,
+    "cost5_minus37": 1.0481064707282237,
+    "original_top32_set_loss": 1.0481064707282237,
+    "elapsed_seconds": 0.09580750006716698
+  },
+  {
+    "config": "tight_warm",
+    "dt": 0.00015625,
+    "winner": 37,
+    "cost5": 4.434697949473234,
+    "cost37": 3.384085449015462,
+    "cost5_minus37": 1.0506125004577722,
+    "original_top32_set_loss": 1.0506125004577722,
+    "elapsed_seconds": 0.18929740006569773
+  },
+  {
+    "config": "tight_warm",
+    "dt": 7.8125e-05,
+    "winner": 37,
+    "cost5": 4.43373904106191,
+    "cost37": 3.384039995400417,
+    "cost5_minus37": 1.0496990456614936,
+    "original_top32_set_loss": 1.0496990456614936,
+    "elapsed_seconds": 0.3815247999737039
+  },
+  {
+    "config": "tight_warm",
+    "dt": 3.90625e-05,
+    "winner": 37,
+    "cost5": 4.434017712266297,
+    "cost37": 3.3840153808420137,
+    "cost5_minus37": 1.0500023314242837,
+    "original_top32_set_loss": 1.0500023314242837,
+    "elapsed_seconds": 0.7689723999937996
+  },
+  {
+    "config": "cg_tight",
+    "dt": 0.01,
+    "winner": 7,
+    "cost5": 4.491799132418965,
+    "cost37": 7.908337815130328,
+    "cost5_minus37": -3.416538682711363,
+    "original_top32_set_loss": 0.0,
+    "elapsed_seconds": 0.009690399980172515
+  },
+  {
+    "config": "cg_tight",
+    "dt": 0.0025,
+    "winner": 5,
+    "cost5": 4.434436976293734,
+    "cost37": 7.781633740996087,
+    "cost5_minus37": -3.3471967647023533,
+    "original_top32_set_loss": 0.0,
+    "elapsed_seconds": 0.013839000021107495
+  },
+  {
+    "config": "cg_tight",
+    "dt": 0.000625,
+    "winner": 37,
+    "cost5": 4.435219817760906,
+    "cost37": 3.3842939155944127,
+    "cost5_minus37": 1.0509259021664934,
+    "original_top32_set_loss": 1.0509259021664934,
+    "elapsed_seconds": 0.04943270003423095
+  },
+  {
+    "config": "cg_tight",
+    "dt": 0.0003125,
+    "winner": 37,
+    "cost5": 4.4333571578875945,
+    "cost37": 3.384175204864326,
+    "cost5_minus37": 1.0491819530232687,
+    "original_top32_set_loss": 1.0491819530232687,
+    "elapsed_seconds": 0.09986329998355359
+  },
+  {
+    "config": "cg_tight",
+    "dt": 0.00015625,
+    "winner": 37,
+    "cost5": 4.4327629130643285,
+    "cost37": 3.3840740665680147,
+    "cost5_minus37": 1.0486888464963138,
+    "original_top32_set_loss": 1.0486888464963138,
+    "elapsed_seconds": 0.20706280006561428
+  },
+  {
+    "config": "cg_tight",
+    "dt": 7.8125e-05,
+    "winner": 37,
+    "cost5": 4.434539585775944,
+    "cost37": 3.384033595337852,
+    "cost5_minus37": 1.0505059904380922,
+    "original_top32_set_loss": 1.0505059904380922,
+    "elapsed_seconds": 0.3884814999764785
+  },
+  {
+    "config": "cg_tight",
+    "dt": 3.90625e-05,
+    "winner": 37,
+    "cost5": 4.4325843888346315,
+    "cost37": 3.3840214698210564,
+    "cost5_minus37": 1.048562919013575,
+    "original_top32_set_loss": 1.048562919013575,
+    "elapsed_seconds": 0.7685900999931619
+  }
+]
