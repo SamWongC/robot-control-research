@@ -4,7 +4,7 @@
 
 An independent research archive by Lufei Wang ([SamWongC](https://github.com/SamWongC)), exploring delayed control, model ambiguity, and numerical fidelity in contact-based planning. Includes Python implementations, frozen synthetic inputs, raw results, bilingual reports, and numerical checks—including methods that did **not** improve the baselines.
 
-**Status:** exploratory research, not an accepted paper or a demonstrated novel algorithm. The original local folder was named `RA-L`; that was an aspiration, not a publication status. This is not an official RWTH or Robot Companion project.
+**Status:** exploratory research, not an accepted paper or a demonstrated novel algorithm. The original local folder was named `RA-L`; that was an aspiration, not a publication status.
 
 ## Research questions
 
